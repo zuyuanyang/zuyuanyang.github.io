@@ -27,7 +27,7 @@ body {
 
 /* Site name */
 .site-name {
-  text-align:center;
+  text-align:left;
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
