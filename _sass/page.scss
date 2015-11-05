@@ -48,6 +48,7 @@ body {
 
 /* Top navigation links */
 .top-navigation {
+  margin-top:-60px;
   text-align:right;
 	@include grid(12,10);
 	@include prefix(12,1);
