@@ -31,7 +31,7 @@ div.bibtex {
   margin-bottom: 1.3em;
   border: 1px solid silver;
   padding: 0.3em 0.5em;
-  background: #ffffee;
+  background: #eeeeee;
 }
 div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; }
 </style>
