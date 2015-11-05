@@ -23,6 +23,9 @@ We implemented these algorithms in our templated C++ library **HyperTensor**, wh
 ### Graph and Hypergraph Algorithms
 
 ![Smithsonian Image]({{ site.url }}/images/hp.png){: .image-pull-right .image-inside}
+Graph and hypergraph algorithms and tools are extensively used in combinatorial scientific computing to accelerate computational methods in many different ways. 
+
+
 Tensor factorizations are widely used in the literature to model, approximate, and compress high dimensional data for which low-rank assumptions hold.
 Many high dimensional real-world data can naturally be expressed as a sparse tensor; thereby can be analyzed using tensor factorization.
 
