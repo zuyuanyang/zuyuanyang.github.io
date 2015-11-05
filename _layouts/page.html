@@ -46,6 +46,11 @@
     {% if site.owner.disqus-shortname and page.comments == true %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
     {% endif %}
+    <footer role="contentinfo">
+      <div class="article-author-bottom">
+        {% include _author-bio.html %}
+      </div>
+    </footer>
   </article>
 </div><!-- /#index -->
 
