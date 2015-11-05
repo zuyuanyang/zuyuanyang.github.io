@@ -11,7 +11,7 @@ share: false
 ##  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-<embed width="%100" height="380" src="../docs/oguzkaya.pdf" type="application/pdf">
+<embed width="%100" height="380" src="../docs/oguzkaya.pdf" type="application/pdf"/>
 
 <br/>
 
