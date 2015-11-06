@@ -423,6 +423,13 @@ $button-size: 1.5rem;
 	}
 }
 
+.cvbox {
+  display: none;
+	@media #{$small} {
+    display: block;
+	}
+}
+
 /* Author module - mobile only */
 .article-author-bottom {
 	margin-bottom: 1em;
