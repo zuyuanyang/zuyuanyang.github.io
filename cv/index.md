@@ -14,4 +14,5 @@ share: false
 <p style="text-indent:0">You can download my full CV in PDF format <a href="../docs/oguzkaya.pdf" target="_blank">here</a>.</p>
 
 <object width="100%" height="100px" data="../docs/oguzkaya.pdf" type="application/pdf">
+<p> </p>
 </object>
