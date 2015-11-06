@@ -11,7 +11,9 @@ share: false
 ##  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-<embed width="%100" height="320" class="cvbox" src="../docs/oguzkaya.pdf" type="application/pdf"/>
+<object width="100%" height="100px" data="../docs/oguzkaya.pdf" type="application/pdf">
+<p> asdfsadf </p>
+</object>
 
 <br/>
 
