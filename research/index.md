@@ -29,4 +29,4 @@ For instance, in our recent work, we introduced the problem of covering or parti
 Using these heuristics, we performed graph-to-hypergraph transformations over the adjacency graph of a matrix using quasi-clique cover, then executed a particular hypergraph partitioning algorithm to better minimize the fill-in in sparse linear systems.
 
 I investigate graph and hypergraph models of numerical methods to capture their computation, communication, and memory costs; then benefit from the existing graph or hypergraph partitioning software to improve their performance.
-In our recent work, using the hypergraph partitioning models of parallel tensor factorization, we were able to reduce the communication volume by 20x and achieve 5x more parallel speedup, only by rearranging the data/task assignments of computational kernels we implemented.
+In our recent work, using the hypergraph partitioning models of parallel tensor factorization, we were able to reduce the communication volume by 20x and achieve 5x more parallel speedup, only by rearranging the data/task assignments of the computational kernels we implemented.
