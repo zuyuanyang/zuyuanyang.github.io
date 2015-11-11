@@ -13,4 +13,6 @@ share: false
 
 <p style="text-indent:0">You can download my full CV in PDF format <a href="../docs/oguzkaya.pdf" target="_blank">here</a>.</p>
 
-<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/289372388/content?start_page=1&view_mode=scroll&access_key=key-IPPhJO0GJi9fImRVQzON&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.772922022279349" scrolling="no" width="100%" height="800" frameborder="0"></iframe>
+<object width="100%" height="100px" data="../docs/oguzkaya.pdf" type="application/pdf">
+<p style="text-indent:0"></p>
+</object>
