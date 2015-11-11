@@ -18,7 +18,7 @@ $alt-font: $base-font;
    Colors
    ========================================================================== */
 
-$bodycolor      : #fff;
+$bodycolor      : #f0f0f0;
 $body-color     : $bodycolor;
 $textcolor      : #333332;
 $text-color     : $textcolor;
@@ -54,9 +54,9 @@ $youtube-color      : #ff3333;
 /* links */
 $linkcolor 		    : #000000;
 $link-color       : $linkcolor;
-$linkcolorhover 	: #800000;
+$linkcolorhover 	: #B00000;
 $linkcolorvisited : lighten($linkcolor, 0);
-$linkcolorfocus 	: lighten($linkcolorhover, 30);
+$linkcolorfocus 	: lighten($linkcolorhover, 20);
 
 /*
    Breakpoints
