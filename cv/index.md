@@ -11,7 +11,7 @@ share: false
 ##  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-<p style="text-indent:0">You can download my full CV in PDF format <a href="../docs/oguzkaya.pdf" target="_blank">here</a>.</p>
+<p style="text-indent:0">You can download my full CV in PDF format <a href="../docs/oguzkaya.pdf" class="textlink" target="_blank">here</a>.</p>
 
 <object width="100%" height="100px" data="../docs/oguzkaya.pdf" type="application/pdf">
 <p style="text-indent:0"></p>
