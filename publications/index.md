@@ -59,9 +59,9 @@ pp. 77:1-77:11,
 2015.
 
 <br />
-<a href="javascript:toggleBibtex('kauc:15')">[BibTeX]</a>
+<a href="javascript:toggleBibtex('kauc:15')" class="textlink">[BibTeX]</a>
 
-<a href="http://dl.acm.org/citation.cfm?id=2807624" target="_blank"> [URL]</a><a href="https://hal.inria.fr/hal-01148202/document" target="_blank">[TR]</a>  
+<a href="http://dl.acm.org/citation.cfm?id=2807624" class="textlink" target="_blank"> [URL]</a><a href="https://hal.inria.fr/hal-01148202/document" class="textlink" target="_blank">[TR]</a>  
 </p>
 <div id="bib_kauc:15" class="bibtex noshow">
 <pre>
@@ -89,9 +89,9 @@ pp. 1393-1401,
 2013.
 
 <br />
-<a href="javascript:toggleBibtex('segm+:13')">[BibTeX]</a>
+<a href="javascript:toggleBibtex('segm+:13')" class="textlink">[BibTeX]</a>
 
-<a href="http://dl.acm.org/citation.cfm?id=2488213" target="_blank">[URL]</a> 
+<a href="http://dl.acm.org/citation.cfm?id=2488213" class="textlink" target="_blank">[URL]</a> 
 </p>
 <div id="bib_segm+:13" class="bibtex noshow">
 <pre>
@@ -119,9 +119,9 @@ pp. 2049-2052,
 2011.
 
 <br />
-<a href="javascript:toggleBibtex('vaca+:11')">[BibTeX]</a>
+<a href="javascript:toggleBibtex('vaca+:11')" class="textlink">[BibTeX]</a>
 
-<a href="http://dl.acm.org/citation.cfm?id=2807624" target="_blank">[URL]</a> 
+<a href="http://dl.acm.org/citation.cfm?id=2807624" class="textlink" target="_blank">[URL]</a> 
 </p>
 <div id="bib_vaca+:11" class="bibtex noshow">
 <pre>
@@ -153,9 +153,9 @@ Oct
 
 
 <br />
-<a href="javascript:toggleBibtex('kauc:15-2tr')">[BibTeX]</a>
+<a href="javascript:toggleBibtex('kauc:15-2tr')" class="textlink">[BibTeX]</a>
 
-<a href="https://hal.inria.fr/hal-01219316/document" target="_blank">[URL]</a> 
+<a href="https://hal.inria.fr/hal-01219316/document" class="textlink" target="_blank">[URL]</a> 
 </p>
 <div id="bib_kauc:15-2tr" class="bibtex noshow">
 <pre>
@@ -180,9 +180,9 @@ January
 
 
 <br />
-<a href="javascript:toggleBibtex('kaku+:14tr')">[BibTeX]</a>
+<a href="javascript:toggleBibtex('kaku+:14tr')" class="textlink">[BibTeX]</a>
 
-<a href="https://hal.inria.fr/hal-00932882/file/RR-8448.pdf" target="_blank">[URL]</a> 
+<a href="https://hal.inria.fr/hal-00932882/file/RR-8448.pdf" class="textlink" target="_blank">[URL]</a> 
 </p>
 <div id="bib_kaku+:14tr" class="bibtex noshow">
 <pre>
@@ -207,9 +207,9 @@ February
 
 
 <br />
-<a href="javascript:toggleBibtex('kaku:13tr')">[BibTeX]</a>
+<a href="javascript:toggleBibtex('kaku:13tr')" class="textlink">[BibTeX]</a>
 
-<a href="https://hal.inria.fr/hal-00795429/file/RR-8255.pdf" target="_blank">[URL]</a> 
+<a href="https://hal.inria.fr/hal-00795429/file/RR-8255.pdf" class="textlink" target="_blank">[URL]</a> 
 </p>
 <div id="bib_kaku:13tr" class="bibtex noshow">
 <pre>

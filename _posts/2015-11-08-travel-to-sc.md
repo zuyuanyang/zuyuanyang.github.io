@@ -15,7 +15,7 @@ Indeed, introducing hybrid parallelism is an effective way of improving the para
 However, immediately after trying to employ this, I started to realize how difficult, and at times impractical, it could get to provide an efficient OpenMP parallelism to every single operation you do.
 
 We already have a very effective hybrid parallelism for Tucker factorization, which gave us up to **700x** speedup over 2048 cores using 256 MPI ranks on real-world sparse tensors.
-From a developer's perspective, a pure-MPI implementation using the advanced features is much more preferable to a hybrid parallelization approach; since, as also discussed by the *PETSc* team <a href="http://www.mcs.anl.gov/petsc/miscellaneous/petscthreads.html" target="_blank">here</a>, it provides a significantly simpler programming model, and is easier to develop, maintain, test, and even optimize than the hybrid approach.
+From a developer's perspective, a pure-MPI implementation using the advanced features is much more preferable to a hybrid parallelization approach; since, as also discussed by the *PETSc* team <a href="http://www.mcs.anl.gov/petsc/miscellaneous/petscthreads.html" class="textlink" target="_blank">here</a>, it provides a significantly simpler programming model, and is easier to develop, maintain, test, and even optimize than the hybrid approach.
 However, I would like to wait and see how the performance of these two approaches compare at the end of the day.
 I have my sincere hopes that pure-MPI 'magically' prevails, and I keep my fingers crossed on this.
 
