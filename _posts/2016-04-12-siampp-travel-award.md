@@ -1,14 +1,14 @@
 ---
 layout: post
-title: SIAM Travel Award and SIAM PP16
+title: SIAM Travel Award and SIAM PP'16
 modified:
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 ---
 
 I have recently received the wonderful news that I have been granted the **SIAM Travel Award** for participating at the
-**SIAM Conference on Parallel Processing for Scientific Computing (SIAM PP16)** in Paris, and presenting my work on
-parallel sparse Tucker tensor decompositions. 
+**SIAM Conference on Parallel Processing for Scientific Computing (SIAM PP'16)** in Paris, and presenting my work on
+**parallel sparse Tucker tensor decompositions**. 
 In addition, there will be numerous presentations involving parallelization issues in various problem domains, and I
 will have the chance to attend some of these interesting talks. 
 My talk will specifically be at the **Salle des Theses** on **April 14, Thursday** at **2:40PM**.
