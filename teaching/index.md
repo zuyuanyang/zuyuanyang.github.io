@@ -21,3 +21,8 @@ image:
 ##### MPI cheatsheet: <a href="appd-fall-2016/tp1/mpi-cheatsheet.pdf" class="textlink" target="_blank">mpi-cheatsheet.pdf</a>
 
 ##### Introduction to MPI: <a href="appd-fall-2016/tp1/mpi-presentation.pdf" class="textlink" target="_blank">mpi-presentation.pdf</a>
+
+
+### Archi
+
+##### TP4: <a href="archi-fall-2016/tp4.jar" class="textlink" target="_blank">tp4.jar</a>
