@@ -25,4 +25,4 @@ image:
 
 ### Archi
 
-##### TP4: <a href="archi-fall-2016/tp4.jar" class="textlink" target="_blank">tp4.jar</a>
+##### TP4: <a href="archi-fall-2016/tp4.zip" class="textlink" target="_blank">tp4.zip</a>
