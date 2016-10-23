@@ -11,7 +11,7 @@ comments: true
     <figcaption>Thanks to NVIDIA and the organizers at BSC for the wonderful prize!</figcaption>
 </figure>
 
-This Friday, I have been to Barcelona to participate in the **<a href="http://hackathon.bsc.es">1st HPC Hackathon organized by BSC</a>**.
+This Friday (October 21), I have been to Barcelona to participate in the **<a href="http://hackathon.bsc.es">1st HPC Hackathon organized by BSC</a>**.
 The hackathon involved three tracks involving programming tasks for different HPC domains, and there were way more tasks in total than one can solve within allocated time (10 hours non-stop).
 The first track was on OpenMP programming, which involved using various OpenMP constructs in an intelligent way to optimize the given code to the limit.
 The second track was on the application of fault tolerance and software resilience techniques on a toy application.
