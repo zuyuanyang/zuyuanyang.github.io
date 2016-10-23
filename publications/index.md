@@ -47,6 +47,38 @@ function toggleBibtex(articleid) {
 <!-- Generated from JabRef by PubList by Truong Nghiem at 09:00 on 2015.11.04. -->
 <ol class="biblist">
 
+
+<!-- Item: kauc:16 -->
+<li ><p>
+O. Kaya and B. Uar,<br/>
+<b>High Performance Parallel Algorithms for the Tucker Decomposition of Sparse Tensors</b>,<br/>
+in the <i>45th International Conference on Parallel Processing (ICPP '16) ()</i>,
+
+
+pp. 103-112,
+Aug
+2016.
+
+<br />
+<a href="javascript:toggleBibtex('kauc:16')" class="textlink">[BibTeX]</a>
+
+<a href="http://ieeexplore.ieee.org/abstract/document/7573808/" class="textlink" target="_blank">[URL]</a> <a href="https://hal.inria.fr/hal-01354894/document" class="textlink" target="_blank">
+[TR]</a> 
+</p>
+<div id="bib_kauc:16" class="bibtex noshow">
+<pre>
+@inproceedings{kauc:16,
+  author = {O. Kaya and B. Uar},
+  title = {High Performance Parallel Algorithms for the Tucker Decomposition of Sparse Tensors},
+  booktitle = {45th International Conference on Parallel Processing (ICPP '16)},
+  year = {2016},
+  pages = {103-112},
+  doi = {http://dx.doi.org/10.1109/ICPP.2016.19}
+}
+</pre>
+</div>
+</li>
+
 <!-- Item: kauc:15 -->
 <li ><p>
 <b>O. Kaya</b> and B. U&ccedil;ar,<br/>
@@ -141,33 +173,6 @@ pp. 2049-2052,
 
 ### Technical Reports
 <ol class="biblist">
-
-<!-- Item: kauc:15-2tr -->
-<li ><p>
-<b>O. Kaya</b> and B. U&ccedil;ar,<br/>
-<b>High-Performance Parallel Algorithms for the Tucker Decomposition of Higher Order Sparse Tensors</b>,<br/>
-Technical Report,
-
-Oct
-2015.
-
-
-<br />
-<a href="javascript:toggleBibtex('kauc:15-2tr')" class="textlink">[BibTeX]</a>
-
-<a href="https://hal.inria.fr/hal-01219316/document" class="textlink" target="_blank">[URL]</a> 
-</p>
-<div id="bib_kauc:15-2tr" class="bibtex noshow">
-<pre>
-@techreport{kauc:15-2tr,
-  author = {<b>O. Kaya</b> and B. U&ccedil;ar},
-  title = {High-Performance Parallel Algorithms for the Tucker Decomposition of Higher Order Sparse Tensors},
-  year = {2015},
-  number = {RR-8801}
-}
-</pre></div>
-</li>
-
 
 <!-- Item: kaku+:14tr -->
 <li ><p>
