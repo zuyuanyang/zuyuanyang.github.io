@@ -68,7 +68,7 @@ Aug
 <div id="bib_kauc:16" class="bibtex noshow">
 <pre>
 @inproceedings{kauc:16,
-  author = {O. Kaya and B. Uar},
+  author = {O. Kaya and B. U&ccedil;ar},
   title = {High Performance Parallel Algorithms for the Tucker Decomposition of Sparse Tensors},
   booktitle = {45th International Conference on Parallel Processing (ICPP '16)},
   year = {2016},
