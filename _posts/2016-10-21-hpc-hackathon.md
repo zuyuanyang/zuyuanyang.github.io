@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Winner of the 1st HPC Hackathon at Barcelona Supercomputing Center (BSC)!
+title: 1st Place Winner of the 1st HPC Hackathon at Barcelona Supercomputing Center (BSC)!
 modified:
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
