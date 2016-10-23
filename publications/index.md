@@ -50,7 +50,7 @@ function toggleBibtex(articleid) {
 
 <!-- Item: kauc:16 -->
 <li ><p>
-<b>O. Kaya</b> and B. Uar,<br/>
+<b>O. Kaya</b> and B. U&ccedil;ar,<br/>
 <b>High Performance Parallel Algorithms for the Tucker Decomposition of Sparse Tensors</b>,<br/>
 in the <i>45th International Conference on Parallel Processing (ICPP '16)</i>,
 
