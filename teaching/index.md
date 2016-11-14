@@ -32,6 +32,12 @@ image:
 
 ##### Configuration of environment variables for lab machines: <a href="appd-fall-2016/tp2/smpi-env.sh" class="textlink">smpi-env.sh</a>
 
+#### Programming Session 3 - Parallel Breadth First Search
+
+##### Assignment: <a href="appd-fall-2016/tp3/tp3.pdf" class="textlink" target="_blank">tp3.pdf</a>
+
+##### Skeleton code: <a href="appd-fall-2016/tp3/tp3-code.tgz" class="textlink">tp3-code.tgz</a>
+
 ### Archi
 
 ##### TP4: <a href="archi-fall-2016/tp4.zip" class="textlink" target="_blank">tp4.zip</a>
