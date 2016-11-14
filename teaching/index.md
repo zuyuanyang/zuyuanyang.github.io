@@ -12,6 +12,11 @@ image:
 
 ### Parallel Algorithms and Programming, Fall 2016
 
+
+#### Project Assignment - Parallel Graph Bisection using Label Propagation
+
+##### Assignment: <a href="appd-fall-2016/project/project.pdf" class="textlink" target="_blank">project.pdf</a>
+
 #### Programming Session 1 - Introduction to MPI
 
 ##### Assignment: <a href="appd-fall-2016/tp1/tp1.pdf" class="textlink" target="_blank">tp1.pdf</a>
