@@ -45,6 +45,11 @@ image:
 
 ##### Skeleton code: <a href="appd-fall-2016/tp3/tp3-code.tgz" class="textlink">tp3-code.tgz</a>
 
+#### Programming Session 4 - Parallel Breadth First Search
+
+##### Assignment: <a href="appd-fall-2016/tp4/tp4.pdf" class="textlink" target="_blank">tp4.pdf</a>
+
+##### Skeleton code: <a href="appd-fall-2016/tp4/tp4-code.tgz" class="textlink">tp4-code.tgz</a>
 ### Archi
 
 ##### TP4: <a href="archi-fall-2016/tp4.zip" class="textlink" target="_blank">tp4.zip</a>
