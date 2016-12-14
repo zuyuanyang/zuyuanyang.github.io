@@ -60,6 +60,13 @@ image:
 
 ##### Solution code: <a href="appd-fall-2016/tp4/summa-solution.c" class="textlink">summa-solution.c</a>
 
+
+#### Programming Session 5 - Parallel Matrix-Matrix Multiplication (Cannon)
+
+##### Assignment: <a href="appd-fall-2016/tp5/tp5.pdf" class="textlink" target="_blank">tp5.pdf</a>
+
+##### Skeleton code: <a href="appd-fall-2016/tp5/tp5-code.tgz" class="textlink">tp5-code.tgz</a>
+
 ### Archi
 
 ##### TP4: <a href="archi-fall-2016/tp4.zip" class="textlink" target="_blank">tp4.zip</a>
