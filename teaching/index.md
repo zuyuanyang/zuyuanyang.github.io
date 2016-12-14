@@ -18,6 +18,10 @@ image:
 
 ##### Code : <a href="appd-fall-2016/project/project-code.tgz" class="textlink" target="_blank">project-code.tgz</a>
 
+##### Sample graph file : <a href="appd-fall-2016/project/graph-sample.txt" class="textlink" target="_blank">graph-sample.txt</a>
+
+##### Sample runs and outputs: <a href="appd-fall-2016/project/graph-sample-out.txt" class="textlink" target="_blank">graph-sample-out.txt</a>
+
 
 #### Programming Session 1 - Introduction to MPI
 
