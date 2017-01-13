@@ -12,6 +12,20 @@ image:
 
 ### Parallel Algorithms and Programming, Fall 2016
 
+#### Teaching Sessions
+
+##### TD1: <a href="appd-fall-2016/td/td1.pdf" class="textlink" target="_blank">td1.pdf</a>
+
+##### TD2: <a href="appd-fall-2016/td/td2.pdf" class="textlink" target="_blank">td2.pdf</a>
+
+##### TD3: <a href="appd-fall-2016/td/td3.pdf" class="textlink" target="_blank">td3.pdf</a>
+
+##### TD4: <a href="appd-fall-2016/td/td4.pdf" class="textlink" target="_blank">td4.pdf</a>
+
+##### TD5: <a href="appd-fall-2016/td/td5.pdf" class="textlink" target="_blank">td5.pdf</a>
+
+##### TD6-7: <a href="appd-fall-2016/td/td6-7.pdf" class="textlink" target="_blank">td6-7.pdf</a>
+
 #### Project Assignment - Parallel Graph Bisection using Label Propagation
 
 ##### Assignment: <a href="appd-fall-2016/project/project.pdf" class="textlink" target="_blank">project.pdf</a>
