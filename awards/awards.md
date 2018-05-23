@@ -7,7 +7,7 @@ modified: 3-10-2014
 comments: false
 ---
 
-* 2017 Chinese Government Award for Outstanding Self-Financed Students Abroad
+* Chinese Government Award for Outstanding Self-Financed Students Abroad, 2017
 * Stars of Tomorrow (Award of Excellent Intern), Microsoft Research Asia, 2015
 * **Microsoft Research Asia Fellowship, 2014 (12 Phd students in Asia)**
 * ICCV13 Travel Grant, 2013
