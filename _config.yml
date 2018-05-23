@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            oguzkaya.com
+title:            canyilu.com
 locale:           en_US
 url:
 
@@ -26,24 +26,24 @@ kramdown:
 
 # Site owner
 owner:
-  name: Oguz Kaya
-  avatar: bio-photo.jpg
-  bio: "I am post-doctoral researcher in the HiePACS team at Inria Bordeaux, France. My research addresses combinatorial and computational problems arising in (multi)linear algebra, machine learning, and scientific computing."
-  email: oguz.kaya@inria.fr
+  name: Canyi Lu
+  avatar: canyilu.jpg
+  bio: "Postdoctoral Research Associate at Carnegie Mellon University."
+  email: canyilu@gmail.com
   disqus-shortname:
   twitter: #username
-  facebook: kayaogz
+  facebook: #username
   google: 
     plus: 
-    scholar: https://scholar.google.com.tr/citations?user=iqa9qNYAAAAJ
+    scholar: https://scholar.google.com/citations?user=EZcKJi4AAAAJ&hl=en
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: kayaogz
+  github: canyilu
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: kayaogz
+  linkedin: canyilu
   xing: #username
   instagram: #username
   lastfm: #username
