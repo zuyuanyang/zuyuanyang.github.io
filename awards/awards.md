@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/
-title: Some Code I've Written
+title: Selected Awards
 tags: [code]
 modified: 3-10-2014
 comments: false
