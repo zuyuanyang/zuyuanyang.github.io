@@ -2,8 +2,8 @@
 layout: page
 permalink: /awards/
 title: Selected Awards
-tags: [code]
-modified: 3-10-2014
+tags: [awards]
+modified: 05-23-2018
 comments: false
 ---
 
