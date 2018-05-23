@@ -47,36 +47,7 @@ function toggleBibtex(articleid) {
 <!-- Generated from JabRef by PubList by Truong Nghiem at 09:00 on 2015.11.04. -->
 <ol class="biblist">
 
-<!-- Item: kauc:16 -->
-<li ><p>
-<b>O. Kaya</b> and B. U&ccedil;ar,<br/>
-<b>High Performance Parallel Algorithms for the Tucker Decomposition of Sparse Tensors</b>,<br/>
-in the <i>45th International Conference on Parallel Processing (ICPP '16)</i>,
 
-
-pp. 103-112,
-Aug
-2016.
-
-<br />
-<a href="javascript:toggleBibtex('kauc:16')" class="textlink">[BibTeX]</a>
-
-<a href="http://ieeexplore.ieee.org/abstract/document/7573808/" class="textlink" target="_blank">[URL]</a> <a href="https://hal.inria.fr/hal-01354894/document" class="textlink" target="_blank">
-[TR]</a> 
-</p>
-<div id="bib_kauc:16" class="bibtex noshow">
-<pre>
-@inproceedings{kauc:16,
-  author = {O. Kaya and B. U&ccedil;ar},
-  title = {High Performance Parallel Algorithms for the Tucker Decomposition of Sparse Tensors},
-  booktitle = {45th International Conference on Parallel Processing (ICPP '16)},
-  year = {2016},
-  pages = {103-112},
-  doi = {http://dx.doi.org/10.1109/ICPP.2016.19}
-}
-</pre>
-</div>
-</li>
 
 
 <!-- Item: lu2016subspace -->
