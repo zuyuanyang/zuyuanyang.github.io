@@ -47,7 +47,6 @@ function toggleBibtex(articleid) {
 <!-- Generated from JabRef by PubList by Truong Nghiem at 09:00 on 2015.11.04. -->
 <ol class="biblist">
 
-
 <!-- Item: kauc:16 -->
 <li ><p>
 <b>O. Kaya</b> and B. U&ccedil;ar,<br/>
@@ -79,152 +78,813 @@ Aug
 </div>
 </li>
 
-<!-- Item: kauc:15 -->
+
+<!-- Item: lu2016subspace -->
 <li ><p>
-<b>O. Kaya</b> and B. U&ccedil;ar,<br/>
-<b>Scalable Sparse Tensor Decompositions in Distributed Memory Systems</b>,<br/>
-in the <i>Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC '15)</i>,
+<b>Subspace Clustering by Block Diagonal Representation</b><br>
+<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Tao Mei, Zhouchen Lin and Shuicheng Yan<br>
+
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
 
 
-pp. 77:1-77:11,
+2018<br>
+<a href="javascript:toggleBibtex('lu2016subspace')">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/document/8259470/" target="_blank">[IEEE Link]</a>
 
-2015.
-
-<br />
-<a href="javascript:toggleBibtex('kauc:15')" class="textlink">[BibTeX]</a>
-
-<a href="http://dl.acm.org/citation.cfm?id=2807624" class="textlink" target="_blank"> [URL]</a><a href="https://hal.inria.fr/hal-01148202/document" class="textlink" target="_blank">[TR]</a>  
 </p>
-<div id="bib_kauc:15" class="bibtex noshow">
+<div id="bib_lu2016subspace" class="bibtex noshow">
 <pre>
-@inproceedings{kauc:15,
-  author = {<b>O. Kaya</b> and B. U&ccedil;ar},
-  title = {Scalable Sparse Tensor Decompositions in Distributed Memory Systems},
-  booktitle = {Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis},
-  publisher = {ACM},
+@article{lu2016subspace,
+  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Mei, Tao and Lin, Zhouchen and Yan, Shuicheng},
+  title = {Subspace Clustering by Block Diagonal Representation},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
+  year = {2018}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2017nonconvex -->
+<li ><p>
+<b>Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers and Its Convergence Analysis</b><br>
+<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan<br>
+<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
+
+
+
+2018<br>
+<a href="javascript:toggleBibtex('lu2017nonconvex')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1712.02979" target="_blank">[arXiv]</a>
+
+</p>
+<div id="bib_lu2017nonconvex" class="bibtex noshow">
+<pre>
+@inproceedings{lu2017nonconvex,
+  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Lin, Zhouchen and Yan, Shuicheng},
+  title = {Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers and Its Convergence Analysis},
+  booktitle = {AAAI Conference on Artificial Intelligence (<b>AAAI</b>)},
+  year = {2018}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2018exact -->
+<li ><p>
+<b>Exact Low Tubal Rank Tensor Recovery from Gaussian Measurements</b><br>
+<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan<br>
+<i>International Joint Conference on Artificial Intelligence (<b>IJCAI</b>)</i>,
+
+
+
+2018<br>
+<a href="javascript:toggleBibtex('lu2018exact')">[bibtex]</a>
+<a href="https://github.com/canyilu/tensor-completion-tensor-recovery" target="_blank">[code]</a>
+
+</p>
+<div id="bib_lu2018exact" class="bibtex noshow">
+<pre>
+@inproceedings{lu2018exact,
+  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Lin, Zhouchen and Yan, Shuicheng},
+  title = {Exact Low Tubal Rank Tensor Recovery from Gaussian Measurements},
+  booktitle = {International Joint Conference on Artificial Intelligence (<b>IJCAI</b>)},
+  year = {2018}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2018optimized -->
+<li ><p>
+<b>Optimized Projections for Compressed Sensing via Direct Mutual Coherence Minimization</b><br>
+<b>Canyi</b> <b>Lu</b>, Huan Li and Zhouchen Lin<br>
+
+<i>Signal Processing</i>,
+vol. 151,
+pp. 45-55,
+2018<br>
+<a href="javascript:toggleBibtex('lu2018optimized')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1508.03117" target="_blank">[arXiv]</a>
+
+</p>
+<div id="bib_lu2018optimized" class="bibtex noshow">
+<pre>
+@article{lu2018optimized,
+  author = {<b>Lu</b>, <b>Canyi</b> and Li, Huan and Lin, Zhouchen},
+  title = {Optimized Projections for Compressed Sensing via Direct Mutual Coherence Minimization},
+  journal = {Signal Processing},
+  year = {2018},
+  volume = {151},
+  pages = {45-55}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2018unified -->
+<li ><p>
+<b>A Unified Alternating Direction Method of Multipliers by Majorization Minimization</b><br>
+<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Shuicheng Yan and Zhouchen Lin<br>
+
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
+vol. 40,
+pp. 527-541,
+2018<br>
+<a href="javascript:toggleBibtex('lu2018unified')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1607.02584" target="_blank">[arXiv]</a>
+
+</p>
+<div id="bib_lu2018unified" class="bibtex noshow">
+<pre>
+@article{lu2018unified,
+  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Yan, Shuicheng and Lin, Zhouchen},
+  title = {A Unified Alternating Direction Method of Multipliers by Majorization Minimization},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
+  publisher = {IEEE},
+  year = {2018},
+  volume = {40},
+  number = {3},
+  pages = {527--541}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: peng2018connections -->
+<li ><p>
+<b>Connections between Nuclear-norm and Frobenius-norm-based Representations</b><br>
+Xi Peng, <b>Canyi</b> <b>Lu</b>, Zhang Yi and Huajin Tang<br>
+
+<i>IEEE transactions on neural networks and learning systems (<b>TNNLS</b>)</i>,
+vol. 29,
+pp. 218-224,
+2018<br>
+<a href="javascript:toggleBibtex('peng2018connections')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1502.07423" target="_blank">[arXiv]</a>
+
+</p>
+<div id="bib_peng2018connections" class="bibtex noshow">
+<pre>
+@article{peng2018connections,
+  author = {Peng, Xi and <b>Lu</b>, <b>Canyi</b> and Yi, Zhang and Tang, Huajin},
+  title = {Connections between Nuclear-norm and Frobenius-norm-based Representations},
+  journal = {IEEE transactions on neural networks and learning systems (<b>TNNLS</b>)},
+  publisher = {IEEE},
+  year = {2018},
+  volume = {29},
+  number = {1},
+  pages = {218--224}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: zhou2018tensor -->
+<li ><p>
+<b>Tensor Factorization for Low-Rank Tensor Completion</b><br>
+Pan Zhou, <b>Canyi</b> <b>Lu</b>, Zhouchen Lin and Chao Zhang<br>
+
+<i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>,
+vol. 27,
+pp. 1152-1163,
+2018<br>
+<a href="javascript:toggleBibtex('zhou2018tensor')">[bibtex]</a>
+<a href="https://panzhous.github.io/" target="_blank">[code]</a>
+
+</p>
+<div id="bib_zhou2018tensor" class="bibtex noshow">
+<pre>
+@article{zhou2018tensor,
+  author = {Zhou, Pan and <b>Lu</b>, <b>Canyi</b> and Lin, Zhouchen and Zhang, Chao},
+  title = {Tensor Factorization for Low-Rank Tensor Completion},
+  journal = {IEEE Transactions on Image Processing (<b>TIP</b>)},
+  publisher = {IEEE},
+  year = {2018},
+  volume = {27},
+  number = {3},
+  pages = {1152--1163}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: wei2017cross -->
+<li ><p>
+<b>Cross-modal Retrieval with CNN Visual Features: A New Baseline</b><br>
+Yunchao Wei, Yao Zhao, <b>Canyi</b> <b>Lu</b>, Shikui Wei, Luoqi Liu, Zhenfeng Zhu and Shuicheng Yan<br>
+
+<i>IEEE Transactions on Cybernetics (<b>TCYB</b>)</i>,
+vol. 47,
+pp. 449-460,
+2017<br>
+<a href="javascript:toggleBibtex('wei2017cross')">[bibtex]</a>
+
+</p>
+<div id="bib_wei2017cross" class="bibtex noshow">
+<pre>
+@article{wei2017cross,
+  author = {Wei, Yunchao and Zhao, Yao and <b>Lu</b>, <b>Canyi</b> and Wei, Shikui and Liu, Luoqi and Zhu, Zhenfeng and Yan, Shuicheng},
+  title = {Cross-modal Retrieval with CNN Visual Features: A New Baseline},
+  journal = {IEEE Transactions on Cybernetics (<b>TCYB</b>)},
+  publisher = {IEEE},
+  year = {2017},
+  volume = {47},
+  number = {2},
+  pages = {449--460}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2016convex -->
+<li ><p>
+<b>Convex Sparse Spectral Clustering: Single-view to Multi-view</b><br>
+<b>Canyi</b> <b>Lu</b>, Shuicheng Yan and Zhouchen Lin<br>
+
+<i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>,
+vol. 25,
+pp. 2833-2843,
+2016<br>
+<a href="javascript:toggleBibtex('lu2016convex')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1511.06860" target="_blank">[pdf]</a>
+<a href="https://github.com/canyilu/LibADMM" target="_blank">[code]</a>
+
+</p>
+<div id="bib_lu2016convex" class="bibtex noshow">
+<pre>
+@article{lu2016convex,
+  author = {<b>Lu</b>, <b>Canyi</b> and Yan, Shuicheng and Lin, Zhouchen},
+  title = {Convex Sparse Spectral Clustering: Single-view to Multi-view},
+  journal = {IEEE Transactions on Image Processing (<b>TIP</b>)},
+  publisher = {IEEE},
+  year = {2016},
+  volume = {25},
+  number = {6},
+  pages = {2833--2843}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2016fast -->
+<li ><p>
+<b>Fast Proximal Linearized Alternating Direction Method of Multiplier with Parallel Splitting</b><br>
+<b>Canyi</b> <b>Lu</b>, Huan Li, Zhouchen Lin and Shuicheng Yan<br>
+<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
+
+
+
+2016<br>
+<a href="javascript:toggleBibtex('lu2016fast')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1511.05133" target="_blank">[arXiv]</a>
+
+</p>
+<div id="bib_lu2016fast" class="bibtex noshow">
+<pre>
+@inproceedings{lu2016fast,
+  author = {<b>Lu</b>, <b>Canyi</b> and Li, Huan and Lin, Zhouchen and Yan, Shuicheng},
+  title = {Fast Proximal Linearized Alternating Direction Method of Multiplier with Parallel Splitting},
+  booktitle = {AAAI Conference on Artificial Intelligence (<b>AAAI</b>)},
+  year = {2016}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2016nonconvex -->
+<li ><p>
+<b>Nonconvex Nonsmooth Low Rank Minimization via Iteratively Reweighted Nuclear Norm</b><br>
+<b>Canyi</b> <b>Lu</b>, Jinhui Tang, Shuicheng Yan and Zhouchen Lin<br>
+
+<i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>,
+vol. 25,
+pp. 829-839,
+2016<br>
+<a href="javascript:toggleBibtex('lu2016nonconvex')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1510.06895" target="_blank">[arXiv]</a>
+
+</p>
+<div id="bib_lu2016nonconvex" class="bibtex noshow">
+<pre>
+@article{lu2016nonconvex,
+  author = {<b>Lu</b>, <b>Canyi</b> and Tang, Jinhui and Yan, Shuicheng and Lin, Zhouchen},
+  title = {Nonconvex Nonsmooth Low Rank Minimization via Iteratively Reweighted Nuclear Norm},
+  journal = {IEEE Transactions on Image Processing (<b>TIP</b>)},
+  publisher = {IEEE},
+  year = {2016},
+  volume = {25},
+  number = {2},
+  pages = {829--839}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2016tensor -->
+<li ><p>
+<b>Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization</b><br>
+<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan<br>
+<i>IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>,
+
+
+
+2016<br>
+<a href="javascript:toggleBibtex('lu2016tensor')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1708.04181" target="_blank">[arXiv]</a>
+
+</p>
+<div id="bib_lu2016tensor" class="bibtex noshow">
+<pre>
+@inproceedings{lu2016tensor,
+  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Chen, Yudong and Liu, Wei and Lin, Zhouchen and Yan, Shuicheng},
+  title = {Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization},
+  booktitle = {IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)},
+  year = {2016}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: xu2016multi -->
+<li ><p>
+<b>Multi-loss Regularized Deep Neural Network</b><br>
+Chunyan Xu, <b>Canyi</b> <b>Lu</b>, Xiaodan Liang, Junbin Gao, Wei Zheng, Tianjiang Wang and Shuicheng Yan<br>
+
+<i>IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</i>,
+vol. 26,
+pp. 2273-2283,
+2016<br>
+<a href="javascript:toggleBibtex('xu2016multi')">[bibtex]</a>
+
+</p>
+<div id="bib_xu2016multi" class="bibtex noshow">
+<pre>
+@article{xu2016multi,
+  author = {Xu, Chunyan and <b>Lu</b>, <b>Canyi</b> and Liang, Xiaodan and Gao, Junbin and Zheng, Wei and Wang, Tianjiang and Yan, Shuicheng},
+  title = {Multi-loss Regularized Deep Neural Network},
+  journal = {IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)},
+  publisher = {IEEE},
+  year = {2016},
+  volume = {26},
+  number = {12},
+  pages = {2273--2283}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2015generalized -->
+<li ><p>
+<b>Generalized Singular Value Thresholding</b><br>
+<b>Canyi</b> <b>Lu</b>, Changbo Zhu, Chunyan Xu, Shuicheng Yan and Zhouchen Lin<br>
+<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
+
+
+
+2015<br>
+<a href="javascript:toggleBibtex('lu2015generalized')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1412.2231" target="_blank">[arXiv]</a>
+
+</p>
+<div id="bib_lu2015generalized" class="bibtex noshow">
+<pre>
+@inproceedings{lu2015generalized,
+  author = {<b>Lu</b>, <b>Canyi</b> and Zhu, Changbo and Xu, Chunyan and Yan, Shuicheng and Lin, Zhouchen},
+  title = {Generalized Singular Value Thresholding},
+  booktitle = {AAAI Conference on Artificial Intelligence (<b>AAAI</b>)},
+  year = {2015}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2015imputation -->
+<li ><p>
+<b>Imputation of ChIP-seq datasets via Low Rank Convex Co-Embedding</b><br>
+Lin Zhu, Wei-Li Guo, De-Shuang Huang and Canyi Lu<br>
+<i>IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>)</i>,
+
+
+pp. 141-144,
+2015<br>
+<a href="javascript:toggleBibtex('lu2015imputation')">[bibtex]</a>
+
+</p>
+<div id="bib_lu2015imputation" class="bibtex noshow">
+<pre>
+@inproceedings{lu2015imputation,
+  author = {Lin Zhu and Wei-Li Guo and De-Shuang Huang and Canyi Lu},
+  title = {Imputation of ChIP-seq datasets via Low Rank Convex Co-Embedding},
+  booktitle = {IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>)},
   year = {2015},
-  pages = {77:1--77:11},
-  doi = {http://dx.doi.org/10.1145/2807591.2807624}
+  pages = {141-144}
 }
-</pre>
-</div>
+</pre></div>
 </li>
-<!-- Item: segm+:13 -->
+
+
+
+
+<!-- Item: lu2015smoothed -->
 <li ><p>
-T. E. Senator, H. G. Goldberg, A. Memory, W. T. Young, B. Rees, R. Pierce, D. Huang, M. Reardon, D. Bader, E. Chow, I. Essa, J. Jones, V. Bettadapura, D. H. Chau, O. Green, <b>O. Kaya</b>, A. Zakrzewska, E. Briscoe, R. IV L. Mappus, R. McColl, L. Weiss, T. G. Dietterich, A. Fern, W. K. Wong, S. Das, A. Emmott, J. Irvine, J. Y. Lee, D. Koutra, C. Faloutsos, D. Corkill, L. Friedland, A. Gentzel and D. Jensen,<br/>
-<b>Detecting Insider Threats in a Real Corporate Database of Computer Usage Activity</b>,<br/>
-in the <i>Proceedings of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD '13)</i>,
+<b>Smoothed Low Rank and Sparse Matrix Recovery by Iteratively Reweighted Least Squares Minimization</b><br>
+<b>Canyi</b> <b>Lu</b>, Zhouchen Lin and Shuicheng Yan<br>
 
+<i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>,
+vol. 24,
+pp. 646-654,
+2015<br>
+<a href="javascript:toggleBibtex('lu2015smoothed')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1401.7413" target="_blank">[arXiv]</a>
 
-pp. 1393-1401,
-
-2013.
-
-<br />
-<a href="javascript:toggleBibtex('segm+:13')" class="textlink">[BibTeX]</a>
-
-<a href="http://dl.acm.org/citation.cfm?id=2488213" class="textlink" target="_blank">[URL]</a> 
 </p>
-<div id="bib_segm+:13" class="bibtex noshow">
+<div id="bib_lu2015smoothed" class="bibtex noshow">
 <pre>
-@inproceedings{segm+:13,
-  author = {T. E. Senator and H. G. Goldberg and A. Memory and W. T. Young and B. Rees and R. Pierce and D. Huang and M. Reardon and D. Bader and E. Chow and I. Essa and J. Jones and V. Bettadapura and D. H. Chau and O. Green and <b>O. Kaya</b> and A. Zakrzewska and E. Briscoe and R. IV L. Mappus and R. McColl and L. Weiss and T. G. Dietterich and A. Fern and W. K. Wong and S. Das and A. Emmott and J. Irvine and J. Y. Lee and D. Koutra and C. Faloutsos and D. Corkill and L. Friedland and A. Gentzel and D. Jensen},
-  title = {Detecting Insider Threats in a Real Corporate Database of Computer Usage Activity},
-  booktitle = {Proceedings of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
-  publisher = {ACM},
-  year = {2013},
-  pages = {1393--1401},
-  doi = {http://dx.doi.org/10.1145/2487575.2488213}
+@article{lu2015smoothed,
+  author = {<b>Lu</b>, <b>Canyi</b> and Lin, Zhouchen and Yan, Shuicheng},
+  title = {Smoothed Low Rank and Sparse Matrix Recovery by Iteratively Reweighted Least Squares Minimization},
+  journal = {IEEE Transactions on Image Processing (<b>TIP</b>)},
+  year = {2015},
+  volume = {24},
+  number = {2},
+  pages = {646-654}
 }
-</pre>
-</div>
+</pre></div>
 </li>
-<!-- Item: vaca+:11 -->
+
+
+
+
+<!-- Item: nguyen2015adaptive -->
 <li ><p>
-E. Varol, F. Can, C. Aykanat and <b>O. Kaya</b>,<br/>
-<b>CoDet: Sentence-Based Containment Detection in News Corpora</b>,<br/>
-in the <i>Proceedings of the 20th ACM International Conference on Information and Knowledge Management (CIKM '11)</i>,
+<b>Adaptive Nonparametric Image Parsing</b><br>
+Tam V. Nguyen, <b>Canyi</b> <b>Lu</b>, Jose Sepulveda and Shuicheng Yan<br>
 
+<i>IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</i>,
+vol. 25,
+pp. 1565-1575,
+2015<br>
+<a href="javascript:toggleBibtex('nguyen2015adaptive')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1505.01560" target="_blank">[arXiv]</a>
 
-pp. 2049-2052,
-
-2011.
-
-<br />
-<a href="javascript:toggleBibtex('vaca+:11')" class="textlink">[BibTeX]</a>
-
-<a href="http://dl.acm.org/citation.cfm?id=2807624" class="textlink" target="_blank">[URL]</a> 
 </p>
-<div id="bib_vaca+:11" class="bibtex noshow">
+<div id="bib_nguyen2015adaptive" class="bibtex noshow">
 <pre>
-@inproceedings{vaca+:11,
-  author = {E. Varol and F. Can and C. Aykanat and <b>O. Kaya</b>},
-  title = {CoDet: Sentence-Based Containment Detection in News Corpora},
-  booktitle = {Proceedings of the 20th ACM International Conference on Information and Knowledge Management},
-  publisher = {ACM},
-  year = {2011},
-  pages = {2049--2052},
-  doi = {http://dx.doi.org/10.1145/2063576.2063887}
+@article{nguyen2015adaptive,
+  author = {Nguyen, Tam V and <b>Lu</b>, <b>Canyi</b> and Sepulveda, Jose and Yan, Shuicheng},
+  title = {Adaptive Nonparametric Image Parsing},
+  journal = {IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)},
+  publisher = {IEEE},
+  year = {2015},
+  volume = {25},
+  number = {10},
+  pages = {1565--1575}
 }
-</pre>
-</div>
+</pre></div>
 </li>
-</ol>
 
-### Technical Reports
-<ol class="biblist">
 
-<!-- Item: kaku+:14tr -->
+
+
+<!-- Item: xu2015discriminative -->
 <li ><p>
-<b>O. Kaya</b>, E. Kayaaslan, B. U&ccedil;ar and I. S. Duff,<br/>
-<b>Fill-In Reduction in Sparse Matrix Factorizations Using Hypergraphs</b>,<br/>
-Technical Report,
+<b>Discriminative Analysis for Symmetric Positive Definite Matrices on Lie Groups</b><br>
+Chunyan Xu, <b>Canyi</b> <b>Lu</b>, Junbin Gao, Wei Zheng, Tianjiang Wang and Shuicheng Yan<br>
 
-January
-2014.
+<i>IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</i>,
+vol. 25,
+pp. 1576-1585,
+2015<br>
+<a href="javascript:toggleBibtex('xu2015discriminative')">[bibtex]</a>
 
-
-<br />
-<a href="javascript:toggleBibtex('kaku+:14tr')" class="textlink">[BibTeX]</a>
-
-<a href="https://hal.inria.fr/hal-00932882/file/RR-8448.pdf" class="textlink" target="_blank">[URL]</a> 
 </p>
-<div id="bib_kaku+:14tr" class="bibtex noshow">
+<div id="bib_xu2015discriminative" class="bibtex noshow">
 <pre>
-@techreport{kaku+:14tr,
-  author = {<b>O. Kaya</b> and E. Kayaaslan and B. U&ccedil;ar and I. S. Duff},
-  title = {Fill-In Reduction in Sparse Matrix Factorizations Using Hypergraphs},
+@article{xu2015discriminative,
+  author = {Xu, Chunyan and <b>Lu</b>, <b>Canyi</b> and Gao, Junbin and Zheng, Wei and Wang, Tianjiang and Yan, Shuicheng},
+  title = {Discriminative Analysis for Symmetric Positive Definite Matrices on Lie Groups},
+  journal = {IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)},
+  publisher = {IEEE},
+  year = {2015},
+  volume = {25},
+  number = {10},
+  pages = {1576--1585}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: xu2015facial -->
+<li ><p>
+<b>Facial Analysis with a Lie Group Kernel</b><br>
+Chunyan Xu, <b>Canyi</b> <b>Lu</b>, Junbin Gao, Tianjiang Wang and Shuicheng Yan<br>
+
+<i>IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</i>,
+vol. 25,
+pp. 1140-1150,
+2015<br>
+<a href="javascript:toggleBibtex('xu2015facial')">[bibtex]</a>
+
+</p>
+<div id="bib_xu2015facial" class="bibtex noshow">
+<pre>
+@article{xu2015facial,
+  author = {Xu, Chunyan and <b>Lu</b>, <b>Canyi</b> and Gao, Junbin and Wang, Tianjiang and Yan, Shuicheng},
+  title = {Facial Analysis with a Lie Group Kernel},
+  journal = {IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)},
+  publisher = {IEEE},
+  year = {2015},
+  volume = {25},
+  number = {7},
+  pages = {1140--1150}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lai2014efficient -->
+<li ><p>
+<b>Efficient k-Support Matrix Pursuit</b><br>
+Hanjiang Lai, Yan Pan, <b>Canyi</b> <b>Lu</b>, Yong Tang and Shuicheng Yan<br>
+<i>European Conference on Computer Vision (<b>ECCV</b>)</i>,
+
+
+
+2014<br>
+<a href="javascript:toggleBibtex('lai2014efficient')">[bibtex]</a>
+<a href="https://pdfs.semanticscholar.org/fa85/31d90d5eab6fc4bd2ba9064ea50b28eae7d6.pdf" target="_blank">[pdf]</a>
+
+</p>
+<div id="bib_lai2014efficient" class="bibtex noshow">
+<pre>
+@inproceedings{lai2014efficient,
+  author = {Lai, Hanjiang and Pan, Yan and <b>Lu</b>, <b>Canyi</b> and Tang, Yong and Yan, Shuicheng},
+  title = {Efficient k-Support Matrix Pursuit},
+  booktitle = {European Conference on Computer Vision (<b>ECCV</b>)},
+  year = {2014}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2014generalized -->
+<li ><p>
+<b>Generalized Nonconvex Nonsmooth Low-Rank Minimization</b><br>
+<b>Canyi</b> <b>Lu</b>, Jinhui Tang, Shuicheng Yan and Zhouchen Lin<br>
+<i>IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>,
+
+
+
+2014<br>
+<a href="javascript:toggleBibtex('lu2014generalized')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1404.7306" target="_blank">[arXiv]</a>
+
+</p>
+<div id="bib_lu2014generalized" class="bibtex noshow">
+<pre>
+@inproceedings{lu2014generalized,
+  author = {<b>Lu</b>, <b>Canyi</b> and Tang, Jinhui and Yan, Shuicheng and Lin, Zhouchen},
+  title = {Generalized Nonconvex Nonsmooth Low-Rank Minimization},
+  booktitle = {IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)},
+  year = {2014}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2014proximal -->
+<li ><p>
+<b>Proximal Iteratively Reweighted Algorithm with Multiple Splitting for Nonconvex Sparsity Optimization</b><br>
+<b>Canyi</b> <b>Lu</b>, Yunchao Wei, Zhouchen Lin and Shuicheng Yan<br>
+<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
+
+
+
+2014<br>
+<a href="javascript:toggleBibtex('lu2014proximal')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1404.6871" target="_blank">[arXiv]</a>
+
+</p>
+<div id="bib_lu2014proximal" class="bibtex noshow">
+<pre>
+@inproceedings{lu2014proximal,
+  author = {<b>Lu</b>, <b>Canyi</b> and Wei, Yunchao and Lin, Zhouchen and Yan, Shuicheng},
+  title = {Proximal Iteratively Reweighted Algorithm with Multiple Splitting for Nonconvex Sparsity Optimization},
+  booktitle = {AAAI Conference on Artificial Intelligence (<b>AAAI</b>)},
+  year = {2014}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: wang2014robust -->
+<li ><p>
+<b>Robust Face Recognition via Adaptive Sparse Representation</b><br>
+Jing Wang, <b>Canyi</b> <b>Lu</b>, Meng Wang, Peipei Li, Shuicheng Yan and Xuegang Hu<br>
+
+<i>IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics (<b>TCYB</b>)</i>,
+vol. 44,
+pp. 2368-2378,
+2014<br>
+<a href="javascript:toggleBibtex('wang2014robust')">[bibtex]</a>
+
+</p>
+<div id="bib_wang2014robust" class="bibtex noshow">
+<pre>
+@article{wang2014robust,
+  author = {Wang, Jing and <b>Lu</b>, <b>Canyi</b> and Wang, Meng and Li, Peipei and Yan, Shuicheng and Hu, Xuegang},
+  title = {Robust Face Recognition via Adaptive Sparse Representation},
+  journal = {IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics (<b>TCYB</b>)},
   year = {2014},
-  number = {RR-8448}
+  volume = {44},
+  number = {12},
+  pages = {2368-2378}
 }
 </pre></div>
 </li>
 
 
-<!-- Item: kaku:13tr -->
+
+
+<!-- Item: lu2013correlation -->
 <li ><p>
-<b>O. Kaya</b>, E. Kayaaslan and B. U&ccedil;ar,<br/>
-<b>On the Minimum Edge Cover and Vertex Partition by Quasi-Cliques Problems</b>,<br/>
-Technical Report,
-
-February
-2013.
+<b>Correlation Adaptive Subspace Segmentation by Trace Lasso</b><br>
+<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan<br>
+<i>IEEE International Conference on Computer Vision (<b>ICCV</b>)</i>,
 
 
-<br />
-<a href="javascript:toggleBibtex('kaku:13tr')" class="textlink">[BibTeX]</a>
 
-<a href="https://hal.inria.fr/hal-00795429/file/RR-8255.pdf" class="textlink" target="_blank">[URL]</a> 
+2013<br>
+<a href="javascript:toggleBibtex('lu2013correlation')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1501.04276" target="_blank">[arXiv]</a>
+
 </p>
-<div id="bib_kaku:13tr" class="bibtex noshow">
+<div id="bib_lu2013correlation" class="bibtex noshow">
 <pre>
-@techreport{kaku:13tr,
-  author = {<b>O. Kaya</b> and E. Kayaaslan and B. U&ccedil;ar},
-  title = {On the Minimum Edge Cover and Vertex Partition by Quasi-Cliques Problems},
-  year = {2013},
-  number = {RR-8255}
+@inproceedings{lu2013correlation,
+  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Lin, Zhouchen and Yan, Shuicheng},
+  title = {Correlation Adaptive Subspace Segmentation by Trace Lasso},
+  booktitle = {IEEE International Conference on Computer Vision (<b>ICCV</b>)},
+  year = {2013}
 }
 </pre></div>
 </li>
+
+
+
+
+<!-- Item: lu2013correntropy -->
+<li ><p>
+<b>Correntropy Induced L2 Graph for Robust Subspace Clustering</b><br>
+<b>Canyi</b> <b>Lu</b>, Jinhui Tang, Min Lin, Liang Lin, Shuicheng Yan and Zhouchen Lin<br>
+<i>IEEE International Conference on Computer Vision (<b>ICCV</b>)</i>,
+
+
+
+2013<br>
+<a href="javascript:toggleBibtex('lu2013correntropy')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1501.04277" target="_blank">[arXiv]</a>
+
+</p>
+<div id="bib_lu2013correntropy" class="bibtex noshow">
+<pre>
+@inproceedings{lu2013correntropy,
+  author = {<b>Lu</b>, <b>Canyi</b> and Tang, Jinhui and Lin, Min and Lin, Liang and Yan, Shuicheng and Lin, Zhouchen},
+  title = {Correntropy Induced L2 Graph for Robust Subspace Clustering},
+  booktitle = {IEEE International Conference on Computer Vision (<b>ICCV</b>)},
+  year = {2013}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2013face -->
+<li ><p>
+<b>Face Recognition via Weighted Sparse Representation</b><br>
+<b>Can-Yi</b> <b>Lu</b>, Hai Min, Jie Gui, Lin Zhu and Ying-Ke Lei<br>
+
+<i>Journal of Visual Communication and Image Representation (<b>JVCIR</b>)</i>,
+vol. 24,
+pp. 111-116,
+2013<br>
+<a href="javascript:toggleBibtex('lu2013face')">[bibtex]</a>
+
+</p>
+<div id="bib_lu2013face" class="bibtex noshow">
+<pre>
+@article{lu2013face,
+  author = {<b>Lu</b>, <b>Can-Yi</b> and Min, Hai and Gui, Jie and Zhu, Lin and Lei, Ying-Ke},
+  title = {Face Recognition via Weighted Sparse Representation},
+  journal = {Journal of Visual Communication and Image Representation (<b>JVCIR</b>)},
+  publisher = {Elsevier},
+  year = {2013},
+  volume = {24},
+  number = {2},
+  pages = {111--116}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2013optimized -->
+<li ><p>
+<b>Optimized Projections for Sparse Representation based Classification</b><br>
+<b>Can-Yi</b> <b>Lu</b> and De-Shuang Huang<br>
+
+<i>Neurocomputing</i>,
+vol. 113,
+pp. 213-219,
+2013<br>
+<a href="javascript:toggleBibtex('lu2013optimized')">[bibtex]</a>
+
+</p>
+<div id="bib_lu2013optimized" class="bibtex noshow">
+<pre>
+@article{lu2013optimized,
+  author = {<b>Lu</b>, <b>Can-Yi</b> and Huang, De-Shuang},
+  title = {Optimized Projections for Sparse Representation based Classification},
+  journal = {Neurocomputing},
+  publisher = {Elsevier},
+  year = {2013},
+  volume = {113},
+  pages = {213--219}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2012robust -->
+<li ><p>
+<b>Robust and Efficient Subspace Segmentation via Least Squares Regression</b><br>
+<b>Can-Yi</b> <b>Lu</b>, Hai Min, Zhong-Qiu Zhao, Lin Zhu, De-Shuang Huang and Shuicheng Yan<br>
+<i>European Conference on Computer Vision (<b>ECCV</b>)</i>,
+
+
+pp. 347-360,
+2012<br>
+<a href="javascript:toggleBibtex('lu2012robust')">[bibtex]</a>
+<a href="https://arxiv.org/abs/1404.6736" target="_blank">[arXiv]</a>
+
+</p>
+<div id="bib_lu2012robust" class="bibtex noshow">
+<pre>
+@inproceedings{lu2012robust,
+  author = {<b>Lu</b>, <b>Can-Yi</b> and Min, Hai and Zhao, Zhong-Qiu and Zhu, Lin and Huang, De-Shuang and Yan, Shuicheng},
+  title = {Robust and Efficient Subspace Segmentation via Least Squares Regression},
+  booktitle = {European Conference on Computer Vision (<b>ECCV</b>)},
+  publisher = {Springer},
+  year = {2012},
+  pages = {347--360}
+}
+</pre></div>
+</li>
+
+
+
 
 </ol>
+
