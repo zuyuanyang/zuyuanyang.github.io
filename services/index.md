@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /academic services/
+permalink: /services/
 title: 
-tags: [code]
+tags: [services]
 modified: 5-23-2018
 comments: false
 ---
