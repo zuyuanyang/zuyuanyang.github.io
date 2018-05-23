@@ -7,9 +7,6 @@ modified: 5-23-2018
 comments: false
 ---
 
-
-It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
-
 ### Journal Reviewer for
 
 * Journal of Machine Learning Research (JMLR)
