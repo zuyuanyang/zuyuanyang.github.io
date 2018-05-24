@@ -1,13 +1,13 @@
 ---
 layout: page
+permalink: /research/
 title: Research
-date: {{ date }}
-modified:
-share: false
-excerpt:
 tags: [research]
-
+modified: 05-23-2018
+comments: false
+share: false
 ---
+
 
 <ol>
   <li>### Unified Theory of Block Diagonal Matrix Learning for Subspace Clustering</li>
