@@ -3,12 +3,12 @@
    ========================================================================== */
 
 body {
-	background-color: #FFFFFF; //$bodycolor; 
+	background-color: $bodycolor;
 	font-family: $base-font;
 	color: $text-color;
   margin:0px;
   padding:0px;
-  background: #FFFFFF; //$bodycolor; // $bodycolor;
+  background:$bodycolor;
 }
 
 /*
