@@ -1,19 +1,19 @@
 # Site navigation links
 
-#- title: CV
-#  url: /cv
+- title: CV
+  url: /cv
 
 - title: Research
   url: /research
 
-#- title: Teaching
-#  url: /teaching
+- title: Teaching
+  url: /teaching
 
 - title: Publications
   url: /publications
 
-#- title: Blog
-#  url: /posts
+- title: Blog
+  url: /posts
  
 - title: Academic Services
   url: /services
