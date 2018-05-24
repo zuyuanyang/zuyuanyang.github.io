@@ -21,24 +21,15 @@
     <h1>About Me</h1>
     <p> I am now a Postdoctoral Research Associate at Carnegie Mellon University. <br><br>
 
-        I obtained my phd degree in 2017 from the National University of Singapore, with Profs. Jiashi Feng, Shuicheng Yan and Zhouchen Lin (Peking University). <br><br>
+        I obtained my phd degree in 2017 from the National University of Singapore, with Profs. <a href="https://sites.google.com/site/jshfeng/home">[Jiashi Feng]</a>, <a href="https://www.ece.nus.edu.sg/stfpage/eleyans/#pub">[Shuicheng Yan]</a> and <a href="http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm">[Zhouchen Lin]</a>. <br><br>
 
         canyilu AT gmail.com, canyil AT andrew.cmu.edu <br>
 
     </p>
 
 
-    <h3><a href="{{ site.url}}/posts/">Recent Updates</a></h3>
-    {% for post in site.posts limit:8 %}
-    <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
-      {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
-    {% endfor %}
+    <h3>Research Intrests</h3>
+    
 
     <footer role="contentinfo">
       <div class="article-author-bottom">
