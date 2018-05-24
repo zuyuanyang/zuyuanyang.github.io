@@ -14,12 +14,12 @@
 
 #- title: Blog
 #  url: /posts
-
-- title: Awards
-  url: /awards
-  
+ 
 - title: Academic Services
   url: /services
+  
+- title: Awards
+  url: /awards
 
 #- title: Theme Setup
 #  url: /theme-setup/
