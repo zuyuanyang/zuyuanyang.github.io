@@ -6,14 +6,18 @@ modified:
 share: false
 excerpt:
 tags: [research]
-image:
-  feature:
+
 ---
 
 <ol>
-  <li>Unified Theory of Block Diagonal Matrix Learning for Subspace Clustering</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>### Unified Theory of Block Diagonal Matrix Learning for Subspace Clustering</li>
+  
+  <li>Unified Frameworks of Alternating Direction Method of Multipliers (ADMM)</li>
+  
+  <li>Tensor Robust Principal Component Analysis (TRPCA)/Tensor Completion/Tensor Recovery</li>
+  
+  <li>Tensor Robust Principal Component Analysis (TRPCA)/Tensor Completion/Tensor Recovery</li>
+
 </ol>
 
 
