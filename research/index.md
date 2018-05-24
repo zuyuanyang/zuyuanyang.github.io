@@ -9,9 +9,6 @@ share: false
 ---
 
 
-<img src="./images/fig_blockdiagonal.png">
-
-
 <ol>
   <li>### Unified Theory of Block Diagonal Matrix Learning for Subspace Clustering</li>
   
@@ -26,16 +23,16 @@ share: false
 
 ### Unified Theory of Block Diagonal Matrix Learning for Subspace Clustering
 
-<img src="./images/fig_blockdiagonal.png">
+<img src="../images/fig_blockdiagonal.png">
 
 ###  Unified Frameworks of Alternating Direction Method of Multipliers (ADMM)
 
-<img src="./images/fig_ADMM.png">
+<img src="../images/fig_ADMM.png">
 
 ### Unified Solvers for Nonconvex Nonsmooth Low-rank Minimization
 
-<img src="./images/fig_nonconvexrank.png">
+<img src="../images/fig_nonconvexrank.png">
 
 ### Tensor Robust Principal Component Analysis (TRPCA)/Tensor Completion/Tensor Recovery
 
-<img src="./images/fig_trpca.png">
+<img src="../images/fig_trpca.png">
