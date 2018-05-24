@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /services/
-title: 
+title: Academic services
 tags: [services]
 modified: 5-23-2018
 comments: false
