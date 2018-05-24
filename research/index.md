@@ -10,29 +10,20 @@ share: false
 
 
 <ol>
-  <li>### Unified Theory of Block Diagonal Matrix Learning for Subspace Clustering</li>
+  <li><b> Unified Theory of Block Diagonal Matrix Learning for Subspace Clustering <\b></li>
+
+  <img src="../images/fig_blockdiagonal.png">
   
-  <li>Unified Frameworks of Alternating Direction Method of Multipliers (ADMM)</li>
+  <li><b> Unified Convergence Analysis of Alternating Direction Method of Multipliers (ADMM) <\b></li>
   
-  <li>Tensor Robust Principal Component Analysis (TRPCA)/Tensor Completion/Tensor Recovery</li>
+  <img src="../images/fig_admm.png">
   
-  <li>Tensor Robust Principal Component Analysis (TRPCA)/Tensor Completion/Tensor Recovery</li>
+  <li><b> Tensor Robust Principal Component Analysis (TRPCA)/Tensor Completion/Tensor Recovery <\b></li>
+  
+  <img src="../images/fig_trpca.png">
+  
+  <li><b> Generalized Nonconvex Nonsmooth Low-rank Minimization <\b></li>
+  
+  <img src="../images/fig_nonconvexrank.png">
 
 </ol>
-
-
-### Unified Theory of Block Diagonal Matrix Learning for Subspace Clustering
-
-<img src="../images/fig_blockdiagonal.png">
-
-###  Unified Frameworks of Alternating Direction Method of Multipliers (ADMM)
-
-<img src="../images/fig_ADMM.png">
-
-### Unified Solvers for Nonconvex Nonsmooth Low-rank Minimization
-
-<img src="../images/fig_nonconvexrank.png">
-
-### Tensor Robust Principal Component Analysis (TRPCA)/Tensor Completion/Tensor Recovery
-
-<img src="../images/fig_trpca.png">
