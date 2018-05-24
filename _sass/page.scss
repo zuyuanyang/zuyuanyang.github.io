@@ -3,7 +3,7 @@
    ========================================================================== */
 
 body {
-	background-color: #FFFFFF; //$bodycolor;
+	background-color: $bodycolor; //#FFFFFF; //
 	font-family: $base-font;
 	color: $text-color;
   margin:0px;
