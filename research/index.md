@@ -10,6 +10,13 @@ image:
   feature:
 ---
 
+<ol>
+  <li>Unified Theory of Block Diagonal Matrix Learning for Subspace Clustering</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
+
 ### Unified Theory of Block Diagonal Matrix Learning for Subspace Clustering
 
 <img src="./images/fig_blockdiagonal.png">
