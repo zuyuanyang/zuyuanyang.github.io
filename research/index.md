@@ -25,4 +25,3 @@ image:
 ### Tensor Robust Principal Component Analysis (TRPCA)/Tensor Completion/Tensor Recovery
 
 <img src="./images/fig_trpca.png">
-
