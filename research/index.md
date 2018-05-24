@@ -1,3 +1,5 @@
+
+
 ---
 layout: page
 permalink: /research/
@@ -7,6 +9,9 @@ modified: 05-23-2018
 comments: false
 share: false
 ---
+
+
+<img src="./images/fig_blockdiagonal.png">
 
 
 <ol>
