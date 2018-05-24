@@ -20,7 +20,7 @@ share: false
   
   <li><b> Tensor Robust Principal Component Analysis (TRPCA)/Tensor Completion/Tensor Recovery<br>
   
-  <img src="../images/fig_trpca.png"></li>
+  <img src="../images/fig_trpca.png">
   
   <li><b> Generalized Nonconvex Nonsmooth Low-rank Minimization<br>
   
