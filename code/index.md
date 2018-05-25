@@ -30,14 +30,3 @@ share: false
 * Circuits, Systems, and Signal Processing (CSSP)
 
 ### Conference Program Committee/Reviewer for
-
-* International Conference on Machine Learning (ICML) 2018
-* Neural Information Processing Systems (NIPS) 2017, 2018
-* IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2016, 2017, 2018
-* International Conference on Computer Visions (ICCV) 2015, 2017
-* European Conference on Computer Vision(ECCV) 2016, 2018
-* AAAI Conference on Artificial Intelligence (AAAI) 2016, 2017, 2018
-* International Joint Conference on Artificial Intelligence (IJCAI) 2016, 2018
-* International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2016
-* Asian Conference on Computer Vision (ACCV) 2016
-
