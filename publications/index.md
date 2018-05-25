@@ -7,8 +7,7 @@ share: false
 
 You can also browse my <a href="https://scholar.google.com/citations?user=EZcKJi4AAAAJ&hl=en" target="_blank" style="text-decoration:underline;">Google Scholar profile</a>.
 
-
-### Journal and Conference Publications
+### Preprints and Reports
 
 <style>
 .biblist { }
@@ -49,9 +48,87 @@ function toggleBibtex(articleid) {
 
 <!-- Generated from JabRef by PubList by Truong Nghiem at 09:00 on 2015.11.04. -->
 <ol class="biblist">
+   
+<!-- Item: lu2018tensor -->
+<li ><p>
+<b>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</b><br>
+<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan<br>
+
+<i>arXiv preprint arXiv:1804.03728</i>,
+
+
+2018<br>
+<a href="javascript:toggleBibtex('lu2018tensor')">[bibtex]</a>
+
+</p>
+<div id="bib_lu2018tensor" class="bibtex noshow">
+<pre>
+@article{lu2018tensor,
+  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Chen, Yudong and Liu, Wei and Lin, Zhouchen and Yan, Shuicheng},
+  title = {Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm},
+  journal = {arXiv preprint arXiv:1804.03728},
+  year = {2018}
+}
+</pre></div>
+</li>
 
 
 
+
+<!-- Item: hien2016accelerated -->
+<li ><p>
+<b>Accelerated Stochastic Mirror Descent Algorithms for Composite Non-strongly Convex Optimization</b><br>
+Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi Feng<br>
+
+<i>arXiv preprint arXiv:1605.06892</i>,
+
+
+2016<br>
+<a href="javascript:toggleBibtex('hien2016accelerated')">[bibtex]</a>
+
+</p>
+<div id="bib_hien2016accelerated" class="bibtex noshow">
+<pre>
+@article{hien2016accelerated,
+  author = {Hien, Le Thi Khanh and Nguyen, Cuong V and Xu, Huan and <b>Lu</b>, <b>Canyi</b> and Feng, Jiashi},
+  title = {Accelerated Stochastic Mirror Descent Algorithms for Composite Non-strongly Convex Optimization},
+  journal = {arXiv preprint arXiv:1605.06892},
+  year = {2016}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: wang2015projection -->
+<li ><p>
+<b>Projection onto the Capped Simplex</b><br>
+Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
+
+<i>arXiv preprint arXiv:1503.01002</i>,
+
+
+2015<br>
+<a href="javascript:toggleBibtex('wang2015projection')">[bibtex]</a>
+
+</p>
+<div id="bib_wang2015projection" class="bibtex noshow">
+<pre>
+@article{wang2015projection,
+  author = {Wang, Weiran and <b>Lu</b>, <b>Canyi</b>},
+  title = {Projection onto the Capped Simplex},
+  journal = {arXiv preprint arXiv:1503.01002},
+  year = {2015}
+}
+</pre></div>
+</li>
+
+</ol>
+
+
+### Journal and Conference Publications
+<ol class="biblist">
 
 <!-- Item: lu2016subspace -->
 <li ><p>
