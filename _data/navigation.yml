@@ -4,7 +4,9 @@
 #  url: /cv
 
 - title: Home
-  url: {{ site.url }}
+  url: 
+  
+ #{{ site.url }}
   
   
 - title: Research
