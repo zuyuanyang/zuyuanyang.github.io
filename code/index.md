@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /services/
+permalink: /code/
 title: Code
 tags: [code]
 modified: 5-23-2018
