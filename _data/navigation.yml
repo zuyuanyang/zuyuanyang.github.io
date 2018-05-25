@@ -3,6 +3,9 @@
 #- title: CV
 #  url: /cv
 
+- title: Home
+  url: /home
+  
 - title: Research
   url: /research
 
