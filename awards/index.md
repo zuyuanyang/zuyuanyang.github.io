@@ -7,6 +7,13 @@ modified: 05-23-2018
 comments: false
 share: false
 ---
+<ul>
+  <li>Chinese Government Award for Outstanding Self-Financed Students Abroad, 2017</li>
+  <li>Stars of Tomorrow (Award of Excellent Intern), Microsoft Research Asia, 2015</li>
+  <li>Milk</li>
+</ul>
+
+
 
 * Chinese Government Award for Outstanding Self-Financed Students Abroad, 2017
 * Stars of Tomorrow (Award of Excellent Intern), Microsoft Research Asia, 2015
