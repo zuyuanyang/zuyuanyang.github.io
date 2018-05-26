@@ -8,25 +8,4 @@ comments: false
 share: false
 ---
 
-### Journal Reviewer for
-
-* Journal of Machine Learning Research (JMLR)
-* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-* International Journal of Computer Vision (IJCV)
-* Machine Learning
-* IEEE Transactions on Knowledge and Data Engineering (TKDE)
-* IEEE Transactions on Image Processing (TIP)
-* IEEE Transactions on Signal Processing (TSP)
-* Computer Vision and Image Understanding (CVIU)
-* ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
-* IEEE Transactions on Multimedia (TMM)
-* Neural Networks
-* Neurocomputing
-* Neural Computing and Applications (NCAA)
-* Pattern Analysis and Applications (PAA)
-* Journal of Visual Communication and Image Representation (JVCI)
-* The Visual Computer
-* IEEE Signal Processing Letters (SPL)
-* Circuits, Systems, and Signal Processing (CSSP)
-
-### Conference Program Committee/Reviewer for
+### coming soon...
