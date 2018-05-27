@@ -59,7 +59,7 @@ function toggleBibtex(articleid) {
 
 2018<br>
 <a href="javascript:toggleBibtex('lu2018tensor')">[bibtex]</a>
-<a href="https://arxiv.org/pdf/1804.03728" target="_blank">[arXiv]</a>
+<a href="https://arxiv.org/abs/1804.03728" target="_blank">[arXiv]</a>
 <a href="https://github.com/canyilu/LibADMM" target="_blank">[code]</a>
 </p>
 <div id="bib_lu2018tensor" class="bibtex noshow">
