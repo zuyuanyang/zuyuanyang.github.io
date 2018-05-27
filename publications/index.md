@@ -567,7 +567,6 @@ pp. 141-144,
   title = {Imputation of ChIP-seq datasets via Low Rank Convex Co-Embedding},
   booktitle = {IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>)},
   year = {2015},
-  pages = {141-144}
 }
 </pre></div>
 </li>
