@@ -408,7 +408,7 @@ vol. 25,
 pp. 829-839,
 2016<br>
 <a href="javascript:toggleBibtex('lu2016nonconvex')">[bibtex]</a>
-<a href="../publications/2016-TIP-IRNN" target="_blank">[pdf]</a>
+<a href="../publications/2016-TIP-IRNN.pdf" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1510.06895" target="_blank">[arXiv]</a>
 <a href="https://github.com/canyilu/IRNN" target="_blank">[code]</a>
 </p>
