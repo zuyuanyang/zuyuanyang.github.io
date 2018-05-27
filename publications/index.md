@@ -59,7 +59,7 @@ function toggleBibtex(articleid) {
 
 2018<br>
 <a href="javascript:toggleBibtex('lu2018tensor')">[bibtex]</a>
-<a href="https://arxiv.org/pdf/1804.03728.pdf" target="_blank">[arXiv]</a>
+<a href="https://arxiv.org/pdf/1804.03728" target="_blank">[arXiv]</a>
 <a href="https://github.com/canyilu/LibADMM" target="_blank">[code]</a>
 </p>
 <div id="bib_lu2018tensor" class="bibtex noshow">
@@ -175,7 +175,6 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 <a href="../publications/2018-AAAI-NCVXSSC.pdf" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1712.02979" target="_blank">[arXiv]</a>
 <a href="../publications/2018-AAAI-NCVXSSC-poster.pdf" target="_blank">[poster]</a>
->>>>>>> ed0ad569b154eba3100b0f3e70719b60e72e1a5c
 </p>
 <div id="bib_lu2018exact" class="bibtex noshow">
 <pre>
