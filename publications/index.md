@@ -162,6 +162,7 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 </li>
 
 
+<<<<<<< HEAD
 
 
 <!-- Item: lu2018exact -->
@@ -175,6 +176,21 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 2018<br>
 <a href="javascript:toggleBibtex('lu2018exact')">[bibtex]</a>
 <a href="https://github.com/canyilu/tensor-completion-tensor-recovery" target="_blank">[code]</a>
+=======
+<!-- Item: lu2017nonconvex -->
+<li ><p>
+<b>Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers and Its Convergence Analysis</b><br>
+<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan<br>
+<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
+
+
+
+2018<br>
+<a href="javascript:toggleBibtex('lu2017nonconvex')">[bibtex]</a>
+<a href="../publications/2018-AAAI-NCVXSSC.pdf" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1712.02979" target="_blank">[arXiv]</a>
+<a href="../publications/2018-AAAI-NCVXSSC-poster.pdf" target="_blank">[poster]</a>
+>>>>>>> ed0ad569b154eba3100b0f3e70719b60e72e1a5c
 </p>
 <div id="bib_lu2018exact" class="bibtex noshow">
 <pre>
@@ -190,7 +206,12 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 
 
 
+<<<<<<< HEAD
 <!-- Item: lu2018nonconvex -->
+=======
+
+<!-- Item: lu2018exact -->
+>>>>>>> ed0ad569b154eba3100b0f3e70719b60e72e1a5c
 <li ><p>
 <b>Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers and Its Convergence Analysis</b><br>
 <b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan<br>
