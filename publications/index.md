@@ -156,18 +156,24 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 
 
 
-
 <!-- Item: lu2017nonconvex -->
 <li ><p>
-<b>Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers and Its Convergence Analysis</b><br>
-<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan<br>
-<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
+<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan,
+&ldquo;Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers and Its Convergence Analysis,&rdquo;
+in <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
 
 
 
-2018<br>
+
+
+2018.
+
+<br />
 <a href="javascript:toggleBibtex('lu2017nonconvex')">[bibtex]</a>
-<a href="https://arxiv.org/abs/1712.02979" target="_blank">[arXiv]</a>
+
+<a href="../publications/2018-AAAI-NCVXSSC.pdf">[pdf]</a>
+
+
 
 </p>
 <div id="bib_lu2017nonconvex" class="bibtex noshow">
@@ -178,7 +184,8 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
   booktitle = {AAAI Conference on Artificial Intelligence (<b>AAAI</b>)},
   year = {2018}
 }
-</pre></div>
+</pre>
+</div>
 </li>
 
 
