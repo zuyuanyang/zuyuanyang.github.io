@@ -137,6 +137,8 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 ### Journal and Conference Publications
 <ol class="biblist">
 
+
+
 <!-- Item: lu2016subspace -->
 <li ><p>
 <b>Subspace Clustering by Block Diagonal Representation</b><br>
@@ -170,8 +172,10 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 <b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan<br>
 <i>International Joint Conference on Artificial Intelligence (<b>IJCAI</b>)</i>,
 
+
+
 2018<br>
-<a href="javascript:toggleBibtex('lu2017nonconvex')">[bibtex]</a>
+<a href="javascript:toggleBibtex('lu2018exact')">[bibtex]</a>
 <a href="https://github.com/canyilu/tensor-completion-tensor-recovery" target="_blank">[code]</a>
 </p>
 <div id="bib_lu2018exact" class="bibtex noshow">
@@ -187,7 +191,8 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 
 
 
-<!-- Item: lu2018exact -->
+
+<!-- Item: lu2018nonconvex -->
 <li ><p>
 <b>Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers and Its Convergence Analysis</b><br>
 <b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan<br>
@@ -391,6 +396,34 @@ pp. 2833-2843,
   volume = {25},
   number = {6},
   pages = {2833--2843}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2016fast -->
+<li ><p>
+<b>Fast Proximal Linearized Alternating Direction Method of Multiplier with Parallel Splitting</b><br>
+<b>Canyi</b> <b>Lu</b>, Huan Li, Zhouchen Lin and Shuicheng Yan<br>
+<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
+
+
+
+2016<br>
+<a href="javascript:toggleBibtex('lu2016fast')">[bibtex]</a>
+<a href="../publications/2016-AAAI-FastPALM.pdf" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1511.05133" target="_blank">[arXiv]</a>
+<a href="../publications/2016-AAAI-FastPALM-poster.pdf" target="_blank">[poster]</a>
+</p>
+<div id="bib_lu2016fast" class="bibtex noshow">
+<pre>
+@inproceedings{lu2016fast,
+  author = {<b>Lu</b>, <b>Canyi</b> and Li, Huan and Lin, Zhouchen and Yan, Shuicheng},
+  title = {Fast Proximal Linearized Alternating Direction Method of Multiplier with Parallel Splitting},
+  booktitle = {AAAI Conference on Artificial Intelligence (<b>AAAI</b>)},
+  year = {2016}
 }
 </pre></div>
 </li>
@@ -787,12 +820,41 @@ pp. 2368-2378,
 <a href="../publications/2013-ICCV-CASS.pdf" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1501.04276" target="_blank">[arXiv]</a>
 <a href="../publications/2013-ICCV-CASS-poster.pdf" target="_blank">[poster]</a>
+<a href="https://github.com/canyilu/LibADMM" target="_blank">[code]</a>
 </p>
 <div id="bib_lu2013correlation" class="bibtex noshow">
 <pre>
 @inproceedings{lu2013correlation,
   author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Lin, Zhouchen and Yan, Shuicheng},
   title = {Correlation Adaptive Subspace Segmentation by Trace Lasso},
+  booktitle = {IEEE International Conference on Computer Vision (<b>ICCV</b>)},
+  year = {2013}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2013correntropy -->
+<li ><p>
+<b>Correntropy Induced L2 Graph for Robust Subspace Clustering</b><br>
+<b>Canyi</b> <b>Lu</b>, Jinhui Tang, Min Lin, Liang Lin, Shuicheng Yan and Zhouchen Lin<br>
+<i>IEEE International Conference on Computer Vision (<b>ICCV</b>)</i>,
+
+
+
+2013<br>
+<a href="javascript:toggleBibtex('lu2013correntropy')">[bibtex]</a>
+<a href="../publications/2013-ICCV-CIL2.pdf" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1501.04277" target="_blank">[arXiv]</a>
+<a href="../publications/2013-ICCV-CIL2-poster.pdf" target="_blank">[poster]</a>
+</p>
+<div id="bib_lu2013correntropy" class="bibtex noshow">
+<pre>
+@inproceedings{lu2013correntropy,
+  author = {<b>Lu</b>, <b>Canyi</b> and Tang, Jinhui and Lin, Min and Lin, Liang and Yan, Shuicheng and Lin, Zhouchen},
+  title = {Correntropy Induced L2 Graph for Robust Subspace Clustering},
   booktitle = {IEEE International Conference on Computer Vision (<b>ICCV</b>)},
   year = {2013}
 }
@@ -860,3 +922,41 @@ pp. 213-219,
 </pre></div>
 </li>
 
+
+
+
+<!-- Item: lu2012robust -->
+<li ><p>
+<b>Robust and Efficient Subspace Segmentation via Least Squares Regression</b><br>
+<b>Can-Yi</b> <b>Lu</b>, Hai Min, Zhong-Qiu Zhao, Lin Zhu, De-Shuang Huang and Shuicheng Yan<br>
+<i>European Conference on Computer Vision (<b>ECCV</b>)</i>,
+
+
+pp. 347-360,
+2012<br>
+<a href="javascript:toggleBibtex('lu2012robust')">[bibtex]</a>
+<a href="../publications/2012-ECCV-LSR.pdf" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1404.6736" target="_blank">[arXiv]</a>
+<a href="../publications/2012-ECCV-LSR-poster.pdf" target="_blank">[poster]</a>
+<a href="../publications/2012-ECCV-LSR-slides.pdf" target="_blank">[slides]</a>
+<a href="https://github.com/canyilu/LSR" target="_blank">[code]</a>
+</p>
+<div id="bib_lu2012robust" class="bibtex noshow">
+<pre>
+@inproceedings{lu2012robust,
+  author = {<b>Lu</b>, <b>Can-Yi</b> and Min, Hai and Zhao, Zhong-Qiu and Zhu, Lin and Huang, De-Shuang and Yan, Shuicheng},
+  title = {Robust and Efficient Subspace Segmentation via Least Squares Regression},
+  booktitle = {European Conference on Computer Vision (<b>ECCV</b>)},
+  publisher = {Springer},
+  year = {2012},
+  pages = {347--360}
+}
+</pre></div>
+</li>
+
+
+
+
+</ol>
+</body>
+</html>
