@@ -48,7 +48,7 @@ function toggleBibtex(articleid) {
 
 <!-- Generated from JabRef by PubList by Truong Nghiem at 09:00 on 2015.11.04. -->
 <ol class="biblist">
-   
+
 <!-- Item: lu2018tensor -->
 <li ><p>
 <b>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</b><br>
@@ -59,7 +59,8 @@ function toggleBibtex(articleid) {
 
 2018<br>
 <a href="javascript:toggleBibtex('lu2018tensor')">[bibtex]</a>
-
+<a href="https://arxiv.org/pdf/1804.03728.pdf" target="_blank">[arXiv]</a>
+<a href="https://github.com/canyilu/LibADMM" target="_blank">[code]</a>
 </p>
 <div id="bib_lu2018tensor" class="bibtex noshow">
 <pre>
@@ -85,7 +86,7 @@ Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi F
 
 2016<br>
 <a href="javascript:toggleBibtex('hien2016accelerated')">[bibtex]</a>
-
+<a href="https://arxiv.org/abs/1605.06892" target="_blank">[arXiv]</a>
 </p>
 <div id="bib_hien2016accelerated" class="bibtex noshow">
 <pre>
@@ -111,7 +112,9 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 
 2015<br>
 <a href="javascript:toggleBibtex('wang2015projection')">[bibtex]</a>
-
+<a href="../publications/2015-report-simplex.pdf" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1503.01002" target="_blank">[arXiv]</a>
+<a href="https://github.com/canyilu/Projection-onto-the-capped-simplex" target="_blank">[code]</a>
 </p>
 <div id="bib_wang2015projection" class="bibtex noshow">
 <pre>
@@ -124,7 +127,11 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 </pre></div>
 </li>
 
+
+
+
 </ol>
+
 
 
 ### Journal and Conference Publications
@@ -140,8 +147,8 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 
 2018<br>
 <a href="javascript:toggleBibtex('lu2016subspace')">[bibtex]</a>
-<a href="https://ieeexplore.ieee.org/document/8259470/" target="_blank">[IEEE Link]</a>
-
+<a href="../publications/2018-TPAMI-BDR.pdf" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1805.09243" target="_blank">[arXiv]</a>
 </p>
 <div id="bib_lu2016subspace" class="bibtex noshow">
 <pre>
@@ -152,40 +159,6 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
   year = {2018}
 }
 </pre></div>
-</li>
-
-
-
-<!-- Item: lu2017nonconvex -->
-<li ><p>
-<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan,
-&ldquo;Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers and Its Convergence Analysis,&rdquo;
-in <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
-
-
-
-
-
-2018.
-
-<br />
-<a href="javascript:toggleBibtex('lu2017nonconvex')">[bibtex]</a>
-
-<a href="../publications/2018-AAAI-NCVXSSC.pdf">[pdf]</a>
-
-
-
-</p>
-<div id="bib_lu2017nonconvex" class="bibtex noshow">
-<pre>
-@inproceedings{lu2017nonconvex,
-  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Lin, Zhouchen and Yan, Shuicheng},
-  title = {Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers and Its Convergence Analysis},
-  booktitle = {AAAI Conference on Artificial Intelligence (<b>AAAI</b>)},
-  year = {2018}
-}
-</pre>
-</div>
 </li>
 
 
@@ -202,7 +175,6 @@ in <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
 2018<br>
 <a href="javascript:toggleBibtex('lu2018exact')">[bibtex]</a>
 <a href="https://github.com/canyilu/tensor-completion-tensor-recovery" target="_blank">[code]</a>
-
 </p>
 <div id="bib_lu2018exact" class="bibtex noshow">
 <pre>
@@ -210,6 +182,34 @@ in <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
   author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Lin, Zhouchen and Yan, Shuicheng},
   title = {Exact Low Tubal Rank Tensor Recovery from Gaussian Measurements},
   booktitle = {International Joint Conference on Artificial Intelligence (<b>IJCAI</b>)},
+  year = {2018}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: lu2018nonconvex -->
+<li ><p>
+<b>Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers and Its Convergence Analysis</b><br>
+<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan<br>
+<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
+
+
+
+2018<br>
+<a href="javascript:toggleBibtex('lu2018nonconvex')">[bibtex]</a>
+<a href="../publications/2018-AAAI-NCVXSSC.pdf" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1712.02979" target="_blank">[arXiv]</a>
+<a href="../publications/2018-AAAI-NCVXSSC-poster.pdf" target="_blank">[poster]</a>
+</p>
+<div id="bib_lu2018nonconvex" class="bibtex noshow">
+<pre>
+@inproceedings{lu2018nonconvex,
+  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Lin, Zhouchen and Yan, Shuicheng},
+  title = {Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers and Its Convergence Analysis},
+  booktitle = {AAAI Conference on Artificial Intelligence (<b>AAAI</b>)},
   year = {2018}
 }
 </pre></div>
@@ -228,8 +228,8 @@ vol. 151,
 pp. 45-55,
 2018<br>
 <a href="javascript:toggleBibtex('lu2018optimized')">[bibtex]</a>
+<a href="../publications/2018-SignalProcessing-DMCM.pdf" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1508.03117" target="_blank">[arXiv]</a>
-
 </p>
 <div id="bib_lu2018optimized" class="bibtex noshow">
 <pre>
@@ -257,8 +257,9 @@ vol. 40,
 pp. 527-541,
 2018<br>
 <a href="javascript:toggleBibtex('lu2018unified')">[bibtex]</a>
+<a href="../publications/2018-TPAMI-UnifiedADMM.pdf" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1607.02584" target="_blank">[arXiv]</a>
-
+<a href="https://github.com/canyilu/LibADMM" target="_blank">[LibADMM Toolbox]</a>
 </p>
 <div id="bib_lu2018unified" class="bibtex noshow">
 <pre>
@@ -283,20 +284,19 @@ pp. 527-541,
 <b>Connections between Nuclear-norm and Frobenius-norm-based Representations</b><br>
 Xi Peng, <b>Canyi</b> <b>Lu</b>, Zhang Yi and Huajin Tang<br>
 
-<i>IEEE transactions on neural networks and learning systems (<b>TNNLS</b>)</i>,
+<i>IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</i>,
 vol. 29,
 pp. 218-224,
 2018<br>
 <a href="javascript:toggleBibtex('peng2018connections')">[bibtex]</a>
 <a href="https://arxiv.org/abs/1502.07423" target="_blank">[arXiv]</a>
-
 </p>
 <div id="bib_peng2018connections" class="bibtex noshow">
 <pre>
 @article{peng2018connections,
   author = {Peng, Xi and <b>Lu</b>, <b>Canyi</b> and Yi, Zhang and Tang, Huajin},
   title = {Connections between Nuclear-norm and Frobenius-norm-based Representations},
-  journal = {IEEE transactions on neural networks and learning systems (<b>TNNLS</b>)},
+  journal = {IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)},
   publisher = {IEEE},
   year = {2018},
   volume = {29},
@@ -319,8 +319,8 @@ vol. 27,
 pp. 1152-1163,
 2018<br>
 <a href="javascript:toggleBibtex('zhou2018tensor')">[bibtex]</a>
+<a href="../publications/2018-TIP-TCTF.pdf" target="_blank">[pdf]</a>
 <a href="https://panzhous.github.io/" target="_blank">[code]</a>
-
 </p>
 <div id="bib_zhou2018tensor" class="bibtex noshow">
 <pre>
@@ -350,7 +350,6 @@ vol. 47,
 pp. 449-460,
 2017<br>
 <a href="javascript:toggleBibtex('wei2017cross')">[bibtex]</a>
-
 </p>
 <div id="bib_wei2017cross" class="bibtex noshow">
 <pre>
@@ -380,9 +379,9 @@ vol. 25,
 pp. 2833-2843,
 2016<br>
 <a href="javascript:toggleBibtex('lu2016convex')">[bibtex]</a>
-<a href="https://arxiv.org/abs/1511.06860" target="_blank">[pdf]</a>
+<a href="../publications/2016-TIP-CVXSSC.pdf" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1511.06860" target="_blank">[arXiv]</a>
 <a href="https://github.com/canyilu/LibADMM" target="_blank">[code]</a>
-
 </p>
 <div id="bib_lu2016convex" class="bibtex noshow">
 <pre>
@@ -402,33 +401,6 @@ pp. 2833-2843,
 
 
 
-<!-- Item: lu2016fast -->
-<li ><p>
-<b>Fast Proximal Linearized Alternating Direction Method of Multiplier with Parallel Splitting</b><br>
-<b>Canyi</b> <b>Lu</b>, Huan Li, Zhouchen Lin and Shuicheng Yan<br>
-<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
-
-
-
-2016<br>
-<a href="javascript:toggleBibtex('lu2016fast')">[bibtex]</a>
-<a href="https://arxiv.org/abs/1511.05133" target="_blank">[arXiv]</a>
-
-</p>
-<div id="bib_lu2016fast" class="bibtex noshow">
-<pre>
-@inproceedings{lu2016fast,
-  author = {<b>Lu</b>, <b>Canyi</b> and Li, Huan and Lin, Zhouchen and Yan, Shuicheng},
-  title = {Fast Proximal Linearized Alternating Direction Method of Multiplier with Parallel Splitting},
-  booktitle = {AAAI Conference on Artificial Intelligence (<b>AAAI</b>)},
-  year = {2016}
-}
-</pre></div>
-</li>
-
-
-
-
 <!-- Item: lu2016nonconvex -->
 <li ><p>
 <b>Nonconvex Nonsmooth Low Rank Minimization via Iteratively Reweighted Nuclear Norm</b><br>
@@ -439,8 +411,9 @@ vol. 25,
 pp. 829-839,
 2016<br>
 <a href="javascript:toggleBibtex('lu2016nonconvex')">[bibtex]</a>
+<a href="../publications/2016-TIP-IRNN" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1510.06895" target="_blank">[arXiv]</a>
-
+<a href="https://github.com/canyilu/IRNN" target="_blank">[code]</a>
 </p>
 <div id="bib_lu2016nonconvex" class="bibtex noshow">
 <pre>
@@ -470,8 +443,10 @@ pp. 829-839,
 
 2016<br>
 <a href="javascript:toggleBibtex('lu2016tensor')">[bibtex]</a>
+<a href="../publications/2016-CVPR-TRPCA.pdf" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1708.04181" target="_blank">[arXiv]</a>
-
+<a href="../publications/2016-CVPR-TRPCA-poster.pdf" target="_blank">[poster]</a>
+<a href="https://github.com/canyilu/LibADMM" target="_blank">[code]</a>
 </p>
 <div id="bib_lu2016tensor" class="bibtex noshow">
 <pre>
@@ -497,7 +472,6 @@ vol. 26,
 pp. 2273-2283,
 2016<br>
 <a href="javascript:toggleBibtex('xu2016multi')">[bibtex]</a>
-
 </p>
 <div id="bib_xu2016multi" class="bibtex noshow">
 <pre>
@@ -527,8 +501,9 @@ pp. 2273-2283,
 
 2015<br>
 <a href="javascript:toggleBibtex('lu2015generalized')">[bibtex]</a>
+<a href="../publications/2015-AAAI-GSVT.pdf" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1412.2231" target="_blank">[arXiv]</a>
-
+<a href="../publications/2015-AAAI-GSVT-poster.pdf" target="_blank">[poster]</a>
 </p>
 <div id="bib_lu2015generalized" class="bibtex noshow">
 <pre>
@@ -554,7 +529,6 @@ Lin Zhu, Wei-Li Guo, De-Shuang Huang and Canyi Lu<br>
 pp. 141-144,
 2015<br>
 <a href="javascript:toggleBibtex('lu2015imputation')">[bibtex]</a>
-
 </p>
 <div id="bib_lu2015imputation" class="bibtex noshow">
 <pre>
@@ -581,8 +555,9 @@ vol. 24,
 pp. 646-654,
 2015<br>
 <a href="javascript:toggleBibtex('lu2015smoothed')">[bibtex]</a>
+<a href="../publications/2015-TIP-SmoothedLRR.pdf" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1401.7413" target="_blank">[arXiv]</a>
-
+<a href="https://github.com/canyilu/Smoothed-LRR" target="_blank">[code]</a>
 </p>
 <div id="bib_lu2015smoothed" class="bibtex noshow">
 <pre>
@@ -612,7 +587,6 @@ pp. 1565-1575,
 2015<br>
 <a href="javascript:toggleBibtex('nguyen2015adaptive')">[bibtex]</a>
 <a href="https://arxiv.org/abs/1505.01560" target="_blank">[arXiv]</a>
-
 </p>
 <div id="bib_nguyen2015adaptive" class="bibtex noshow">
 <pre>
@@ -642,7 +616,7 @@ vol. 25,
 pp. 1576-1585,
 2015<br>
 <a href="javascript:toggleBibtex('xu2015discriminative')">[bibtex]</a>
-
+<a href="../publications/2015-TCSVT-DALie.pdf" target="_blank">[pdf]</a>
 </p>
 <div id="bib_xu2015discriminative" class="bibtex noshow">
 <pre>
@@ -672,7 +646,7 @@ vol. 25,
 pp. 1140-1150,
 2015<br>
 <a href="javascript:toggleBibtex('xu2015facial')">[bibtex]</a>
-
+<a href="../publications/2015-TCSVT-Lie.pdf" target="_blank">[pdf]</a>
 </p>
 <div id="bib_xu2015facial" class="bibtex noshow">
 <pre>
@@ -702,8 +676,7 @@ Hanjiang Lai, Yan Pan, <b>Canyi</b> <b>Lu</b>, Yong Tang and Shuicheng Yan<br>
 
 2014<br>
 <a href="javascript:toggleBibtex('lai2014efficient')">[bibtex]</a>
-<a href="https://pdfs.semanticscholar.org/fa85/31d90d5eab6fc4bd2ba9064ea50b28eae7d6.pdf" target="_blank">[pdf]</a>
-
+<a href="../publications/2014-ECCV-ksupport.pdf" target="_blank">[pdf]</a>
 </p>
 <div id="bib_lai2014efficient" class="bibtex noshow">
 <pre>
@@ -729,8 +702,10 @@ Hanjiang Lai, Yan Pan, <b>Canyi</b> <b>Lu</b>, Yong Tang and Shuicheng Yan<br>
 
 2014<br>
 <a href="javascript:toggleBibtex('lu2014generalized')">[bibtex]</a>
+<a href="../publications/2014-CVPR-IRNN.pdf" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1404.7306" target="_blank">[arXiv]</a>
-
+<a href="../publications/2014-CVPR-IRNN-poster.pdf" target="_blank">[poster]</a>
+<a href="https://github.com/canyilu/IRNN" target="_blank">[code]</a>
 </p>
 <div id="bib_lu2014generalized" class="bibtex noshow">
 <pre>
@@ -756,8 +731,9 @@ Hanjiang Lai, Yan Pan, <b>Canyi</b> <b>Lu</b>, Yong Tang and Shuicheng Yan<br>
 
 2014<br>
 <a href="javascript:toggleBibtex('lu2014proximal')">[bibtex]</a>
+<a href="../publications/2014-AAAI-PIRE.pdf" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1404.6871" target="_blank">[arXiv]</a>
-
+<a href="../publications/2014-AAAI-PIRE-poster.pdf" target="_blank">[poster]</a>
 </p>
 <div id="bib_lu2014proximal" class="bibtex noshow">
 <pre>
@@ -783,7 +759,6 @@ vol. 44,
 pp. 2368-2378,
 2014<br>
 <a href="javascript:toggleBibtex('wang2014robust')">[bibtex]</a>
-
 </p>
 <div id="bib_wang2014robust" class="bibtex noshow">
 <pre>
@@ -812,41 +787,15 @@ pp. 2368-2378,
 
 2013<br>
 <a href="javascript:toggleBibtex('lu2013correlation')">[bibtex]</a>
+<a href="../publications/2013-ICCV-CASS.pdf" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1501.04276" target="_blank">[arXiv]</a>
-
+<a href="../publications/2013-ICCV-CASS-poster.pdf" target="_blank">[poster]</a>
 </p>
 <div id="bib_lu2013correlation" class="bibtex noshow">
 <pre>
 @inproceedings{lu2013correlation,
   author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Lin, Zhouchen and Yan, Shuicheng},
   title = {Correlation Adaptive Subspace Segmentation by Trace Lasso},
-  booktitle = {IEEE International Conference on Computer Vision (<b>ICCV</b>)},
-  year = {2013}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2013correntropy -->
-<li ><p>
-<b>Correntropy Induced L2 Graph for Robust Subspace Clustering</b><br>
-<b>Canyi</b> <b>Lu</b>, Jinhui Tang, Min Lin, Liang Lin, Shuicheng Yan and Zhouchen Lin<br>
-<i>IEEE International Conference on Computer Vision (<b>ICCV</b>)</i>,
-
-
-
-2013<br>
-<a href="javascript:toggleBibtex('lu2013correntropy')">[bibtex]</a>
-<a href="https://arxiv.org/abs/1501.04277" target="_blank">[arXiv]</a>
-
-</p>
-<div id="bib_lu2013correntropy" class="bibtex noshow">
-<pre>
-@inproceedings{lu2013correntropy,
-  author = {<b>Lu</b>, <b>Canyi</b> and Tang, Jinhui and Lin, Min and Lin, Liang and Yan, Shuicheng and Lin, Zhouchen},
-  title = {Correntropy Induced L2 Graph for Robust Subspace Clustering},
   booktitle = {IEEE International Conference on Computer Vision (<b>ICCV</b>)},
   year = {2013}
 }
@@ -866,7 +815,8 @@ vol. 24,
 pp. 111-116,
 2013<br>
 <a href="javascript:toggleBibtex('lu2013face')">[bibtex]</a>
-
+<a href="../publications/2013-JVCI-WSRC.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/canyilu/WSRC" target="_blank">[code]</a>
 </p>
 <div id="bib_lu2013face" class="bibtex noshow">
 <pre>
@@ -896,7 +846,8 @@ vol. 113,
 pp. 213-219,
 2013<br>
 <a href="javascript:toggleBibtex('lu2013optimized')">[bibtex]</a>
-
+<a href="../publications/2013-Neurocomputing-OPSRC.pdf" target="_blank">[pdf]</a>
+<a href="https://github.com/canyilu/OP-SRC" target="_blank">[code]</a>
 </p>
 <div id="bib_lu2013optimized" class="bibtex noshow">
 <pre>
@@ -915,34 +866,4 @@ pp. 213-219,
 
 
 
-<!-- Item: lu2012robust -->
-<li ><p>
-<b>Robust and Efficient Subspace Segmentation via Least Squares Regression</b><br>
-<b>Can-Yi</b> <b>Lu</b>, Hai Min, Zhong-Qiu Zhao, Lin Zhu, De-Shuang Huang and Shuicheng Yan<br>
-<i>European Conference on Computer Vision (<b>ECCV</b>)</i>,
-
-
-pp. 347-360,
-2012<br>
-<a href="javascript:toggleBibtex('lu2012robust')">[bibtex]</a>
-<a href="https://arxiv.org/abs/1404.6736" target="_blank">[arXiv]</a>
-
-</p>
-<div id="bib_lu2012robust" class="bibtex noshow">
-<pre>
-@inproceedings{lu2012robust,
-  author = {<b>Lu</b>, <b>Can-Yi</b> and Min, Hai and Zhao, Zhong-Qiu and Zhu, Lin and Huang, De-Shuang and Yan, Shuicheng},
-  title = {Robust and Efficient Subspace Segmentation via Least Squares Regression},
-  booktitle = {European Conference on Computer Vision (<b>ECCV</b>)},
-  publisher = {Springer},
-  year = {2012},
-  pages = {347--360}
-}
-</pre></div>
-</li>
-
-
-
-
 </ol>
-
