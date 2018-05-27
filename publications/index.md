@@ -172,9 +172,7 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 
 2018<br>
 <a href="javascript:toggleBibtex('lu2017nonconvex')">[bibtex]</a>
-<a href="../publications/2018-AAAI-NCVXSSC.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1712.02979" target="_blank">[arXiv]</a>
-<a href="../publications/2018-AAAI-NCVXSSC-poster.pdf" target="_blank">[poster]</a>
+<a href="https://github.com/canyilu/tensor-completion-tensor-recovery" target="_blank">[code]</a>
 </p>
 <div id="bib_lu2018exact" class="bibtex noshow">
 <pre>
