@@ -63,7 +63,6 @@ function toggleBibtex(articleid) {
 <a href="https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA" class="textlink" target="_blank">[code]</a>
 <a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
 
-
 </p>
 
 
