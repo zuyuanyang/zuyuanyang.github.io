@@ -86,7 +86,7 @@ Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi F
 
 2016<br>
 <a href="javascript:toggleBibtex('hien2016accelerated')">[bibtex]</a>
-<a href="https://arxiv.org/abs/1605.06892" target="_blank">[arXiv]</a>
+<a href="https://arxiv.org/abs/1605.06892" class="textlink" target="_blank">[arXiv]</a>
 </p>
 <div id="bib_hien2016accelerated" class="bibtex noshow">
 <pre>
