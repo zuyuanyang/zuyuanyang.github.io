@@ -14,6 +14,7 @@ share: false
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * International Journal of Computer Vision (IJCV)
 * Machine Learning
+* Journal of Selected Topics in Signal Processing (J-STSP)
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Image Processing (TIP)
 * IEEE Transactions on Signal Processing (TSP)
