@@ -58,11 +58,11 @@ $linkcolorhover 	: #00a0a0;
 $linkcolorvisited : lighten($linkcolor, 0);
 $linkcolorfocus 	: lighten($linkcolorhover, 20);
 
-$linkcolorhover-textlink   : $linkcolorhover;
-$linkcolor-textlink        : darken($linkcolorhover-textlink, 10);
+$linkcolor-textlink        : #045bdd; //darken($linkcolorhover-textlink, 10); 
 $link-color-textlink       : $linkcolor-textlink;
+$linkcolorhover-textlink   : #00a0a0; //$linkcolorhover; //
 $linkcolorvisited-textlink : lighten($linkcolor-textlink, 0);
-$linkcolorfocus-textlink   : lighten($linkcolorhover-textlink, 10);
+$linkcolorfocus-textlink   : lighten($linkcolorhover-textlink, 20);
 /*
    Breakpoints
    ========================================================================== */

@@ -52,7 +52,7 @@ a {
 }
 
 .textlink {
-  font-weight:bold;
+  font-weight: none; //bold;
 	text-decoration: none;
 	color: $link-color-textlink;
   &:link {
