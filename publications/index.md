@@ -125,7 +125,7 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 
 
 2015<br>
-<a href="javascript:toggleBibtex('wang2015projection') class="textlink"">[bibtex]</a>
+<a href="javascript:toggleBibtex('wang2015projection') class="textlink" ">[bibtex]</a>
 <a href="../publications/2015-report-simplex.pdf" class="textlink" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1503.01002" class="textlink" target="_blank">[arXiv]</a>
 <a href="https://github.com/canyilu/Projection-onto-the-capped-simplex" class="textlink" target="_blank">[code]</a>
