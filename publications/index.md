@@ -59,9 +59,16 @@ function toggleBibtex(articleid) {
 
 2018<br>
 <a href="javascript:toggleBibtex('lu2018tensor')">[bibtex]</a>
-<a href="https://arxiv.org/abs/1804.03728" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/LibADMM" target="_blank">[code]</a>
+<a href="https://arxiv.org/abs/1804.03728" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA" class="textlink" target="_blank">[code]</a>
+<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2018tensor" class="bibtex noshow">
 <pre>
 @article{lu2018tensor,
@@ -86,8 +93,14 @@ Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi F
 
 2016<br>
 <a href="javascript:toggleBibtex('hien2016accelerated')">[bibtex]</a>
-<a href="https://arxiv.org/abs/1605.06892" target="_blank">[arXiv]</a>
+<a href="https://arxiv.org/abs/1605.06892" class="textlink" target="_blank">[arXiv]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_hien2016accelerated" class="bibtex noshow">
 <pre>
 @article{hien2016accelerated,
@@ -112,10 +125,16 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 
 2015<br>
 <a href="javascript:toggleBibtex('wang2015projection')">[bibtex]</a>
-<a href="../publications/2015-report-simplex.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1503.01002" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/Projection-onto-the-capped-simplex" target="_blank">[code]</a>
+<a href="../publications/2015-report-simplex.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1503.01002" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/canyilu/Projection-onto-the-capped-simplex" class="textlink" target="_blank">[code]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_wang2015projection" class="bibtex noshow">
 <pre>
 @article{wang2015projection,
@@ -126,9 +145,6 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 }
 </pre></div>
 </li>
-
-
-
 
 </ol>
 
@@ -149,9 +165,15 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 
 2018<br>
 <a href="javascript:toggleBibtex('lu2016subspace')">[bibtex]</a>
-<a href="../publications/2018-TPAMI-BDR.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1805.09243" target="_blank">[arXiv]</a>
+<a href="../publications/2018-TPAMI-BDR.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1805.09243" class="textlink" target="_blank">[arXiv]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2016subspace" class="bibtex noshow">
 <pre>
 @article{lu2016subspace,
@@ -176,8 +198,15 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 
 2018<br>
 <a href="javascript:toggleBibtex('lu2018exact')">[bibtex]</a>
-<a href="https://github.com/canyilu/tensor-completion-tensor-recovery" target="_blank">[code]</a>
+<a href="https://github.com/canyilu/tensor-completion-tensor-recovery" class="textlink" target="_blank">[code]</a>
+<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2018exact" class="bibtex noshow">
 <pre>
 @inproceedings{lu2018exact,
@@ -202,10 +231,16 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 
 2018<br>
 <a href="javascript:toggleBibtex('lu2018nonconvex')">[bibtex]</a>
-<a href="../publications/2018-AAAI-NCVXSSC.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1712.02979" target="_blank">[arXiv]</a>
-<a href="../publications/2018-AAAI-NCVXSSC-poster.pdf" target="_blank">[poster]</a>
+<a href="../publications/2018-AAAI-NCVXSSC.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1712.02979" class="textlink" target="_blank">[arXiv]</a>
+<a href="../publications/2018-AAAI-NCVXSSC-poster.pdf" class="textlink" target="_blank">[poster]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2018nonconvex" class="bibtex noshow">
 <pre>
 @inproceedings{lu2018nonconvex,
@@ -230,9 +265,15 @@ vol. 151,
 pp. 45-55,
 2018<br>
 <a href="javascript:toggleBibtex('lu2018optimized')">[bibtex]</a>
-<a href="../publications/2018-SignalProcessing-DMCM.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1508.03117" target="_blank">[arXiv]</a>
+<a href="../publications/2018-SignalProcessing-DMCM.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1508.03117" class="textlink" target="_blank">[arXiv]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2018optimized" class="bibtex noshow">
 <pre>
 @article{lu2018optimized,
@@ -259,10 +300,16 @@ vol. 40,
 pp. 527-541,
 2018<br>
 <a href="javascript:toggleBibtex('lu2018unified')">[bibtex]</a>
-<a href="../publications/2018-TPAMI-UnifiedADMM.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1607.02584" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/LibADMM" target="_blank">[LibADMM Toolbox]</a>
+<a href="../publications/2018-TPAMI-UnifiedADMM.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1607.02584" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2018unified" class="bibtex noshow">
 <pre>
 @article{lu2018unified,
@@ -291,8 +338,14 @@ vol. 29,
 pp. 218-224,
 2018<br>
 <a href="javascript:toggleBibtex('peng2018connections')">[bibtex]</a>
-<a href="https://arxiv.org/abs/1502.07423" target="_blank">[arXiv]</a>
+<a href="https://arxiv.org/abs/1502.07423" class="textlink" target="_blank">[arXiv]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_peng2018connections" class="bibtex noshow">
 <pre>
 @article{peng2018connections,
@@ -321,9 +374,15 @@ vol. 27,
 pp. 1152-1163,
 2018<br>
 <a href="javascript:toggleBibtex('zhou2018tensor')">[bibtex]</a>
-<a href="../publications/2018-TIP-TCTF.pdf" target="_blank">[pdf]</a>
-<a href="https://panzhous.github.io/" target="_blank">[code]</a>
+<a href="../publications/2018-TIP-TCTF.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://panzhous.github.io/" class="textlink" target="_blank">[code]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_zhou2018tensor" class="bibtex noshow">
 <pre>
 @article{zhou2018tensor,
@@ -352,7 +411,13 @@ vol. 47,
 pp. 449-460,
 2017<br>
 <a href="javascript:toggleBibtex('wei2017cross')">[bibtex]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_wei2017cross" class="bibtex noshow">
 <pre>
 @article{wei2017cross,
@@ -381,10 +446,16 @@ vol. 25,
 pp. 2833-2843,
 2016<br>
 <a href="javascript:toggleBibtex('lu2016convex')">[bibtex]</a>
-<a href="../publications/2016-TIP-CVXSSC.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1511.06860" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/LibADMM" target="_blank">[code]</a>
+<a href="../publications/2016-TIP-CVXSSC.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1511.06860" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2016convex" class="bibtex noshow">
 <pre>
 @article{lu2016convex,
@@ -413,10 +484,16 @@ pp. 2833-2843,
 
 2016<br>
 <a href="javascript:toggleBibtex('lu2016fast')">[bibtex]</a>
-<a href="../publications/2016-AAAI-FastPALM.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1511.05133" target="_blank">[arXiv]</a>
-<a href="../publications/2016-AAAI-FastPALM-poster.pdf" target="_blank">[poster]</a>
+<a href="../publications/2016-AAAI-FastPALM.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1511.05133" class="textlink" target="_blank">[arXiv]</a>
+<a href="../publications/2016-AAAI-FastPALM-poster.pdf" class="textlink" target="_blank">[poster]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2016fast" class="bibtex noshow">
 <pre>
 @inproceedings{lu2016fast,
@@ -441,10 +518,16 @@ vol. 25,
 pp. 829-839,
 2016<br>
 <a href="javascript:toggleBibtex('lu2016nonconvex')">[bibtex]</a>
-<a href="../publications/2016-TIP-IRNN.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1510.06895" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/IRNN" target="_blank">[code]</a>
+<a href="../publications/2016-TIP-IRNN.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1510.06895" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/canyilu/IRNN" class="textlink" target="_blank">[code]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2016nonconvex" class="bibtex noshow">
 <pre>
 @article{lu2016nonconvex,
@@ -473,11 +556,18 @@ pp. 829-839,
 
 2016<br>
 <a href="javascript:toggleBibtex('lu2016tensor')">[bibtex]</a>
-<a href="../publications/2016-CVPR-TRPCA.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1708.04181" target="_blank">[arXiv]</a>
-<a href="../publications/2016-CVPR-TRPCA-poster.pdf" target="_blank">[poster]</a>
-<a href="https://github.com/canyilu/LibADMM" target="_blank">[code]</a>
+<a href="../publications/2016-CVPR-TRPCA.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1708.04181" class="textlink" target="_blank">[arXiv]</a>
+<a href="../publications/2016-CVPR-TRPCA-poster.pdf" class="textlink" target="_blank">[poster]</a>
+<a href="https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA" class="textlink" target="_blank">[code]</a>
+<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2016tensor" class="bibtex noshow">
 <pre>
 @inproceedings{lu2016tensor,
@@ -502,7 +592,13 @@ vol. 26,
 pp. 2273-2283,
 2016<br>
 <a href="javascript:toggleBibtex('xu2016multi')">[bibtex]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_xu2016multi" class="bibtex noshow">
 <pre>
 @article{xu2016multi,
@@ -531,10 +627,16 @@ pp. 2273-2283,
 
 2015<br>
 <a href="javascript:toggleBibtex('lu2015generalized')">[bibtex]</a>
-<a href="../publications/2015-AAAI-GSVT.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1412.2231" target="_blank">[arXiv]</a>
-<a href="../publications/2015-AAAI-GSVT-poster.pdf" target="_blank">[poster]</a>
+<a href="../publications/2015-AAAI-GSVT.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1412.2231" class="textlink" target="_blank">[arXiv]</a>
+<a href="../publications/2015-AAAI-GSVT-poster.pdf" class="textlink" target="_blank">[poster]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2015generalized" class="bibtex noshow">
 <pre>
 @inproceedings{lu2015generalized,
@@ -556,17 +658,23 @@ Lin Zhu, Wei-Li Guo, De-Shuang Huang and Canyi Lu<br>
 <i>IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>)</i>,
 
 
-pp. 141-144,
+
 2015<br>
 <a href="javascript:toggleBibtex('lu2015imputation')">[bibtex]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2015imputation" class="bibtex noshow">
 <pre>
 @inproceedings{lu2015imputation,
   author = {Lin Zhu and Wei-Li Guo and De-Shuang Huang and Canyi Lu},
   title = {Imputation of ChIP-seq datasets via Low Rank Convex Co-Embedding},
   booktitle = {IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>)},
-  year = {2015},
+  year = {2015}
 }
 </pre></div>
 </li>
@@ -584,10 +692,16 @@ vol. 24,
 pp. 646-654,
 2015<br>
 <a href="javascript:toggleBibtex('lu2015smoothed')">[bibtex]</a>
-<a href="../publications/2015-TIP-SmoothedLRR.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1401.7413" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/Smoothed-LRR" target="_blank">[code]</a>
+<a href="../publications/2015-TIP-SmoothedLRR.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1401.7413" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/canyilu/Smoothed-LRR" class="textlink" target="_blank">[code]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2015smoothed" class="bibtex noshow">
 <pre>
 @article{lu2015smoothed,
@@ -615,8 +729,14 @@ vol. 25,
 pp. 1565-1575,
 2015<br>
 <a href="javascript:toggleBibtex('nguyen2015adaptive')">[bibtex]</a>
-<a href="https://arxiv.org/abs/1505.01560" target="_blank">[arXiv]</a>
+<a href="https://arxiv.org/abs/1505.01560" class="textlink" target="_blank">[arXiv]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_nguyen2015adaptive" class="bibtex noshow">
 <pre>
 @article{nguyen2015adaptive,
@@ -645,8 +765,14 @@ vol. 25,
 pp. 1576-1585,
 2015<br>
 <a href="javascript:toggleBibtex('xu2015discriminative')">[bibtex]</a>
-<a href="../publications/2015-TCSVT-DALie.pdf" target="_blank">[pdf]</a>
+<a href="../publications/2015-TCSVT-DALie.pdf" class="textlink" target="_blank">[pdf]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_xu2015discriminative" class="bibtex noshow">
 <pre>
 @article{xu2015discriminative,
@@ -675,8 +801,14 @@ vol. 25,
 pp. 1140-1150,
 2015<br>
 <a href="javascript:toggleBibtex('xu2015facial')">[bibtex]</a>
-<a href="../publications/2015-TCSVT-Lie.pdf" target="_blank">[pdf]</a>
+<a href="../publications/2015-TCSVT-Lie.pdf" class="textlink" target="_blank">[pdf]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_xu2015facial" class="bibtex noshow">
 <pre>
 @article{xu2015facial,
@@ -705,8 +837,14 @@ Hanjiang Lai, Yan Pan, <b>Canyi</b> <b>Lu</b>, Yong Tang and Shuicheng Yan<br>
 
 2014<br>
 <a href="javascript:toggleBibtex('lai2014efficient')">[bibtex]</a>
-<a href="../publications/2014-ECCV-ksupport.pdf" target="_blank">[pdf]</a>
+<a href="../publications/2014-ECCV-ksupport.pdf" class="textlink" target="_blank">[pdf]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lai2014efficient" class="bibtex noshow">
 <pre>
 @inproceedings{lai2014efficient,
@@ -731,11 +869,17 @@ Hanjiang Lai, Yan Pan, <b>Canyi</b> <b>Lu</b>, Yong Tang and Shuicheng Yan<br>
 
 2014<br>
 <a href="javascript:toggleBibtex('lu2014generalized')">[bibtex]</a>
-<a href="../publications/2014-CVPR-IRNN.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1404.7306" target="_blank">[arXiv]</a>
-<a href="../publications/2014-CVPR-IRNN-poster.pdf" target="_blank">[poster]</a>
-<a href="https://github.com/canyilu/IRNN" target="_blank">[code]</a>
+<a href="../publications/2014-CVPR-IRNN.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1404.7306" class="textlink" target="_blank">[arXiv]</a>
+<a href="../publications/2014-CVPR-IRNN-poster.pdf" class="textlink" target="_blank">[poster]</a>
+<a href="https://github.com/canyilu/IRNN" class="textlink" target="_blank">[code]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2014generalized" class="bibtex noshow">
 <pre>
 @inproceedings{lu2014generalized,
@@ -760,10 +904,16 @@ Hanjiang Lai, Yan Pan, <b>Canyi</b> <b>Lu</b>, Yong Tang and Shuicheng Yan<br>
 
 2014<br>
 <a href="javascript:toggleBibtex('lu2014proximal')">[bibtex]</a>
-<a href="../publications/2014-AAAI-PIRE.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1404.6871" target="_blank">[arXiv]</a>
-<a href="../publications/2014-AAAI-PIRE-poster.pdf" target="_blank">[poster]</a>
+<a href="../publications/2014-AAAI-PIRE.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1404.6871" class="textlink" target="_blank">[arXiv]</a>
+<a href="../publications/2014-AAAI-PIRE-poster.pdf" class="textlink" target="_blank">[poster]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2014proximal" class="bibtex noshow">
 <pre>
 @inproceedings{lu2014proximal,
@@ -788,7 +938,13 @@ vol. 44,
 pp. 2368-2378,
 2014<br>
 <a href="javascript:toggleBibtex('wang2014robust')">[bibtex]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_wang2014robust" class="bibtex noshow">
 <pre>
 @article{wang2014robust,
@@ -816,11 +972,17 @@ pp. 2368-2378,
 
 2013<br>
 <a href="javascript:toggleBibtex('lu2013correlation')">[bibtex]</a>
-<a href="../publications/2013-ICCV-CASS.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1501.04276" target="_blank">[arXiv]</a>
-<a href="../publications/2013-ICCV-CASS-poster.pdf" target="_blank">[poster]</a>
-<a href="https://github.com/canyilu/LibADMM" target="_blank">[code]</a>
+<a href="../publications/2013-ICCV-CASS.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1501.04276" class="textlink" target="_blank">[arXiv]</a>
+<a href="../publications/2013-ICCV-CASS-poster.pdf" class="textlink" target="_blank">[poster]</a>
+<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2013correlation" class="bibtex noshow">
 <pre>
 @inproceedings{lu2013correlation,
@@ -845,10 +1007,16 @@ pp. 2368-2378,
 
 2013<br>
 <a href="javascript:toggleBibtex('lu2013correntropy')">[bibtex]</a>
-<a href="../publications/2013-ICCV-CIL2.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1501.04277" target="_blank">[arXiv]</a>
-<a href="../publications/2013-ICCV-CIL2-poster.pdf" target="_blank">[poster]</a>
+<a href="../publications/2013-ICCV-CIL2.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1501.04277" class="textlink" target="_blank">[arXiv]</a>
+<a href="../publications/2013-ICCV-CIL2-poster.pdf" class="textlink" target="_blank">[poster]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2013correntropy" class="bibtex noshow">
 <pre>
 @inproceedings{lu2013correntropy,
@@ -873,9 +1041,15 @@ vol. 24,
 pp. 111-116,
 2013<br>
 <a href="javascript:toggleBibtex('lu2013face')">[bibtex]</a>
-<a href="../publications/2013-JVCI-WSRC.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/canyilu/WSRC" target="_blank">[code]</a>
+<a href="../publications/2013-JVCI-WSRC.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://github.com/canyilu/WSRC" class="textlink" target="_blank">[code]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2013face" class="bibtex noshow">
 <pre>
 @article{lu2013face,
@@ -904,9 +1078,15 @@ vol. 113,
 pp. 213-219,
 2013<br>
 <a href="javascript:toggleBibtex('lu2013optimized')">[bibtex]</a>
-<a href="../publications/2013-Neurocomputing-OPSRC.pdf" target="_blank">[pdf]</a>
-<a href="https://github.com/canyilu/OP-SRC" target="_blank">[code]</a>
+<a href="../publications/2013-Neurocomputing-OPSRC.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://github.com/canyilu/OP-SRC" class="textlink" target="_blank">[code]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2013optimized" class="bibtex noshow">
 <pre>
 @article{lu2013optimized,
@@ -934,12 +1114,18 @@ pp. 213-219,
 pp. 347-360,
 2012<br>
 <a href="javascript:toggleBibtex('lu2012robust')">[bibtex]</a>
-<a href="../publications/2012-ECCV-LSR.pdf" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1404.6736" target="_blank">[arXiv]</a>
-<a href="../publications/2012-ECCV-LSR-poster.pdf" target="_blank">[poster]</a>
-<a href="../publications/2012-ECCV-LSR-slides.pdf" target="_blank">[slides]</a>
-<a href="https://github.com/canyilu/LSR" target="_blank">[code]</a>
+<a href="../publications/2012-ECCV-LSR.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1404.6736" class="textlink" target="_blank">[arXiv]</a>
+<a href="../publications/2012-ECCV-LSR-poster.pdf" class="textlink" target="_blank">[poster]</a>
+<a href="../publications/2012-ECCV-LSR-slides.pdf" class="textlink" target="_blank">[slides]</a>
+<a href="https://github.com/canyilu/LSR" class="textlink" target="_blank">[code]</a>
+
+
 </p>
+
+
+
+
 <div id="bib_lu2012robust" class="bibtex noshow">
 <pre>
 @inproceedings{lu2012robust,
@@ -957,4 +1143,3 @@ pp. 347-360,
 
 
 </ol>
-
