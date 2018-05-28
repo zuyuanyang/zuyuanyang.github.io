@@ -58,7 +58,7 @@ $linkcolorhover 	: #00a0a0;
 $linkcolorvisited : lighten($linkcolor, 0);
 $linkcolorfocus 	: lighten($linkcolorhover, 20);
 
-$linkcolor-textlink        : #6da5f9; //darken($linkcolorhover-textlink, 10);
+$linkcolor-textlink        : #045bdd; //darken($linkcolorhover-textlink, 10); 
 $link-color-textlink       : $linkcolor-textlink;
 $linkcolorhover-textlink   : #00a0a0; //$linkcolorhover; //
 $linkcolorvisited-textlink : lighten($linkcolor-textlink, 0);
