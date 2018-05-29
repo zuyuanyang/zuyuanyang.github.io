@@ -8,7 +8,7 @@ comments: false
 share: false
 ---
 
-You can also browse my <a href="https://github.com/canyilu" target="_blank" style="text-decoration:underline;">Github profile</a>.</p>
+You can also browse my <a href="https://github.com/canyilu" target="_blank" style="text-decoration:underline;">Github profile</a>.
 
 
 ### coming soon...
