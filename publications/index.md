@@ -54,7 +54,7 @@ function toggleBibtex(articleid) {
 <b>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</b><br>
 <b>Canyi</b> <b>Lu</b>, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan<br>
 
-<i>arXiv preprint arXiv:1804.03728</i>,
+<i>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
 
 
 2018<br>
@@ -74,7 +74,7 @@ function toggleBibtex(articleid) {
 @article{lu2018tensor,
   author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Chen, Yudong and Liu, Wei and Lin, Zhouchen and Yan, Shuicheng},
   title = {Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm},
-  journal = {arXiv preprint arXiv:1804.03728},
+  journal = {submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
   year = {2018}
 }
 </pre></div>
@@ -112,6 +112,33 @@ Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi F
 </pre></div>
 </li>
 
+<!-- Item: zhou2018tensorlrr -->
+<li ><p>
+<b>Tensor Low-rank Representation for Data Recovery and Clustering</b><br>
+Pan Zhou, Canyi Lu and Jiashi Feng<br>
+
+<i>submitted to International Journal of Computer Vision (major revision)</i>,
+
+
+2018<br>
+<a href="javascript:toggleBibtex('zhou2018tensorlrr')" class="textlink">[bibtex]</a>
+
+
+</p>
+
+
+
+
+<div id="bib_zhou2018tensorlrr" class="bibtex noshow">
+<pre>
+@article{zhou2018tensorlrr,
+  author = {Zhou, Pan and Lu, Canyi and Feng, Jiashi},
+  title = {Tensor Low-rank Representation for Data Recovery and Clustering},
+  journal = {submitted to International Journal of Computer Vision (major revision)},
+  year = {2018}
+}
+</pre></div>
+</li>
 
 
 
