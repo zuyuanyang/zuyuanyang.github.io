@@ -117,7 +117,7 @@ Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi F
 <b>Tensor Low-rank Representation for Data Recovery and Clustering</b><br>
 Pan Zhou, Canyi Lu and Jiashi Feng<br>
 
-<i>submitted to International Journal of Computer Vision (major revision)</i>,
+<i>submitted to International Journal of Computer Vision (<b>IJCV</b>) (major revision)</i>,
 
 
 2018<br>
@@ -134,7 +134,7 @@ Pan Zhou, Canyi Lu and Jiashi Feng<br>
 @article{zhou2018tensorlrr,
   author = {Zhou, Pan and Lu, Canyi and Feng, Jiashi},
   title = {Tensor Low-rank Representation for Data Recovery and Clustering},
-  journal = {submitted to International Journal of Computer Vision (<b>TPAMI</b>) (major revision)},
+  journal = {submitted to International Journal of Computer Vision (<b>IJCV</b>) (major revision)},
   year = {2018}
 }
 </pre></div>
