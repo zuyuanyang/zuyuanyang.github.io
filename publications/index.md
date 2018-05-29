@@ -134,7 +134,7 @@ Pan Zhou, Canyi Lu and Jiashi Feng<br>
 @article{zhou2018tensorlrr,
   author = {Zhou, Pan and Lu, Canyi and Feng, Jiashi},
   title = {Tensor Low-rank Representation for Data Recovery and Clustering},
-  journal = {submitted to International Journal of Computer Vision (major revision)},
+  journal = {submitted to International Journal of Computer Vision (<b>TPAMI</b>) (major revision)},
   year = {2018}
 }
 </pre></div>
