@@ -607,6 +607,37 @@ pp. 829-839,
 </pre></div>
 </li>
 
+<!-- Item: zhu2016collaborative -->
+<li ><p>
+<b>Collaborative Completion of Transcription Factor Binding Profiles via Local Sensitive Unified Embedding</b><br>
+Lin Zhu, Wei-Li Guo, Canyi Lu and De-Shuang Huang<br>
+
+<i>IEEE Transactions on NanoBioscience</i>,
+vol. 15,
+pp. 946-958,
+2016<br>
+<a href="javascript:toggleBibtex('zhu2016collaborative')" class="textlink">[bibtex]</a>
+
+
+</p>
+
+
+
+
+<div id="bib_zhu2016collaborative" class="bibtex noshow">
+<pre>
+@article{zhu2016collaborative,
+  author = {Zhu, Lin and Guo, Wei-Li and Lu, Canyi and Huang, De-Shuang},
+  title = {Collaborative Completion of Transcription Factor Binding Profiles via Local Sensitive Unified Embedding},
+  journal = {IEEE Transactions on NanoBioscience},
+  publisher = {IEEE},
+  year = {2016},
+  volume = {15},
+  number = {8},
+  pages = {946--958}
+}
+</pre></div>
+</li>
 
 
 
