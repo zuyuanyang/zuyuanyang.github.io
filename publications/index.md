@@ -215,6 +215,42 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 
 
 
+<!-- Item: lu2018unified -->
+<li ><p>
+<b>A Unified Alternating Direction Method of Multipliers by Majorization Minimization</b><br>
+<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Shuicheng Yan and Zhouchen Lin<br>
+
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
+vol. 40,
+pp. 527-541,
+2018<br>
+<a href="javascript:toggleBibtex('lu2018unified')" class="textlink">[bibtex]</a>
+<a href="../publications/2018-TPAMI-UnifiedADMM.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/1607.02584" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
+
+
+</p>
+
+
+
+
+<div id="bib_lu2018unified" class="bibtex noshow">
+<pre>
+@article{lu2018unified,
+  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Yan, Shuicheng and Lin, Zhouchen},
+  title = {A Unified Alternating Direction Method of Multipliers by Majorization Minimization},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
+  publisher = {IEEE},
+  year = {2018},
+  volume = {40},
+  number = {3},
+  pages = {527--541}
+}
+</pre></div>
+</li>
+
+
 
 <!-- Item: lu2018exact -->
 <li ><p>
@@ -316,42 +352,6 @@ pp. 45-55,
 </li>
 
 
-
-
-<!-- Item: lu2018unified -->
-<li ><p>
-<b>A Unified Alternating Direction Method of Multipliers by Majorization Minimization</b><br>
-<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Shuicheng Yan and Zhouchen Lin<br>
-
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
-vol. 40,
-pp. 527-541,
-2018<br>
-<a href="javascript:toggleBibtex('lu2018unified')" class="textlink">[bibtex]</a>
-<a href="../publications/2018-TPAMI-UnifiedADMM.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1607.02584" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2018unified" class="bibtex noshow">
-<pre>
-@article{lu2018unified,
-  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Yan, Shuicheng and Lin, Zhouchen},
-  title = {A Unified Alternating Direction Method of Multipliers by Majorization Minimization},
-  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
-  publisher = {IEEE},
-  year = {2018},
-  volume = {40},
-  number = {3},
-  pages = {527--541}
-}
-</pre></div>
-</li>
 
 
 
