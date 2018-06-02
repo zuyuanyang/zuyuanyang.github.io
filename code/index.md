@@ -26,5 +26,13 @@ You can also browse my <a href="https://github.com/canyilu" target="_blank" styl
  </a></li>
     <li> Generalized Singular Value Thresholding  </li>
     </ul>
-   </li>
+  <li><b> <a href="https://github.com/canyilu/LSR" >Subspace Clustering by Least Square Regression </a><br /></li>  
+	 
+  <li><b> Face Recognition via Sparse Representation </a><br /></li>  
+	<ul>
+		<li> <a href="https://github.com/canyilu/WSRC" >Face Recognition via Weighted Sparse Representation </a></li>
+		<li> <a href="https://github.com/canyilu/OP-SRC" >Face Recognition via Weighted Sparse Representation </a></li>
+	</ul>	 
+  
 </ol>
+
