@@ -25,7 +25,7 @@ You can also browse my <a href="https://github.com/canyilu" target="_blank" styl
  </a></li>
     <li> Generalized Singular Value Thresholding  </li>
     </ul>
-  <li><b> <a href="https://github.com/canyilu/LSR" >Subspace Clustering by Least Square Regression </a><br /></li>  
+  <li><b> <a href="https://github.com/canyilu/LSR" >Subspace Clustering by Least Square Regression </a><br />  
 	 
   <li><b> Face Recognition via Sparse Representation <br />
 	<ul>
