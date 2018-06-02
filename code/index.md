@@ -18,7 +18,7 @@ You can also browse my <a href="https://github.com/canyilu" target="_blank" styl
 		<li> <a href="https://github.com/canyilu/tensor-completion-tensor-recovery" class="textlink">Low tubal tensor completion </a></li>
 		<li> <a href="https://github.com/canyilu/tensor-completion-tensor-recovery" class="textlink" >Low tubal rank tensor recovery from Gaussian measurements </a></li>
     </ul>
-  <li> <a href="https://github.com/canyilu/tensor-completion-tensor-recovery" class="textlink"><b>A Library of Alternating Direction Method of Multipliers for Sparse and Low-rank Optimization</b>  </a> 
+  <li> <a href="https://github.com/canyilu/LibADMM" class="textlink"><b>A Library of Alternating Direction Method of Multipliers for Sparse and Low-rank Optimization</b>  </a> 
   <li><b> Nonconvex Nonsmooth Low-rank Minimization </b>
     <ul>
     <li> <a href="https://github.com/canyilu/IRNN" class="textlink">Iteratively Reweighted Nuclear Norm for Nonconvex Nonsmooth Low-rank Minimization
