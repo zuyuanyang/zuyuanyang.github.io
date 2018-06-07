@@ -262,6 +262,7 @@ pp. 527-541,
 
 2018<br>
 <a href="javascript:toggleBibtex('lu2018exact')" class="textlink">[bibtex]</a>
+<a href="../publications/2018-IJCAI-Atomic.pdf" class="textlink" target="_blank">[pdf]</a>
 <a href="https://github.com/canyilu/tensor-completion-tensor-recovery" class="textlink" target="_blank">[code]</a>
 <a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
 
