@@ -14,7 +14,7 @@ You can also browse my <a href="https://github.com/canyilu" target="_blank" styl
 <ol>
     <li><b> Toolboxes </b>
     <ul>
-    <li> <a href="https://github.com/canyilu/LibADMM" class="textlink"><b>A Library of Alternating Direction Method of Multipliers for Sparse and Low-rank Optimization</b>  </a></li>
+    <li> <a href="https://github.com/canyilu/LibADMM" class="textlink">A Library of Alternating Direction Method of Multipliers for Sparse and Low-rank Optimization  </a></li>
     <li> A Library of Proximal Operators </li>
     <li> T-product toolbox </li>
     </ul>  
