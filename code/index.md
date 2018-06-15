@@ -14,9 +14,9 @@ You can also browse my <a href="https://github.com/canyilu" target="_blank" styl
 <ol>
     <li><b> Toolboxes </b>
     <ul>
-    <li> <a href="https://github.com/canyilu/LibADMM" class="textlink">A Library of Alternating Direction Method of Multipliers for Sparse and Low-rank Optimization  </a></li>
+    <li> <a href="https://github.com/canyilu/LibADMM" class="textlink">A Library of Alternating Direction Method of Multipliers for Sparse and Low-rank Optimization  </a></li>    
+    <li> <a href="https://github.com/canyilu/tproduct" class="textlink">T-product toolbox </a></li>
     <li> A Library of Proximal Operators </li>
-    <li> T-product toolbox </li>
     </ul>  
     <li><b> Low-rank tensor recovery via convex tensor nuclear norm minimization </b>
     <ul>
