@@ -48,7 +48,7 @@ function toggleBibtex(articleid) {
 
 
 
-### Softwares and Toolboxes
+### Software and Toolboxes
 <ol class="biblist">
 
 
