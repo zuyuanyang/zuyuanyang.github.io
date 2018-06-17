@@ -12,7 +12,7 @@ You can also browse my <a href="https://github.com/canyilu" target="_blank" styl
 
 
 <ol>
-    <li><b> Softwares and Toolboxes </b>
+    <li><b> Software and Toolboxes </b>
     <ul>
     <li> <a href="https://github.com/canyilu/LibADMM" class="textlink">A Library of Alternating Direction Method of Multipliers for Sparse and Low-rank Optimization  </a></li>    
     <li> <a href="https://github.com/canyilu/tproduct" class="textlink">Tensor-tensor product toolbox </a></li>
