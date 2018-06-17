@@ -178,6 +178,52 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 
 
 
+
+
+### Softwares and Toolboxes
+<ol class="biblist">
+
+
+
+<!-- Item: tproduct2018lu -->
+<li ><p>
+<b>Tensor-Tensor Product Toolbox</b><br>
+<b>Canyi</b> <b>Lu</b><br>
+
+
+<i>Carnegie Mellon University</i>,
+
+
+
+June
+2018<br>
+<a href="javascript:toggleBibtex('tproduct2018lu')" class="textlink">[bibtex]</a>
+<a href="../publications/2018-software-tproduct.pdf" class="textlink" target="_blank">[manual]</a>
+<a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[download]</a>
+
+
+</p>
+
+
+
+
+<div id="bib_tproduct2018lu" class="bibtex noshow">
+<pre>
+@manual{tproduct2018lu,
+  author = {<b>Lu</b>, <b>Canyi</b>},
+  title = {Tensor-Tensor Product Toolbox},
+  organization = {Carnegie Mellon University},
+  month = {June},
+  year = {2018},
+  note = {https://github.com/canyilu/tproduct}
+}
+</pre></div>
+</li>
+
+
+</ol>
+
+
 ### Journal and Conference Publications
 <ol class="biblist">
 
