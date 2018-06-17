@@ -88,6 +88,40 @@ June
 </pre></div>
 </li>
 
+<li ><p>
+<b>A Library of ADMM for Sparse and Low-rank Optimization</b><br>
+<b>Canyi</b> <b>Lu</b><br>
+
+
+<i>National University of Singapore</i>,
+
+
+
+June
+2016<br>
+<a href="javascript:toggleBibtex('lu2016libadmm')" class="textlink">[bibtex]</a>
+<a href="../publications/2016-software-LibADMM.pdf" class="textlink" target="_blank">[manual]</a>
+<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[download]</a>
+
+
+</p>
+
+
+
+
+<div id="bib_lu2016libadmm" class="bibtex noshow">
+<pre>
+@manual{lu2016libadmm,
+  author = {<b>Lu</b>, <b>Canyi</b>},
+  title = {A Library of ADMM for Sparse and Low-rank Optimization},
+  organization = {National University of Singapore},
+  month = {June},
+  year = {2016},
+  note = {https://github.com/canyilu/LibADMM}
+}
+</pre></div>
+</li>
+
 
 </ol>
 
