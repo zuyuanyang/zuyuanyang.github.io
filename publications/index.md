@@ -66,8 +66,8 @@ function toggleBibtex(articleid) {
 June
 2018<br>
 <a href="javascript:toggleBibtex('tproduct2018lu')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/pdf/1806.07247.pdf" class="textlink" target="_blank">[arXiv]</a>
 <a href="../publications/2018-software-tproduct.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/pdf/1806.07247.pdf" class="textlink" target="_blank">[arXiv]</a>
 <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a>
 
 
