@@ -14,7 +14,7 @@ You can also browse my <a href="https://github.com/canyilu" target="_blank" styl
 <ol>
     <li><b> Software and Toolboxes </b>
     <ul>
-    <li> <a href="https://github.com/canyilu/LibADMM" class="textlink">A library of ADMM for sparse and low-rank pptimization  </a></li>    
+    <li> <a href="https://github.com/canyilu/LibADMM" class="textlink">A library of ADMM for sparse and low-rank optimization  </a></li>    
     <li> <a href="https://github.com/canyilu/tproduct" class="textlink">Tensor-tensor product toolbox </a></li>
     <li> A library of proximal operators </li>
     </ul>  
