@@ -137,7 +137,7 @@ June
 <b>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</b><br>
 <b>Canyi</b> <b>Lu</b>, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan<br>
 
-<i>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
+<i>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>) (major revision)</i>,
 
 
 2018<br>
@@ -157,7 +157,7 @@ June
 @article{lu2018tensor,
   author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Chen, Yudong and Liu, Wei and Lin, Zhouchen and Yan, Shuicheng},
   title = {Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm},
-  journal = {submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+  journal = {submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (major revision)},
   year = {2018}
 }
 </pre></div>
