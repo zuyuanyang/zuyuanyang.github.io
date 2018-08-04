@@ -137,7 +137,7 @@ June
 <b>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</b><br>
 <b>Canyi</b> <b>Lu</b>, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan<br>
 
-<i>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>) (major revision)</i>,
+<i>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>) (<b>major revision</b>)</i>,
 
 
 2018<br>
@@ -163,7 +163,33 @@ June
 </pre></div>
 </li>
 
+<!-- Item: zhou2018tensorlrr -->
+<li ><p>
+<b>Tensor Low-rank Representation for Data Recovery and Clustering</b><br>
+Pan Zhou, Canyi Lu and Jiashi Feng<br>
 
+<i>submitted to International Journal of Computer Vision (<b>IJCV</b>) (<b>major revision</b>)</i>,
+
+
+2018<br>
+<a href="javascript:toggleBibtex('zhou2018tensorlrr')" class="textlink">[bibtex]</a>
+
+
+</p>
+
+
+
+
+<div id="bib_zhou2018tensorlrr" class="bibtex noshow">
+<pre>
+@article{zhou2018tensorlrr,
+  author = {Zhou, Pan and Lu, Canyi and Feng, Jiashi},
+  title = {Tensor Low-rank Representation for Data Recovery and Clustering},
+  journal = {submitted to International Journal of Computer Vision (<b>IJCV</b>) (major revision)},
+  year = {2018}
+}
+</pre></div>
+</li>
 
 
 <!-- Item: hien2016accelerated -->
@@ -195,33 +221,7 @@ Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi F
 </pre></div>
 </li>
 
-<!-- Item: zhou2018tensorlrr -->
-<li ><p>
-<b>Tensor Low-rank Representation for Data Recovery and Clustering</b><br>
-Pan Zhou, Canyi Lu and Jiashi Feng<br>
 
-<i>submitted to International Journal of Computer Vision (<b>IJCV</b>) (major revision)</i>,
-
-
-2018<br>
-<a href="javascript:toggleBibtex('zhou2018tensorlrr')" class="textlink">[bibtex]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_zhou2018tensorlrr" class="bibtex noshow">
-<pre>
-@article{zhou2018tensorlrr,
-  author = {Zhou, Pan and Lu, Canyi and Feng, Jiashi},
-  title = {Tensor Low-rank Representation for Data Recovery and Clustering},
-  journal = {submitted to International Journal of Computer Vision (<b>IJCV</b>) (major revision)},
-  year = {2018}
-}
-</pre></div>
-</li>
 
 
 
