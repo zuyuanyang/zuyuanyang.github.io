@@ -166,7 +166,7 @@ June
 <!-- Item: zhou2018tensorlrr -->
 <li ><p>
 <b>Tensor Low-rank Representation for Data Recovery and Clustering</b><br>
-Pan Zhou, Canyi Lu and Jiashi Feng<br>
+Pan Zhou, <b>Canyi Lu</b> and Jiashi Feng<br>
 
 <i>submitted to International Journal of Computer Vision (<b>IJCV</b>) (<b>major revision</b>)</i>,
 
