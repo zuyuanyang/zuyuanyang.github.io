@@ -1190,7 +1190,7 @@ vol. 24,
 pp. 111-116,
 2013<br>
 <a href="javascript:toggleBibtex('lu2013face')" class="textlink">[bibtex]</a>
-<a href="../publications/2013-JVCI-WSRC.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S104732031200082X" class="textlink" target="_blank">[pdf]</a>
 <a href="https://github.com/canyilu/WSRC" class="textlink" target="_blank">[code]</a>
 
 
