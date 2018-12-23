@@ -132,36 +132,7 @@ June
 <!-- Generated from JabRef by PubList by Truong Nghiem at 09:00 on 2015.11.04. -->
 <ol class="biblist">
 
-<!-- Item: lu2018tensor -->
-<li ><p>
-<b>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</b><br>
-<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan<br>
 
-<i>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>) (<b>major revision</b>)</i>,
-
-
-2018<br>
-<a href="javascript:toggleBibtex('lu2018tensor')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/abs/1804.03728" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA" class="textlink" target="_blank">[code]</a>
-<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2018tensor" class="bibtex noshow">
-<pre>
-@article{lu2018tensor,
-  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Chen, Yudong and Liu, Wei and Lin, Zhouchen and Yan, Shuicheng},
-  title = {Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm},
-  journal = {submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (major revision)},
-  year = {2018}
-}
-</pre></div>
-</li>
 
 <!-- Item: zhou2018tensorlrr -->
 <li ><p>
@@ -268,6 +239,37 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 ### Journal and Conference Publications
 <ol class="biblist">
 
+
+<!-- Item: lu2018tensor -->
+<li ><p>
+<b>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</b><br>
+<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan<br>
+
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
+
+
+2018<br>
+<a href="javascript:toggleBibtex('lu2018tensor')" class="textlink">[bibtex]</a>
+<a href="https://arxiv.org/abs/1804.03728" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA" class="textlink" target="_blank">[code]</a>
+<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
+
+
+</p>
+
+
+
+
+<div id="bib_lu2018tensor" class="bibtex noshow">
+<pre>
+@article{lu2018tensor,
+  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Chen, Yudong and Liu, Wei and Lin, Zhouchen and Yan, Shuicheng},
+  title = {Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
+  year = {2018}
+}
+</pre></div>
+</li>
 
 
 <!-- Item: lu2016subspace -->
