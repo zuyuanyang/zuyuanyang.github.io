@@ -220,7 +220,7 @@ Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi F
 <i>Journal of Optimization Theory and Applications</i>,
 
 
-2016<br>
+2018<br>
 <a href="javascript:toggleBibtex('hien2016accelerated')" class="textlink">[bibtex]</a>
 <a href="https://arxiv.org/abs/1605.06892" class="textlink" target="_blank">[arXiv]</a>
 
