@@ -163,34 +163,6 @@ Pan Zhou, <b>Canyi Lu</b> and Jiashi Feng<br>
 </li>
 
 
-<!-- Item: hien2016accelerated -->
-<li ><p>
-<b>Accelerated Stochastic Mirror Descent Algorithms for Composite Non-strongly Convex Optimization</b><br>
-Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi Feng<br>
-
-<i>arXiv preprint arXiv:1605.06892</i>,
-
-
-2016<br>
-<a href="javascript:toggleBibtex('hien2016accelerated')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/abs/1605.06892" class="textlink" target="_blank">[arXiv]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_hien2016accelerated" class="bibtex noshow">
-<pre>
-@article{hien2016accelerated,
-  author = {Hien, Le Thi Khanh and Nguyen, Cuong V and Xu, Huan and <b>Lu</b>, <b>Canyi</b> and Feng, Jiashi},
-  title = {Accelerated Stochastic Mirror Descent Algorithms for Composite Non-strongly Convex Optimization},
-  journal = {arXiv preprint arXiv:1605.06892},
-  year = {2016}
-}
-</pre></div>
-</li>
 
 
 
@@ -239,6 +211,35 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 ### Journal and Conference Publications
 <ol class="biblist">
 
+
+<!-- Item: hien2016accelerated -->
+<li ><p>
+<b>Accelerated Randomized Mirror Descent Algorithms For Composite Non-strongly Convex Optimization</b><br>
+Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi Feng<br>
+
+<i>Journal of Optimization Theory and Applications</i>,
+
+
+2016<br>
+<a href="javascript:toggleBibtex('hien2016accelerated')" class="textlink">[bibtex]</a>
+<a href="https://arxiv.org/abs/1605.06892" class="textlink" target="_blank">[arXiv]</a>
+
+
+</p>
+
+
+
+
+<div id="bib_hien2016accelerated" class="bibtex noshow">
+<pre>
+@article{hien2016accelerated,
+  author = {Hien, Le Thi Khanh and Nguyen, Cuong V and Xu, Huan and <b>Lu</b>, <b>Canyi</b> and Feng, Jiashi},
+  title = {Accelerated Randomized Mirror Descent Algorithms For Composite Non-strongly Convex Optimization},
+  journal = {Journal of Optimization Theory and Applications},
+  year = {2018}
+}
+</pre></div>
+</li>
 
 <!-- Item: lu2018tensor -->
 <li ><p>
