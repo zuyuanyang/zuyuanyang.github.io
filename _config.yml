@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Canyi Lu (卢参义)
-locale:           en_US
+title:            Zuyuan Yang (杨祖元)
+locale:           zh-CN
 url:
 
 
@@ -26,16 +26,16 @@ kramdown:
 
 # Site owner
 owner:
-  name: Canyi Lu
-  avatar: canyilu.jpg
-  bio: "Postdoctoral Research Associate at Carnegie Mellon University."
-  email: canyilu@gmail.com
+  name: Zuyuan Yang
+  avatar: zuyuanyang.jpg
+  bio: "Professor at Guangdong University of Technology."
+  email: zuyuanyang@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
   google: 
     plus: 
-    scholar: https://scholar.google.com/citations?user=EZcKJi4AAAAJ&hl=en
+    scholar: https://scholar.google.com.hk/citations?user=s0KBHhUAAAAJ&hl=zh-CN
     analytics:
     verify:
     ad-client:
