@@ -10,19 +10,19 @@ share: false
 
 
 <ol>
-  <li><b> Unified Theory of Block Diagonal Matrix Learning for Subspace Clustering<br>
+  <li><b> Non-negative Matrix Factorization with Dual Constraints for Image Clustering<br>
 
-  <img src="../images/fig_blockdiagonal.png">
+  <!--img src="../images/fig_blockdiagonal.png">
   
-  <li><b> Unified Convergence Analysis of Alternating Direction Method of Multipliers (ADMM) <br>
+  <li><b> Adaptive method for nonsmooth nonnegative matrix factorization <br>
   
-  <img src="../images/fig_admm.png">
   
-  <li><b> Tensor Robust Principal Component Analysis (TRPCA)/Tensor Completion/Tensor Recovery<br>
   
-  <img src="../images/fig_trpca.png">
+  <li><b> Blind spectral unmixing based on sparse nonnegative matrix factorization<br>
   
-  <li><b> Generalized Nonconvex Nonsmooth Low-rank Minimization<br>
   
-  <img src="../images/fig_nonconvexrank.png">
+  
+  <li><b> Manifold optimization-based analysis dictionary learning with an L1/2-norm regularizer<br>
+  
+  
 
