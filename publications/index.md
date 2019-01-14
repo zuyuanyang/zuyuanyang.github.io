@@ -5,7 +5,7 @@ modified: 2014-07-31T13:23:02.362000-04:00
 share: false
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?user=EZcKJi4AAAAJ&hl=en" target="_blank" style="text-decoration:underline;">Google Scholar profile</a>.
+You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0KBHhUAAAAJ&hl=zh-CN" target="_blank" style="text-decoration:underline;">Google Scholar profile</a>.
 
 
 <style>
