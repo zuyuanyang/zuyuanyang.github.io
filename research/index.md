@@ -11,17 +11,11 @@ share: false
 
 <ol>
   <li><b> Non-negative Matrix Factorization with Dual Constraints for Image Clustering<br>
-
-  <!--img src="../images/fig_blockdiagonal.png">
   
   <li><b> Adaptive method for nonsmooth nonnegative matrix factorization <br>
-  
-  
-  
+ 
   <li><b> Blind spectral unmixing based on sparse nonnegative matrix factorization<br>
-  
-  
-  
+
   <li><b> Manifold optimization-based analysis dictionary learning with an L1/2-norm regularizer<br>
   
   
