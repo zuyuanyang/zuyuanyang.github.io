@@ -8,7 +8,7 @@ share: false
 ### Ph.D Students
 <ol>
  <div><table><tr><td>
-      	<img src="./images/jingsu.jpg" width=100/>
+      	<img src="../images/jingsu.jpg" width=100/>
       </td></tr></table></div>
 
  <div><table><tr><td>
