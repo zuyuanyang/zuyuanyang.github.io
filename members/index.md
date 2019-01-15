@@ -1,6 +1,6 @@
 ---
 layout: page
-title: members
+title: Members
 modified: 2014-07-31T13:23:02.362000-04:00
 share: false
 ---
@@ -8,10 +8,15 @@ share: false
 ### Ph.D Students
 <ol>
  <div><table><tr><td>
-      	<img src="../images/jingsu.jpg" width=100/>
+       <img src="../images/jingsu.jpg">      	
+       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      		<img src="../images/hailong.jpg">
       </td></tr></table></div>
 
  <div><table><tr><td>
       	Jing Su
+ &nbsp;&nbsp;&nbsp;&nbsp;
+      	&nbsp;&nbsp;&nbsp;&nbsp;
+ Hailong Yang
  </td></tr></table></div>  
 
