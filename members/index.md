@@ -7,12 +7,15 @@ share: false
 
 <h4> Cooperators </h4>  
  <div><table><tr><td>
-       <img src="../images/zhenni.jpg"><br>      	
+       <img src="../images/zhenni.jpg">
+ <br>      	
        Zhenni Li
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Wei Yan
+ <br>
+ lizhenni2012@gmail.com
  </td></tr></table></div>  
  
 <h4> Post-Ph.D </h4>  
