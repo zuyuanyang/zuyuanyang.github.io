@@ -42,11 +42,122 @@ Intelligence</i>,
 </p>
 
 
+<li >
+<p>
+<b>Manifold optimization-based
+analysis dictionary learning with an L1/2-norm regularizer</b><br>
+Z. Li, S. Ding, Y. Li, Z. Yang, S. Xie<br>
+<i>Neural
+Networks</i>,
+2017<br>
+<a href="../publications/nn2017.pdf" class="textlink" target="_blank">[paper]</a>
+</p>
 
+<li >
+<p>
+<b>A novel regularized concept
+factorization for document clustering</b><br>
+W. Yan, B. Zhang, S. Ma, Z. Yang<br>
+<i>Knowledge-based Systems</i>,
+2017<br>
+<a href="../publications/kbs2017.pdf" class="textlink" target="_blank">[paper]</a>
+</p>
 
+<li >
+<p>
+<b>Adaptive method for nonsmooth
+nonnegative matrix factorization</b><br>
+Z. Yang, Y. Xiang, K. Xie, Y. Lai<br>
+<i>IEEE Transactions on Neural
+Networks and Learning Systems</i>,
+2017<br>
+<a href="../publications/tnnls2016.pdf" class="textlink" target="_blank">[paper]</a>
+</p>
 
+<li >
+<p>
+<b>A fast non-smooth
+nonnegative matrix factorization for learning sparse representation</b><br>
+Z. Yang, Y. Zhang, W. Yan, Y. Xiang, S. Xie<br>
+<i>IEEE Access</i>,
+2016<br>
+<a href="../publications/ia201609.pdf" class="textlink" target="_blank">[paper]</a>
+</p>
+  
+<li >
+<p>
+<b>A convex geometry-based
+blind source separation method for separating nonnegative sources</b><br>
+Z. Yang, Y. Xiang, Y. Rong, and K. Xie<br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>,
+2015<br>
+<a href="../publications/tnnls201508.pdf" class="textlink" target="_blank">[paper]</a>
+</p>
+  
+<li >
+<p>
+<b>On the security of compressed sensing
+based signal cryptosystem</b><br>
+Z. Yang, W. Yan, and Y. Xiang<br>
+<i>IEEE Transactions on  Emerging Topics in
+Computing</i>,
+2015<br>
+<a href="../publications/tetc201507.pdf" class="textlink" target="_blank">[paper]</a>
+</p>  
 
+<li >
+<p>
+<b>Projection-pursuit-based method for blind separation of nonnegative
+sources</b><br>
+Z. Yang, Y. Xiang, Y. Rong, and S. Xie<br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>,
+2013<br>
+<a href="../publications/tnnls201301.pdf" class="textlink" target="_blank">[paper]</a>
+</p>
 
+<li >
+<p>
+<b>Nonnegative blind
+source separation by sparse component analysis based on determinant
+measure</b><br>
+Z. Yang, Y. Xiang, S. Xie, and S. Ding<br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>,
+2012<br>
+<a href="../publications/tnnls201210.pdf" class="textlink" target="_blank">[paper]</a>
+</p>
+
+<li >
+<p>
+<b>Blind spectral unmixing based on sparse nonnegative matrix
+factorization</b><br>
+Z. Yang, G. Zhou, S. Xie, S. Ding, J. Yang, and J.
+Zhang<br>
+<i>IEEE Transactions on Image Processing</i>,
+2011<br>
+<a href="../publications/tip201104.pdf" class="textlink" target="_blank">[paper]</a>
+</p>
+
+<li >
+<p>
+<b>Maximum contrast analysis for
+nonnegative blind source separation</b><br>
+Z. Yang, Y, Xiang, S. Xie<br>
+<i>Computers And Mathematics with
+Applications</i>,
+2011<br>
+<a href="../publications/cma201111.pdf" class="textlink" target="_blank">[paper]</a>
+</p>
+
+<li >
+<p>
+<b>Blind source separation by
+fully nonnegative constrained iterative volume maximization</b><br>
+Z. Yang, S, Ding, S. Xie<br>
+<i>IEEE
+Signal Processing Letters</i>,
+2010<br>
+<a href="../publications/ispl201009.pdf" class="textlink" target="_blank">[paper]</a>
+</p>
 
 </ol>
 
