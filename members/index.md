@@ -6,7 +6,6 @@ share: false
 ---
 
 ### Cooperators
-<ol>
  <div><table><tr><td>
        <img src="../images/zhenni.jpg">      	
       </td></tr></table></div>
@@ -18,18 +17,15 @@ share: false
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Wei Yan
  </td></tr></table></div>  
- </ol>
 ### Post-Ph.D
-<ol>
  <div><table><tr><td>
       </td></tr></table></div>
 
  <div><table><tr><td>
        Junjie Yang
  </td></tr></table></div>  
- </ol>
 ### Ph.D Students
-<ol>
+
  <div><table><tr><td>
        <img src="../images/weihan.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,4 +45,4 @@ share: false
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Hailong Yang
  </td></tr></table></div>  
- </ol>
+
