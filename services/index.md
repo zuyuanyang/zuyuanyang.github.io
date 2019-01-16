@@ -14,3 +14,9 @@ share: false
 * IEEE Transactions on Image Processing (TIP)
 * IEEE Transactions on Signal Processing (TSP)
 * IEEE Signal Processing Letters (SPL)
+
+### Teaching
+
+* Signals & Systems
+* R Language
+* New methods for modern signal processing
