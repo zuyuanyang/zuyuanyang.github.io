@@ -14,7 +14,7 @@ You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0K
 <li >
 <p>
 <b>Non-negative Matrix Factorization with Dual Constraints for Image Clustering</b><br>
-Z. Yang, Y. Zhang, Y. Xiang, W. Yan, S. Xie<br>
+<b>Z.</b> <b>Yang</b>, Y. Zhang, Y. Xiang, W. Yan, S. Xie<br>
 <i>IEEE Trans.  Systems, Man, and Cybernetics: Systems</i>,
 2018<br>
 <a href="../publications/tsmc2018.pdf" class="textlink" target="_blank">[paper]</a>
