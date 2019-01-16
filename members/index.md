@@ -20,6 +20,7 @@ share: false
  
 <h4> Post-Ph.D </h4>  
  <div><table><tr><td>
+  <img src="../images/junjie.jpg">  
       </td></tr></table></div>
 
  <div><table><tr><td>
