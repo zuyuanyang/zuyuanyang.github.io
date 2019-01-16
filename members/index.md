@@ -7,10 +7,7 @@ share: false
 
 <h4> Cooperators </h4>  
  <div><table><tr><td>
-       <img src="../images/zhenni.jpg">      	
-      </td></tr></table></div>
-
- <div><table><tr><td>
+       <img src="../images/zhenni.jpg"><br>      	
        Zhenni Li
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
