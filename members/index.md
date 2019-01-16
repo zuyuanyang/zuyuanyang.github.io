@@ -8,7 +8,7 @@ share: false
 ### Ph.D Students
 <ol>
  <div><table><tr><td>
-  <img src="../images/weihan.jpg">      	
+       <img src="../images/weihan.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="../images/jingsu.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,14 +16,14 @@ share: false
       </td></tr></table></div>
 
  <div><table><tr><td>
- Wei Han
-  &nbsp;&nbsp;&nbsp;&nbsp;
+       Wei Han
+       &nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;
       	Jing Su
- &nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;
- Hailong Yang
+       &nbsp;&nbsp;&nbsp;&nbsp;
+       Hailong Yang
  </td></tr></table></div>  
 
