@@ -24,7 +24,11 @@ share: false
       </td></tr></table></div>
 
  <div><table><tr><td>
-       <a "yangjunjie0807@163.com">Junjie Yang</a>
+      Junjie Yang
+ </td></tr></table></div>  
+ 
+  <div><table><tr><td>
+       yangjunjie0807@163.com
  </td></tr></table></div>  
  
 <h4> Ph.D Students </h4> 
