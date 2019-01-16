@@ -69,7 +69,7 @@ share: false
       		<img src="../images/mochen.jpg"><br>
   	     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      		<img src="../images/xiaowen.jpg"><br>
+      		<img src="../images/xiaowen.png"><br>
        Haiping Wang
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
