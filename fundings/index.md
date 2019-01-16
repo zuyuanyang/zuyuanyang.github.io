@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /awards/
+permalink: /fundings/
 title: Selected Fundings
-tags: [awards]
+tags: [fundings]
 modified: 05-23-2018
 comments: false
 share: false
