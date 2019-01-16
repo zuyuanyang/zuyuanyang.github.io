@@ -53,7 +53,45 @@ share: false
  ghanwei@yeah.net  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  Arno_Sue@163.com  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;
  307261277@qq.com 
  </td></tr></table></div>  
 
+<h4> Post Graduates </h4> 
+
+ <div><table><tr><td>
+       <img src="../images/haiping.jpg">      	
+       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <img src="../images/yifei.jpg">      	
+       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      		<img src="../images/mochen.jpg"><br>
+  	     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      		<img src="../images/xiaowen.jpg"><br>
+       Haiping Wang
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	Yifei Hu
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       Mo Chen
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       Xiaowen He
+ <br>
+ 757800660@qq.com  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+942785977@qq.com
+ &nbsp;&nbsp;&nbsp;&nbsp;
+593818670@qq.com
+  &nbsp;&nbsp;&nbsp;&nbsp;
+786551691@qq.com
+ </td></tr></table></div>  
