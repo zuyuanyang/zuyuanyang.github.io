@@ -7,6 +7,43 @@ share: false
 
 You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0KBHhUAAAAJ&hl=zh-CN" target="_blank" style="text-decoration:underline;">Google Scholar profile</a>.
 
+<style>
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
+
+/*************************************
+   The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+  margin-right: 0%;
+  margin-top: 1.2em;
+  margin-bottom: 1.3em;
+  border: 1px solid silver;
+  padding: 0.3em 0.5em;
+  background: #eeeeee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; }
+</style>
+
+<script>
+function toggleBibtex(articleid) {
+  var bib = document.getElementById('bib_'+articleid);
+  if (bib) {
+    if(bib.className.indexOf('bibtex') != -1) {
+    bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+    }
+  } else {
+    return;
+  }
+}
+</script>
+
 ### Journal and Conference Publications
 <ol class="biblist">
 
