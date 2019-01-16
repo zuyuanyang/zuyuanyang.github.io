@@ -24,7 +24,7 @@ share: false
       </td></tr></table></div>
 
  <div><table><tr><td>
-       Junjie Yang
+       <a href="yangjunjie0807@163.com/" target="_blank">Junjie Yang</a>
  </td></tr></table></div>  
  
 <h4> Ph.D Students </h4> 
