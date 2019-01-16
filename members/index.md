@@ -9,13 +9,9 @@ share: false
  <div><table><tr><td>
        <img src="../images/zhenni.jpg">
  <br>      	
-       Zhenni Li
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	Wei Yan
+       Zhenni Li               Wei Yan
  <br>
- lizhenni2012@gmail.com
+       lizhenni2012@gmail.com
  </td></tr></table></div>  
  
 <h4> Post-Ph.D </h4>  
