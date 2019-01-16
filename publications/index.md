@@ -7,63 +7,16 @@ share: false
 
 You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0KBHhUAAAAJ&hl=zh-CN" target="_blank" style="text-decoration:underline;">Google Scholar profile</a>.
 
-
-<style>
-.biblist { }
-
-/* The item */
-.biblist li { }
-
-/* You can define custom styles for plstyle field here. */
-
-
-/*************************************
-   The box that contain BibTeX code
- *************************************/
-div.noshow { display: none; }
-div.bibtex {
-  margin-right: 0%;
-  margin-top: 1.2em;
-  margin-bottom: 1.3em;
-  border: 1px solid silver;
-  padding: 0.3em 0.5em;
-  background: #eeeeee;
-}
-div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; }
-</style>
-
-<script>
-function toggleBibtex(articleid) {
-  var bib = document.getElementById('bib_'+articleid);
-  if (bib) {
-    if(bib.className.indexOf('bibtex') != -1) {
-    bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
-    }
-  } else {
-    return;
-  }
-}
-</script>
-
-
-
-
-
 ### Journal and Conference Publications
 <ol class="biblist">
 
-
-<!-- Item: hien2016accelerated -->
+<!-- Item: tsmc2018 -->
 <li ><p>
 <b>Non-negative Matrix Factorization with Dual Constraints for Image Clustering</b><br>
-Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi Feng<br>
-
-<i>Journal of Optimization Theory and Applications</i>,
-
-
+<b>Z.</b> <b>Yang<b>, Y. Zhang, Y. Xiang, W. Yan, S. Xie<br>
+<i>IEEE Trans.  Systems, Man, and Cybernetics: Systems</i>,
 2018<br>
-<a href="javascript:toggleBibtex('hien2016accelerated')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/abs/1605.06892" class="textlink" target="_blank">[arXiv]</a>
+<a href="../publications/tsmc2018.pdf" class="textlink" target="_blank">[paper]</a>
 
 
 </p>
