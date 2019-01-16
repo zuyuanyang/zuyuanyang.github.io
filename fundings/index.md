@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/
-title: Fundings
+title: Selected Fundings
 tags: [awards]
 modified: 05-23-2018
 comments: false
