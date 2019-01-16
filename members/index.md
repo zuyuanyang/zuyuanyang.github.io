@@ -62,13 +62,10 @@ share: false
  <div><table><tr><td>
        <img src="../images/haiping.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="../images/yifei.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       		<img src="../images/mochen.jpg"><br>
   	     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       		<img src="../images/xiaowen.jpg"><br>
        Haiping Wang
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
