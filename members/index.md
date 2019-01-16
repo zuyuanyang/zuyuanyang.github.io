@@ -9,7 +9,7 @@ share: false
  <div><table><tr><td>
        <img src="../images/zhenni.jpg">
  <br>      	
-       Zhenni Li                     Wei Yan
+       Zhenni Li                 Wei Yan
  <br>
        lizhenni2012@gmail.com
  </td></tr></table></div>  
