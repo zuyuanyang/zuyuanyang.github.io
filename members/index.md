@@ -18,14 +18,10 @@ share: false
 <h4> Post-Ph.D </h4>  
  <div><table><tr><td>
   <img src="../images/junjie.jpg">  
-      </td></tr></table></div>
-
- <div><table><tr><td>
+<br>
       Junjie Yang
- </td></tr></table></div>  
- 
-  <div><table><tr><td>
-       yangjunjie0807@163.com
+ <br>
+      yangjunjie0807@163.com
  </td></tr></table></div>  
  
 <h4> Ph.D Students </h4> 
@@ -35,10 +31,7 @@ share: false
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="../images/jingsu.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      		<img src="../images/hailong.jpg">
-      </td></tr></table></div>
-
- <div><table><tr><td>
+      		<img src="../images/hailong.jpg"><br>
        Wei Han
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
