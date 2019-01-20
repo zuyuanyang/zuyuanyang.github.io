@@ -66,8 +66,6 @@ share: false
  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	<img src="../images/mochen.jpg"><br>
- 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Haiping Wang
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -99,7 +97,7 @@ share: false
  <img src="../images/naiyao.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="../images/zhenwang.jpg"><br>
+ <img src="../images/songcan.jpg"><br>
        Xiaowen He
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
