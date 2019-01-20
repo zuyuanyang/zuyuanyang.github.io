@@ -100,7 +100,6 @@ share: false
  libertyhhn@foxmail.com
  </td></tr></table></div>  
 
-<h4> Ph.D Students </h4> 
  <div><table><tr><td>
      	<img src="../images/xiaowen.jpg"><br>    	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
