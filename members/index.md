@@ -31,13 +31,13 @@ share: false
 <h4> Ph.D Students </h4> 
 
  <div><table><tr><td>
-       <img src="../images/weihan.jpg">      	
+ <img src="../images/weihan.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       <img src="../images/jingsu.jpg">      	
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="../images/jingsu.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      		<img src="../images/hailong.jpg"><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="../images/hailong.jpg"><br>
        Wei Han
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,28 +58,66 @@ share: false
  </td></tr></table></div>  
 
 <h4> Post Graduates </h4> 
-
  <div><table><tr><td>
-       <img src="../images/haiping.jpg">      	
-       <img src="../images/yifei.jpg">      	
-      		<img src="../images/mochen.jpg"><br>
-      		<img src="../images/xiaowen.jpg"><br>
+       <img src="../images/haiping.jpg">	
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      	
+       <img src="../images/yifei.jpg"> 
+ 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	<img src="../images/mochen.jpg"><br>
+ 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Haiping Wang
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Yifei Hu
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       
+      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      
        Mo Chen
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
-       Xiaowen He
+      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <br>
  757800660@qq.com  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 942785977@qq.com
  &nbsp;&nbsp;&nbsp;&nbsp;
 593818670@qq.com
-  &nbsp;&nbsp;&nbsp;&nbsp;
-786551691@qq.com
  </td></tr></table></div>  
+
+<h4> Ph.D Students </h4> 
+ <div><table><tr><td>
+     	<img src="../images/xiaowen.jpg"><br>    	
+       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="../images/naiyao.jpg">      	
+       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="../images/zhenwang.jpg"><br>
+       Xiaowen He
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	Naiyao Liang
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       Songcan Chen
+ <br>
+ 786551691@qq.com 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ naiyaogdut@aliyun.com  
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ 742105927@qq.com 
+ </td></tr></table></div>  
+ 
+            
+             
