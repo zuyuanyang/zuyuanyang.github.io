@@ -71,11 +71,11 @@ share: false
        <img src="../images/yifei.jpg"> 
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
       	<img src="../images/mochen.jpg">
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
       	<img src="../images/xiaowen.jpg"><br>
        Haiping Wang
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
