@@ -110,7 +110,7 @@ Xiaowen He
   <img src="../images/haoyang.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="../images/zhenwang.jpg"><br>
+ <img src="../images/zhenwang.png"><br>
        Songcan Chen
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
