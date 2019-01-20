@@ -5,6 +5,8 @@ modified: 2014-07-31T13:23:02.362000-04:00
 share: false
 ---
 
+There may be some layout problems when you use your mobile phone to view this page. Please use the computer instead.
+
 <h4> Cooperators </h4>  
  <div><table><tr><td>
        <img src="../images/zhenni.jpg">
@@ -141,13 +143,13 @@ Xiaowen He
       Chaolang Xu
  <br>
  742105927@qq.com
- &nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;
  naiyaogdut@aliyun.com  
  &nbsp;&nbsp;&nbsp;
  715677259@qq.com 
  &nbsp;&nbsp;&nbsp;
  achilles35@163.com
- &nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;
  chaolangxu@gmail.com
  </td></tr></table></div>  
  
