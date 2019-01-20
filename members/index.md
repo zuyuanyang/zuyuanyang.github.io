@@ -73,7 +73,7 @@ share: false
       	<img src="../images/mochen.jpg">
   	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	<img src="../images/haonan.jpg"><br>
+      	<img src="../images/xiaowen.jpg"><br>
        Haiping Wang
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -89,7 +89,7 @@ share: false
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- Haonan Huang
+Xiaowen He
  <br>
  757800660@qq.com  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -97,18 +97,21 @@ share: false
  &nbsp;&nbsp;&nbsp;&nbsp;
 593818670@qq.com
   &nbsp;&nbsp;&nbsp;&nbsp;
- libertyhhn@foxmail.com
+ 786551691@qq.com
  </td></tr></table></div>  
 
  <div><table><tr><td>
-     	<img src="../images/xiaowen.jpg">    	
+     	<img src="../images/songcan.jpg">    	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="../images/naiyao.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="../images/songcan.jpg"><br>
-       Xiaowen He
+  <img src="../images/haoyang.jpg">      	
+       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="../images/zhenwang.jpg"><br>
+       Songcan Chen
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -118,13 +121,22 @@ share: false
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       Songcan Chen
+      Hao Yang
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Zhen Wang
+  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Chaolang Xu
  <br>
- 786551691@qq.com 
+ 742105927@qq.com
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  naiyaogdut@aliyun.com  
  &nbsp;&nbsp;&nbsp;&nbsp;
- 742105927@qq.com 
+ 715677259@qq.com 
  </td></tr></table></div>  
  
             
