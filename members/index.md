@@ -70,7 +70,7 @@ share: false
        <img src="../images/yifei.jpg"> 
  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	<img src="../images/mochen.jpg"><br>
+      	<img src="../images/mochen.jpg">
   	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	<img src="../images/haonan.jpg"><br>
@@ -101,7 +101,7 @@ share: false
  </td></tr></table></div>  
 
  <div><table><tr><td>
-     	<img src="../images/xiaowen.jpg"><br>    	
+     	<img src="../images/xiaowen.jpg">    	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="../images/naiyao.jpg">      	
