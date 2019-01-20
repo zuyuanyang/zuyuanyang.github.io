@@ -120,6 +120,10 @@ Xiaowen He
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="../images/zhenwang.png"><br>
+        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="../images/chaolang.png"><br>
        Songcan Chen
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -145,6 +149,8 @@ Xiaowen He
  715677259@qq.com 
   &nbsp;&nbsp;&nbsp;&nbsp;
  achilles35@163.com
+ &nbsp;&nbsp;&nbsp;&nbsp;
+ chaolangxu@gmail.com
  </td></tr></table></div>  
  
   <div><table><tr><td>
@@ -184,6 +190,7 @@ libertyhhn@foxmail.com
  &nbsp;&nbsp;&nbsp;&nbsp;
 948552155@qq.com
   &nbsp;&nbsp;&nbsp;&nbsp;
+ anan@mail2.gdut.edu.cn
  </td></tr></table></div>
  
  <div><table><tr><td>
