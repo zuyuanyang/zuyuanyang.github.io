@@ -123,7 +123,7 @@ Xiaowen He
         	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="../images/chaolang.png"><br>
+ <img src="../images/chaolang.jpg"><br>
        Songcan Chen
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -143,13 +143,13 @@ Xiaowen He
       Chaolang Xu
  <br>
  742105927@qq.com
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;
  naiyaogdut@aliyun.com  
- &nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;
  715677259@qq.com 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;
  achilles35@163.com
- &nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;
  chaolangxu@gmail.com
  </td></tr></table></div>  
  
