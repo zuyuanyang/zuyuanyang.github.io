@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /fundings/
+permalink: /Honours/
 title: Honours
 tags: [fundings]
 modified: 05-23-2018
