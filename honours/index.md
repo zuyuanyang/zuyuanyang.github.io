@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /fundings/
+permalink: /honours/
 title: Honours
-tags: [fundings]
+tags: [honours]
 modified: 05-23-2018
 comments: false
 share: false
