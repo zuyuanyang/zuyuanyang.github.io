@@ -8,7 +8,7 @@ share: false
 <h4> Cooperators </h4>  
  <div><table><tr><td>
        <img src="../images/zhenni.jpg">
-        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="../images/weiyan.jpg">  
  <br>      	
@@ -52,7 +52,7 @@ share: false
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Hailong Yang
  <br>
  ghanwei@yeah.net  
