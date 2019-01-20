@@ -8,6 +8,9 @@ share: false
 <h4> Cooperators </h4>  
  <div><table><tr><td>
        <img src="../images/zhenni.jpg">
+        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="../images/weiyan.jpg">  
  <br>      	
        Zhenni Li
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,6 +20,8 @@ share: false
        Wei Yan
  <br>
        lizhenni2012@gmail.com
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ helloyanwei@163.com
  </td></tr></table></div>  
  
 <h4> Post-Ph.D </h4>  
@@ -66,6 +71,9 @@ share: false
  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	<img src="../images/mochen.jpg"><br>
+  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	<img src="../images/haonan.jpg"><br>
        Haiping Wang
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -81,12 +89,15 @@ share: false
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ Haonan Huang
  <br>
  757800660@qq.com  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 942785977@qq.com
  &nbsp;&nbsp;&nbsp;&nbsp;
 593818670@qq.com
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ libertyhhn@foxmail.com
  </td></tr></table></div>  
 
 <h4> Ph.D Students </h4> 
@@ -102,12 +113,12 @@ share: false
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Naiyao Liang
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Songcan Chen
  <br>
  786551691@qq.com 
