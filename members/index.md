@@ -10,7 +10,7 @@ share: false
        <img src="../images/zhenni.jpg">
         	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="../images/weiyan.jpg">  
+       <img src="../images/weiyan.jpg">  
  <br>      	
        Zhenni Li
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,8 +20,8 @@ share: false
        Wei Yan
  <br>
        lizhenni2012@gmail.com
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- helloyanwei@163.com
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      helloyanwei@163.com
  </td></tr></table></div>  
  
 <h4> Post-Ph.D </h4>  
