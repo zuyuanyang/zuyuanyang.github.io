@@ -31,5 +31,5 @@ share: false
 
   <li><b> Manifold optimization-based analysis dictionary learning with an L1/2-norm regularizer<br>
 
-
+</ol>
 
