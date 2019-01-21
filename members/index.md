@@ -44,7 +44,6 @@ There may be some layout problems when you use your mobile phone to view this pa
  <img src="../images/weihan.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="../images/jingsu.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -135,13 +134,13 @@ Xiaowen He
       Chaolang Xu
  <br>
  742105927@qq.com
- &nbsp;&nbsp;&nbsp;
+ &nbsp;
  naiyaogdut@aliyun.com  
- &nbsp;&nbsp;&nbsp;
+ &nbsp;
  715677259@qq.com 
- &nbsp;&nbsp;&nbsp;
+ &nbsp;
  achilles35@163.com
- &nbsp;&nbsp;
+ &nbsp;
  chaolangxu@gmail.com
  </td></tr></table></div>  
  
