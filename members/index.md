@@ -150,13 +150,9 @@ There may be some layout problems when you use your mobile phone to view this pa
        Xichen Chen (陈禧琛)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Yiwen Chen (陈怡雯)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
        Zongjian Li (黎宗建)
  </td></tr></table></div>
              
