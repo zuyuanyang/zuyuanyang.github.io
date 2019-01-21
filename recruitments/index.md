@@ -1,23 +1,21 @@
 ---
 layout: page
-permalink: /honours/
-title: Honours
-tags: [honours]
+permalink: /recruitments/
+title: Recruitments Plan
+tags: [recruitments]
 modified: 05-23-2018
 comments: false
 share: false
 ---
 <ul>
-  <li>Natural Science Funds of China for Excellent Young Scholars(国家优秀青年科学基金)</li>
-  <li>Guangdong Natural Science Funds for Distinguished Young Scholars(广东省自然科学杰出青年基金)</li>
-  <li>Program for New Century Excellent Talents in University of Ministry of Education of China(教育部新世纪优秀人才支持计划)</li>
-  <li>The university’s “One-Hundred Talents” Chair Professors （广东工业大学“百人计划”特聘教授）</li>
+We provide several positions for Post-graduates, Ph.D students, and Post Doctors every year, and focus on the study of information processing in education or medical data. The people who are interested in machine learning/AI or image/signal processing are highly appreciated.
+<br>
+We have fundings to support the research and give living bonus with several ranks. Also, we are ready to service the students who want to study abroad.
+<br>
+Please join us and contact me by email if you are ready to do research, including highly motivated undergraduates.
+<br>
+团队每年招收硕士、博士、博士后若干名，正在寻找对机器学习/人工智能、图像/信号处理感兴趣的同学，共同研究教育或医疗数据信息处理问题。<br>
+我们有充足的经费提供生活和研究支持，并已建立良好的国际合作关系，方便有意深造的同学出国交流。<br>
+欢迎做好研究准备的同学（包括积极的本科生）通过邮件联系，加入我们团队。<br>
 </ul>
 
-### Seleted Fundings
-<ul>
-  <li>System identification and state estimation,<br> 
-    2018.01-2020.12, CHN $1,300,000, Natural Science Funds of China for Excellent Young Scholars.</li>
-  <li>Study of blind separation of weak sparse sources and its application to spectral unmixing,<br> 
-    2015.01-2018.12, CHN $1,000,000, Guangdong Natural Science Funds for Distinguished Young Scholar.</li>
-</ul>
