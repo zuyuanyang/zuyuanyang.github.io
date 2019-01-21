@@ -161,7 +161,5 @@ Signal Processing Letters</i>,
 </p>
   
   
-  
-</ol>
 
 
