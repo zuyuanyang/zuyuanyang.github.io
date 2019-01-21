@@ -20,4 +20,7 @@ share: false
 我们有充足的经费提供生活和研究支持，并已建立良好的国际合作关系，方便有意深造的同学出国交流。<br>
 欢迎做好研究准备的同学（包括积极的本科生）通过邮件联系，加入我们团队。<br>
 </ul>
- </p>
+</p>
+
+### Salaries & Allowances
+相关的补助津贴请参考<a href="http://yzw.gdut.edu.cn/info/1027/4446.htm" style="text-decoration:underline;">广东工业大学2019年博士学位研究生招生简章</a>,<a href="http://rscbgb.gdut.edu.cn/info/1052/1002.htm" style="text-decoration:underline;">广东工业大学高薪聘请博士后研究人员</a>
