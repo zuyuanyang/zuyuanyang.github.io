@@ -71,7 +71,8 @@ nonnegative matrix factorization</b><br>
 <i>IEEE Transactions on Neural
 Networks and Learning Systems</i>,
 2017<br>
-<a href="../publications/tnnls2016.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="../publications/tnnls2016.pdf" class="textlink" target="_blank">[paper]</a> 
+<a href="https://github.com/zuyuanyang/AnsNMF" class="textlink" target="_blank">[code]</a>
 </p>
 
 <li >
