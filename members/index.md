@@ -49,13 +49,9 @@ There may be some layout problems when you use your mobile phone to view this pa
        Wei Han (韩威)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Jing Su (苏镜)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Hailong Yang (杨海龙)
  <br>
  ghanwei@yeah.net  
@@ -83,18 +79,12 @@ There may be some layout problems when you use your mobile phone to view this pa
        Haiping Wang (王海平)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Yifei Hu (胡一飞)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      
+      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
        Mo Chen (陈默)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Xiaowen He (何孝文)
  </td></tr></table></div>  
 
@@ -116,13 +106,10 @@ Xiaowen He (何孝文)
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Naiyao Liang (梁乃耀)
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Hao Yang (杨浩)
   	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Zhen Wang (汪振)
   	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Chaolang Xu (徐朝浪)
  </td></tr></table></div>  
  
@@ -143,18 +130,13 @@ Xiaowen He (何孝文)
        Haonan Huang (黄昊楠)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Junlin Zhu (朱俊霖)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
        Yuhui Xie (谢宇晖)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Fangan Lu (卢芳安)
+       Fangan Lu (卢芳安)
  </td></tr></table></div>
  <h4>Undergraduates </h4> 
  <div><table><tr><td>
@@ -176,15 +158,11 @@ Fangan Lu (卢芳安)
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Yiwen Chen (陈怡雯)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Zongjian Li (黎宗建)
  </td></tr></table></div>
              
