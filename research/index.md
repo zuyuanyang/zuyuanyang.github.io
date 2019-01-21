@@ -19,7 +19,7 @@ share: false
 
 </ol>
 
-### Journal Reviewer for
+<h1>Journal Reviewer for</h1>
 
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Image Processing (TIP)
