@@ -49,11 +49,9 @@ There may be some layout problems when you use your mobile phone to view this pa
        Wei Han (韩威)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Jing Su (苏镜)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Hailong Yang (杨海龙)
  <br>
  ghanwei@yeah.net  
