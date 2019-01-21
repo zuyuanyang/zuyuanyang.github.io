@@ -119,7 +119,7 @@ There may be some layout problems when you use your mobile phone to view this pa
        <img src="../images/junlin.jpg"> 
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	<img src="../images/yuhui.jpg">
+      	<img src="../images/yuhui.jpg"><br>
        Haonan Huang (黄昊楠)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Junlin Zhu (朱俊霖)
