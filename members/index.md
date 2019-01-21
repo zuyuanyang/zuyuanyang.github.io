@@ -115,21 +115,16 @@ There may be some layout problems when you use your mobile phone to view this pa
        <img src="../images/haonan.jpg">	
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="../images/junlin.jpg"> 
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	<img src="../images/yuhui.jpg">
-       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	<img src="../images/fangan.jpg"><br>
        Haonan Huang (黄昊楠)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Junlin Zhu (朱俊霖)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Yuhui Xie (谢宇晖)
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       Fangan Lu (卢芳安)
  </td></tr></table></div>
  
    <div><table><tr><td>
