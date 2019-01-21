@@ -8,16 +8,6 @@ comments: false
 share: false
 ---
 
-<ol>
-
-  <li><b> Non-negative Matrix Factorization with Dual Constraints for Image Clustering<br>
-  
-  <li><b> Adaptive method for nonsmooth nonnegative matrix factorization <br>
- 
-  <li><b> Blind spectral unmixing based on sparse nonnegative matrix factorization<br>
-
-  <li><b> Manifold optimization-based analysis dictionary learning with an L1/2-norm regularizer<br>
-
 ### Journal Reviewer for
 
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
@@ -30,5 +20,16 @@ share: false
 * Signals & Systems
 * R Language
 * New methods for modern signal processing
+
+<ol>
+
+  <li><b> Non-negative Matrix Factorization with Dual Constraints for Image Clustering<br>
+  
+  <li><b> Adaptive method for nonsmooth nonnegative matrix factorization <br>
+ 
+  <li><b> Blind spectral unmixing based on sparse nonnegative matrix factorization<br>
+
+  <li><b> Manifold optimization-based analysis dictionary learning with an L1/2-norm regularizer<br>
+
 
 
