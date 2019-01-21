@@ -69,7 +69,7 @@ There may be some layout problems when you use your mobile phone to view this pa
        <img src="../images/yifei.jpg"> 
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	<img src="../images/mochen.jpg">
+      	<img src="../images/mochen.jpg"><br>
        Haiping Wang (王海平)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -86,7 +86,7 @@ There may be some layout problems when you use your mobile phone to view this pa
  <img src="../images/naiyao.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="../images/haoyang.jpg">      	
+ <img src="../images/haoyang.jpg"> <br>     	
         Songcan Chen(陈松灿)
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -105,7 +105,7 @@ There may be some layout problems when you use your mobile phone to view this pa
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;
-      	<img src="../images/chaolang.jpg">
+      	<img src="../images/chaolang.jpg"><br>
        Xiaowen He(何孝文)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
