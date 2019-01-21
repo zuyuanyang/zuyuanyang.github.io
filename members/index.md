@@ -29,7 +29,7 @@ There may be some layout problems when you use your mobile phone to view this pa
       helloyanwei@163.com
  </td></tr></table></div>  
  
-<h4> Post-Ph.D </h4>  
+<h4> Post-Doctor </h4>  
  <div><table><tr><td>
   <img src="../images/junjie.jpg">  
 <br>
