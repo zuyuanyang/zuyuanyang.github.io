@@ -24,11 +24,11 @@
 #- title: Code
 #  url: /code
  
-- title: Academic Services
-  url: /services
+- title: Recruitments
+  url: /recruitments
   
-- title: Honours
-  url: /honours
+#- title: Honours
+#  url: /honours
 
 - title: Members
   url: /members

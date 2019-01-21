@@ -112,30 +112,21 @@ Xiaowen He
      	<img src="../images/songcan.jpg">    	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="../images/naiyao.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="../images/haoyang.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="../images/zhenwang.png">
         	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="../images/chaolang.jpg"><br>
        Songcan Chen
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Naiyao Liang
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Hao Yang
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Zhen Wang
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -143,13 +134,13 @@ Xiaowen He
       Chaolang Xu
  <br>
  742105927@qq.com
- &nbsp;&nbsp;&nbsp;
+ &nbsp;
  naiyaogdut@aliyun.com  
- &nbsp;&nbsp;&nbsp;
+ &nbsp;
  715677259@qq.com 
- &nbsp;&nbsp;&nbsp;
+ &nbsp;
  achilles35@163.com
- &nbsp;&nbsp;
+ &nbsp;
  chaolangxu@gmail.com
  </td></tr></table></div>  
  
