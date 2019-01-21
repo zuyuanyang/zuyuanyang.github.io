@@ -72,10 +72,8 @@ There may be some layout problems when you use your mobile phone to view this pa
       	<img src="../images/mochen.jpg"><br>
        Haiping Wang (王海平)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Yifei Hu (胡一飞)
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
        Mo Chen (陈默)
  </td></tr></table></div>  
 
