@@ -86,7 +86,6 @@ There may be some layout problems when you use your mobile phone to view this pa
        <img src="../images/zhenwang.png"> 
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;
       	<img src="../images/chaolang.jpg"><br>
        Xiaowen He(何孝文)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -132,6 +131,12 @@ There may be some layout problems when you use your mobile phone to view this pa
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Fangan Lu (卢芳安)
  </td></tr></table></div>
+ 
+   <div><table><tr><td>
+      	<img src="../images/fangan.jpg"><br>
+       Fangan Lu (卢芳安)
+ </td></tr></table></div>
+ 
  <h4>Undergraduates </h4> 
  <div><table><tr><td>
        <img src="../images/xichen.jpg">	
