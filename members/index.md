@@ -79,13 +79,30 @@ There may be some layout problems when you use your mobile phone to view this pa
  </td></tr></table></div>  
 
  <div><table><tr><td>
+       <img src="../images/xiaowen.jpg">	
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <img src="../images/zhenwang.png"> 
+       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      	<img src="../images/chaolang.jpg"><br>
+       Xiaowen He(何孝文)
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	Zhen Wang(汪振)
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       Chaolang Xu(徐朝浪)
+ </td></tr></table></div>
+ 
+ <div><table><tr><td>
      	<img src="../images/songcan.jpg">    	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="../images/naiyao.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="../images/haoyang.jpg"> <br>     	
         Songcan Chen(陈松灿)
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -94,29 +111,12 @@ There may be some layout problems when you use your mobile phone to view this pa
         Hao Yang(杨浩)   
  </td></tr></table></div>  
  
- <div><table><tr><td>
-       <img src="../images/xiaowen.jpg">	
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       <img src="../images/zhenwang.png"> 
-       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;
-      	<img src="../images/chaolang.jpg"><br>
-       Xiaowen He(何孝文)
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	Zhen Wang(汪振)
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       Chaolang Xu(徐朝浪)
- </td></tr></table></div>
- 
+
   <div><table><tr><td>
        <img src="../images/haonan.jpg">	
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="../images/junlin.jpg"> 
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -126,13 +126,10 @@ There may be some layout problems when you use your mobile phone to view this pa
       	<img src="../images/fangan.jpg"><br>
        Haonan Huang (黄昊楠)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Junlin Zhu (朱俊霖)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Yuhui Xie (谢宇晖)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Fangan Lu (卢芳安)
  </td></tr></table></div>
  <h4>Undergraduates </h4> 
