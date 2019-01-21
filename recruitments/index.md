@@ -23,4 +23,4 @@ share: false
 </p>
 
 ### Salaries & Allowances
-相关的补助津贴请参考<a href="http://yzw.gdut.edu.cn/info/1027/4446.htm" style="text-decoration:underline;">广东工业大学2019年博士学位研究生招生简章</a>,<a href="http://rscbgb.gdut.edu.cn/info/1052/1002.htm" style="text-decoration:underline;">广东工业大学高薪聘请博士后研究人员</a>
+相关的补助津贴请参考<a href="http://yzw.gdut.edu.cn/info/1027/4446.htm" style="text-decoration:underline;">广东工业大学2019年博士学位研究生招生简章</a>与<a href="http://rscbgb.gdut.edu.cn/info/1052/1002.htm" style="text-decoration:underline;">广东工业大学高薪聘请博士后研究人员</a>
