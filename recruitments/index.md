@@ -16,6 +16,7 @@ share: false
 <b>Please join us and contact me by email if you are ready to do research, including highly motivated undergraduates.</b> 
 <br><br>
 团队每年招收硕士、博士、博士后若干名，正在寻找对机器学习/人工智能、图像/信号处理感兴趣的同学，共同研究教育或医疗数据信息处理问题。<br>
+研究生招生专业：控制科学与工程、控制工程；本科生无专业限制。<br><br>
 我们有充足的经费提供生活和研究支持，并已建立良好的国际合作关系，方便有意深造的同学出国交流。<br>
 欢迎做好研究准备的同学（包括积极的本科生）通过邮件联系，加入我们团队。<br>
 </ul>
