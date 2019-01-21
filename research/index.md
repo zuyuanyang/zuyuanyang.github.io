@@ -9,7 +9,7 @@ share: false
 ---
 
 
-<ol>
+
   <li><b> Non-negative Matrix Factorization with Dual Constraints for Image Clustering<br>
   
   <li><b> Adaptive method for nonsmooth nonnegative matrix factorization <br>
@@ -17,7 +17,7 @@ share: false
   <li><b> Blind spectral unmixing based on sparse nonnegative matrix factorization<br>
 
   <li><b> Manifold optimization-based analysis dictionary learning with an L1/2-norm regularizer<br>
- <\ol>
+
 ### Journal Reviewer for
 
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
