@@ -8,7 +8,7 @@ comments: false
 share: false
 ---
 
-
+<ol>
 
   <li><b> Non-negative Matrix Factorization with Dual Constraints for Image Clustering<br>
   
