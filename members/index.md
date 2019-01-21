@@ -16,13 +16,13 @@ There may be some layout problems when you use your mobile phone to view this pa
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="../images/weiyan.jpg">  
  <br>      	
-       Zhenni Li
+       Zhenni Li (李珍妮)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       Wei Yan
+       Wei Yan (颜伟)
  <br>
        lizhenni2012@gmail.com
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +33,7 @@ There may be some layout problems when you use your mobile phone to view this pa
  <div><table><tr><td>
   <img src="../images/junjie.jpg">  
 <br>
-      Junjie Yang
+      Junjie Yang (杨俊杰)
  <br>
       yangjunjie0807@163.com
  </td></tr></table></div>  
@@ -48,17 +48,17 @@ There may be some layout problems when you use your mobile phone to view this pa
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="../images/hailong.jpg"><br>
-       Wei Han
+       Wei Han (韩威)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	Jing Su
+      	Jing Su (苏镜)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       Hailong Yang
+       Hailong Yang (杨海龙)
  <br>
  ghanwei@yeah.net  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -82,30 +82,22 @@ There may be some layout problems when you use your mobile phone to view this pa
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;
       	<img src="../images/xiaowen.jpg"><br>
-       Haiping Wang
+       Haiping Wang (王海平)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	Yifei Hu
+      	Yifei Hu (胡一飞)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      
-       Mo Chen
+       Mo Chen (陈默)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Xiaowen He
- <br>
- 757800660@qq.com  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-942785977@qq.com
- &nbsp;&nbsp;&nbsp;&nbsp;
-593818670@qq.com
-  &nbsp;&nbsp;&nbsp;&nbsp;
- 786551691@qq.com
+Xiaowen He (何孝文)
  </td></tr></table></div>  
 
  <div><table><tr><td>
@@ -121,29 +113,19 @@ Xiaowen He
   	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="../images/chaolang.jpg"><br>
-       Songcan Chen
+       Songcan Chen (陈松灿)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	Naiyao Liang
+      	Naiyao Liang (梁乃耀)
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      Hao Yang
+      Hao Yang (杨浩)
   	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      Zhen Wang
+      Zhen Wang (汪振)
   	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      Chaolang Xu
- <br>
- 742105927@qq.com
- &nbsp;
- naiyaogdut@aliyun.com  
- &nbsp;
- 715677259@qq.com 
- &nbsp;
- achilles35@163.com
- &nbsp;
- chaolangxu@gmail.com
+      Chaolang Xu (徐朝浪)
  </td></tr></table></div>  
  
   <div><table><tr><td>
@@ -160,29 +142,21 @@ Xiaowen He
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;
       	<img src="../images/fangan.jpg"><br>
-       Haonan Huang
+       Haonan Huang (黄昊楠)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	Junlin Zhu
+      	Junlin Zhu (朱俊霖)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-       Yuhui Xie
+       Yuhui Xie (谢宇晖)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Fangan Lu
- <br>
-libertyhhn@foxmail.com  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-248236626@qq.com
- &nbsp;&nbsp;&nbsp;&nbsp;
-948552155@qq.com
-  &nbsp;&nbsp;&nbsp;&nbsp;
- anan@mail2.gdut.edu.cn
+Fangan Lu (卢芳安)
  </td></tr></table></div>
  <h4>Undergraduates </h4> 
  <div><table><tr><td>
@@ -190,7 +164,7 @@ libertyhhn@foxmail.com
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="../images/yiwen.jpg"> 
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -199,26 +173,20 @@ libertyhhn@foxmail.com
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;
       	<img src="../images/zongjian.jpg"><br>
-       Xichen Chen
+       Xichen Chen (陈禧琛)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	Yiwen Chen
+      	Yiwen Chen (陈怡雯)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       Zongjian Li
- <br>
-xichenghost@gmail.com 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-3217002332@mail2.gdut.edu.cn
- &nbsp;&nbsp;&nbsp;&nbsp;
-120030@mail2.gdut.edu.cn
+       Zongjian Li (黎宗建)
  </td></tr></table></div>
              
