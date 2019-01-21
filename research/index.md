@@ -17,20 +17,18 @@ share: false
 
   <li><b> Manifold optimization-based analysis dictionary learning with an L1/2-norm regularizer<br>
 
-</ol>
-
 <h1>Journal Reviewer for</h1>
 
-* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-* IEEE Transactions on Image Processing (TIP)
-* IEEE Transactions on Signal Processing (TSP)
-* IEEE Signal Processing Letters (SPL)
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br>
+* IEEE Transactions on Image Processing (TIP)<br>
+* IEEE Transactions on Signal Processing (TSP)<br>
+* IEEE Signal Processing Letters (SPL)<br>
 
 <h1>Teaching</h1>
 
-* Signals & Systems
-* R Language
-* New methods for modern signal processing
+* Signals & Systems<br>
+* R Language<br>
+* New methods for modern signal processing<br>
 
 
 
