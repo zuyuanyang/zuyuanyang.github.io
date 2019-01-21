@@ -82,15 +82,14 @@ There may be some layout problems when you use your mobile phone to view this pa
      	<img src="../images/songcan.jpg">    	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="../images/naiyao.jpg">      	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="../images/haoyang.jpg"> <br>     	
         Songcan Chen(陈松灿)
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	 Naiyao Liang(梁乃耀)
-      	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         Hao Yang(杨浩)   
  </td></tr></table></div>  
@@ -100,7 +99,7 @@ There may be some layout problems when you use your mobile phone to view this pa
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       <img src="../images/zhenwang.jpg"> 
+       <img src="../images/zhenwang.png"> 
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;
