@@ -7,7 +7,7 @@ share: false
 
 You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0KBHhUAAAAJ&hl=zh-CN" target="_blank" style="text-decoration:underline;">Google Scholar profile</a> and my <a href="https://www.researchgate.net/profile/Zuyuan_Yang2" target="_blank" style="text-decoration:underline;">Researchgate profile</a>.
 
-### Journal and Conference Publications
+### Selected Publications
 <ol class="biblist">
 
 <!-- Item: tsmc2018 -->
