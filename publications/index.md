@@ -16,7 +16,7 @@ You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0K
 <b>Z.</b> <b>Yang</b>, Y. Zhang, Y. Xiang, W. Yan, S. Xie<br>
 <i>IEEE Trans.  Systems, Man, and Cybernetics: Systems</i>,
 2018<br>
-<a href="../publications/tsmc2018.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/8360970" class="textlink" target="_blank">[paper]</a>
 </p>
 
 <li >
@@ -25,7 +25,7 @@ You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0K
 X. Chen, <b>Z.</b> <b>Yang</b>, C Yang, K Xie, S Xie<br>
 <i>Complexity</i>,
 2018<br>
-<a href="../publications/complexity2018.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="https://www.hindawi.com/journals/complexity/2018/1656273/abs/" class="textlink" target="_blank">[paper]</a>
 </p>
 
 <li >
@@ -37,7 +37,7 @@ Z. Li, S. Ding, W. Chen, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>IEEE Trans. Emerging Topics in Computational
 Intelligence</i>,
 2018<br>
-<a href="../publications/tetci2018.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8306279" class="textlink" target="_blank">[paper]</a>
 </p>
 
 
@@ -49,7 +49,7 @@ Z. Li, S. Ding, Y. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>Neural
 Networks</i>,
 2017<br>
-<a href="../publications/nn2017.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0893608017302782" class="textlink" target="_blank">[paper]</a>
 </p>
 
 <li >
@@ -59,7 +59,7 @@ factorization for document clustering</b><br>
 W. Yan, B. Zhang, S. Ma, <b>Z.</b> <b>Yang</b><br>
 <i>Knowledge-based Systems</i>,
 2017<br>
-<a href="../publications/kbs2017.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0950705117303672" class="textlink" target="_blank">[paper]</a>
 </p>
 
 <li >
@@ -70,7 +70,7 @@ nonnegative matrix factorization</b><br>
 <i>IEEE Transactions on Neural
 Networks and Learning Systems</i>,
 2017<br>
-<a href="../publications/tnnls2016.pdf" class="textlink" target="_blank">[paper]</a> 
+<a href="https://ieeexplore.ieee.org/abstract/document/7394180" class="textlink" target="_blank">[paper]</a> 
 <a href="https://github.com/zuyuanyang/AnsNMF" class="textlink" target="_blank">[code]</a>
 </p>
 
@@ -81,7 +81,7 @@ nonnegative matrix factorization for learning sparse representation</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Zhang, W. Yan, Y. Xiang, S. Xie<br>
 <i>IEEE Access</i>,
 2016<br>
-<a href="../publications/ia201609.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/7559804" class="textlink" target="_blank">[paper]</a>
 </p>
   
 <li >
@@ -91,7 +91,7 @@ blind source separation method for separating nonnegative sources</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, Y. Rong, and K. Xie<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i>,
 2015<br>
-<a href="../publications/tnnls201508.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/6893008" class="textlink" target="_blank">[paper]</a>
 </p>
   
 <li >
@@ -102,7 +102,7 @@ based signal cryptosystem</b><br>
 <i>IEEE Transactions on  Emerging Topics in
 Computing</i>,
 2015<br>
-<a href="../publications/tetc201507.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/6975126" class="textlink" target="_blank">[paper]</a>
 </p>  
 
 <li >
@@ -112,7 +112,7 @@ sources</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, Y. Rong, and S. Xie<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i>,
 2013<br>
-<a href="../publications/tnnls201301.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/6365335" class="textlink" target="_blank">[paper]</a>
 </p>
 
 <li >
@@ -123,7 +123,7 @@ measure</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, S. Xie, and S. Ding<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i>,
 2012<br>
-<a href="../publications/tnnls201210.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6263307" class="textlink" target="_blank">[paper]</a>
 </p>
 
 <li >
@@ -134,7 +134,7 @@ factorization</b><br>
 Zhang<br>
 <i>IEEE Transactions on Image Processing</i>,
 2011<br>
-<a href="../publications/tip201104.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/5593218" class="textlink" target="_blank">[paper]</a>
 </p>
 
 <li >
@@ -145,7 +145,7 @@ nonnegative blind source separation</b><br>
 <i>Computers And Mathematics with
 Applications</i>,
 2011<br>
-<a href="../publications/cma201111.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0898122111007589" class="textlink" target="_blank">[paper]</a>
 </p>
 
 <li >
@@ -156,7 +156,7 @@ fully nonnegative constrained iterative volume maximization</b><br>
 <i>IEEE
 Signal Processing Letters</i>,
 2010<br>
-<a href="../publications/ispl201009.pdf" class="textlink" target="_blank">[paper]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/5498924" class="textlink" target="_blank">[paper]</a>
 </p>
   
   
