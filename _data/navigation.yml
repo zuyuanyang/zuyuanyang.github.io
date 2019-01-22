@@ -9,14 +9,14 @@
  #{{ site.url }}
   
   
-- title: Research
-  url: /research
+#- title: Research
+#  url: /research
 
 #- title: Teaching
 #  url: /teaching
 
-- title: Publications
-  url: /publications
+#- title: Publications
+#  url: /publications
 
 #- title: Blog
 #  url: /posts
@@ -24,13 +24,14 @@
 #- title: Code
 #  url: /code
  
-- title: Academic Services
-  url: /services
+#- title: Academic Services
+# url: /services
   
-- title: Honours
-  url: /honours
+#- title: Honours
+#  url: /honours
 
-- title: Members
-  url: /members
+#- title: Members
+#  url: /members
+
 #- title: Theme Setup
 #  url: /theme-setup/
