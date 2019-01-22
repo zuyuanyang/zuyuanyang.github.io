@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Zuyuan Yang (杨祖元)
+title:            Haonan Huang (黄昊楠)
 locale:           zh-CN
 url:
 
@@ -26,22 +26,22 @@ kramdown:
 
 # Site owner
 owner:
-  name: Zuyuan Yang
-  avatar: canyilu.jpg
-  bio: "Professor at School of Automation, Guangdong University of Technology."
-  email: zuyuanyang@gmail.com
+  name: Haonan Huang
+  avatar: haonan.jpg
+  bio: "Master Student at School of Automation, Guangdong University of Technology."
+  email: libertyhhn@foxmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
   google: 
     plus: 
-    scholar: https://scholar.google.com.hk/citations?user=s0KBHhUAAAAJ&hl=zh-CN
+    scholar: #username
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: zuyuanyang
+  github: libertyhhn
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
