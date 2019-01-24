@@ -21,6 +21,15 @@ You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0K
 
 <li >
 <p>
+<b>A Novel Regularized Nonnegative Matrix Factorization for Spectral-Spatial Dimension Reduction of Hyperspectral Imagery</b><br>
+W. Yan， B. Zhang, <b>Z.</b> <b>Yang</b><br>
+<i>IEEE Access</i>,
+2018<br>
+<a href="https://ieeexplore.ieee.org/document/8555994?denied=" class="textlink" target="_blank">[paper]</a>
+</p>
+
+<li >
+<p>
 <b>Sparse Gene Coexpression Network Analysis Reveals EIF3J-AS1 as a Prognostic Marker for Breast Cancer</b><br>
 X. Chen, <b>Z.</b> <b>Yang</b>, C Yang, K Xie, S Xie<br>
 <i>Complexity</i>,
