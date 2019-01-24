@@ -12,20 +12,20 @@ You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0K
 <!-- Item: tsmc2018 -->
 <li >
 <p>
+<b>A Novel Regularized Nonnegative Matrix Factorization for Spectral-Spatial Dimension Reduction of Hyperspectral Imagery</b><br>
+W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
+<i>IEEE Access</i>,
+2018<br>
+<a href="https://ieeexplore.ieee.org/document/8555994?denied=" class="textlink" target="_blank">[paper]</a>
+</p>
+  
+<li >
+<p>
 <b>Non-negative Matrix Factorization with Dual Constraints for Image Clustering</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Zhang, Y. Xiang, W. Yan, S. Xie<br>
 <i>IEEE Trans.  Systems, Man, and Cybernetics: Systems</i>,
 2018<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8360970" class="textlink" target="_blank">[paper]</a>
-</p>
-
-<li >
-<p>
-<b>A Novel Regularized Nonnegative Matrix Factorization for Spectral-Spatial Dimension Reduction of Hyperspectral Imagery</b><br>
-W. Yan， B. Zhang, <b>Z.</b> <b>Yang</b><br>
-<i>IEEE Access</i>,
-2018<br>
-<a href="https://ieeexplore.ieee.org/document/8555994?denied=" class="textlink" target="_blank">[paper]</a>
 </p>
 
 <li >
