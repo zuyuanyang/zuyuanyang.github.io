@@ -120,7 +120,7 @@ There may be some layout problems when you use your mobile phone to view this pa
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	<img src="../images/yuhui.jpg"><br>
-       Haonan Huang (黄昊楠)
+       <a href="https://libertyhhn.github.io/" class="textlink" target="_blank">Haonan Huang(黄昊楠)</a>
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Junlin Zhu (朱俊霖)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
