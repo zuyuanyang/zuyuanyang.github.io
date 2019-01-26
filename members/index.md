@@ -18,7 +18,6 @@ There may be some layout problems when you use your mobile phone to view this pa
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        <img src="../images/yuzhang.jpg"> 
  <br>      	
        Zhenni Li(李珍妮)
