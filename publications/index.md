@@ -12,6 +12,15 @@ You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0K
 <!-- Item: tsmc2018 -->
 <li >
 <p>
+<b>Computing Resource Trading for Edge-Cloud-assisted Internet of Things</b><br>
+Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
+<i>IEEE Transactions on Industrial Informatics</i>,
+2019<br>
+<a href="https://ieeexplore.ieee.org/abstract/document/8633978" class="textlink" target="_blank">[paper]</a>
+</p>
+
+<li >
+<p>
 <b>A Novel Regularized Nonnegative Matrix Factorization for Spectral-Spatial Dimension Reduction of Hyperspectral Imagery</b><br>
 W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
 <i>IEEE Access</i>,
