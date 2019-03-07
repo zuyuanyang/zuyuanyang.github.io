@@ -148,7 +148,7 @@ There may be some layout problems when you use your mobile phone to view this pa
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       <img src="../images/yiwen.jpg"> 
+       <img src="../images/yiwen.jpg"> <br>
        Xichen Chen (陈禧琛)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
