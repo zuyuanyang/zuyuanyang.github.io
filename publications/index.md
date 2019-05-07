@@ -8,6 +8,24 @@ share: false
 You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0KBHhUAAAAJ&hl=zh-CN" target="_blank" style="text-decoration:underline;">Google Scholar profile</a> and my <a href="https://www.researchgate.net/profile/Zuyuan_Yang2" target="_blank" style="text-decoration:underline;">Researchgate profile</a>.
 
 <ol class="biblist">
+<li >
+<p>
+<b>Under-Determined Convolutive Blind Source Separation Combining Density-Based Clustering and Sparse Reconstruction in Time-Frequency Domain</b><br>
+J. Yang, Y. Guo, <b>Z.</b> <b>Yang</b>, S. Xie<br>
+<i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>,
+2019<br>
+<a href="https://ieeexplore.ieee.org/abstract/document/8701504" class="textlink" target="_blank">[paper]</a>
+</p>
+ 
+ 
+<li >
+<p>
+<b>Credit-based payments for fast computing resource trading in edge-assisted internet of things</b><br>
+Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie, W. Chen, K. Liu<br>
+<i>IEEE Internet of Things Journal</i>,
+2019<br>
+<a href="https://ieeexplore.ieee.org/abstract/document/8680626" class="textlink" target="_blank">[paper]</a>
+</p>
 
 <!-- Item: tsmc2018 -->
 <li >
