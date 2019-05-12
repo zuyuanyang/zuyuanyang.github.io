@@ -9,7 +9,7 @@ share: false
 ---
 <ol>
 
-  <li><b> Non-negative Matrix Factorization with Dual Constraints for Image Clustering<br>
+  <li><b> Q & A systems<br>
   <img src="../images/tsmc.png">
   <li><b> Adaptive method for nonsmooth nonnegative matrix factorization <br>
   <img src="../images/AnsNMF.png">
