@@ -11,7 +11,7 @@ share: false
 
   <li><b> Q & A systems<br>
   <img src="../images/tsmc.png">
-  <li><b> Adaptive method for nonsmooth nonnegative matrix factorization <br>
+  <li><b> Multi-View Learning<br>
   <img src="../images/AnsNMF.png">
   <li><b> Blind spectral unmixing based on sparse nonnegative matrix factorization<br>
   <img src="../images/tip.png">
