@@ -13,8 +13,8 @@ share: false
   <img src="../images/tsmc.png">
   <li><b> Multi-View Learning<br>
   <img src="../images/multiview.png">
-  <li><b> Speaker Recognition<br>
-  <img src="../images/tip.png">
+  <li><b> Voiceprint<br>
+  <img src="../images/voiceprint.png">
   <li><b> Manifold optimization-based analysis dictionary learning with an L1/2-norm regularizer<br><br>
   <img src="../images/nn.png">
     
