@@ -10,7 +10,7 @@ share: false
 <ol>
 
   <li><b> Q & A systems<br>
-  <img src="../images/tsmc.png">
+  <img src="../images/qa.jpg">
   <li><b> Multi-View Learning<br>
   <img src="../images/multiview.png">
   <li><b> Voiceprint<br>
