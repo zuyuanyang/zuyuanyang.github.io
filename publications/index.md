@@ -10,7 +10,7 @@ You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0K
 <ol class="biblist">
 <li >
 <p>
-<b>Under-Determined Convolutive Blind Source Separation Combining Density-Based Clustering and Sparse Reconstruction in Time-Frequency Domain</b><br>
+<b>Under-determined convolutive blind source separation combining density-based clustering and sparse reconstruction in time-frequency domain</b><br>
 J. Yang, Y. Guo, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>IEEE Trans. Circuits and Systems I: Regular Papers</i>,
  DOI: 10.1109/TCSI.2019.2908394,
@@ -32,7 +32,7 @@ Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie, W. Chen, K. Liu<br>
 <!-- Item: tsmc2018 -->
 <li >
 <p>
-<b>Computing Resource Trading for Edge-Cloud-assisted Internet of Things</b><br>
+<b>Computing resource trading for edge-cloud-assisted internet of things</b><br>
 Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>IEEE Trans. Industrial Informatics</i>,
  DOI: 10.1109/TII.2019.2897364,
@@ -42,7 +42,7 @@ Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 
 <li >,
 <p>
-<b>A Novel Regularized Nonnegative Matrix Factorization for Spectral-Spatial Dimension Reduction of Hyperspectral Imagery</b><br>
+<b>A novel regularized nonnegative matrix factorization for spectral-spatial dimension reduction of hyperspectral imagery</b><br>
 W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
 <i>IEEE Access</i>,
  DOI: 10.1109/ACCESS.2018.2884501,
@@ -52,7 +52,7 @@ W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
   
 <li >
 <p>
-<b>Non-negative Matrix Factorization with Dual Constraints for Image Clustering</b><br>
+<b>Non-negative matrix factorization with dual constraints for image clustering</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Zhang, Y. Xiang, W. Yan, S. Xie<br>
 <i>IEEE Trans.  Systems, Man, and Cybernetics: Systems</i>,
  DOI: 10.1109/TSMC.2018.2820084,
@@ -62,7 +62,7 @@ W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
 
 <li >
 <p>
-<b>Sparse Gene Coexpression Network Analysis Reveals EIF3J-AS1 as a Prognostic Marker for Breast Cancer</b><br>
+<b>Sparse gene coexpression network analysis reveals EIF3J-AS1 as a prognostic marker for breast cancer</b><br>
 X. Chen, <b>Z.</b> <b>Yang</b>, C Yang, K Xie, S Xie<br>
 <i>Complexity</i>,
  vol.2018, pp.12,
@@ -72,9 +72,9 @@ X. Chen, <b>Z.</b> <b>Yang</b>, C Yang, K Xie, S Xie<br>
 
 <li >
 <p>
-<b>Proximal Alternating
-Minimization for Analysis Dictionary Learning and Convergence
-Analysis</b><br>
+<b>Proximal alternating
+minimization for analysis dictionary learning and convergence
+analysis</b><br>
 Z. Li, S. Ding, W. Chen, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>IEEE Trans. Emerging Topics in Computational
 Intelligence</i>,
