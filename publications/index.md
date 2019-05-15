@@ -12,7 +12,7 @@ You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0K
 <p>
 <b>Under-Determined Convolutive Blind Source Separation Combining Density-Based Clustering and Sparse Reconstruction in Time-Frequency Domain</b><br>
 J. Yang, Y. Guo, <b>Z.</b> <b>Yang</b>, S. Xie<br>
-<i>IEEE Trans on Circuits and Systems I: Regular Papers</i>,
+<i>IEEE Trans. Circuits and Systems I: Regular Papers</i>,
  DOI: 10.1109/TCSI.2019.2908394,
  2019<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8701504" class="textlink" target="_blank">[paper]</a>
@@ -34,7 +34,7 @@ Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie, W. Chen, K. Liu<br>
 <p>
 <b>Computing Resource Trading for Edge-Cloud-assisted Internet of Things</b><br>
 Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
-<i>IEEE Transactions on Industrial Informatics</i>,
+<i>IEEE Trans. Industrial Informatics</i>,
  DOI: 10.1109/TII.2019.2897364,
  2019<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8633978" class="textlink" target="_blank">[paper]</a>
@@ -109,7 +109,7 @@ vol.135,pp.147-158, 2017<br>
 <b>Adaptive method for nonsmooth
 nonnegative matrix factorization</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, K. Xie, Y. Lai<br>
-<i>IEEE Transactions on Neural
+<i>IEEE Trans. Neural
 Networks and Learning Systems</i>,
 2017<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/7394180" class="textlink" target="_blank">[paper]</a> 
@@ -131,7 +131,7 @@ nonnegative matrix factorization for learning sparse representation</b><br>
 <b>A convex geometry-based
 blind source separation method for separating nonnegative sources</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, Y. Rong, and K. Xie<br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i>,
+<i>IEEE Trans. Neural Networks and Learning Systems</i>,
 2015<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/6893008" class="textlink" target="_blank">[paper]</a>
 </p>
@@ -141,7 +141,7 @@ blind source separation method for separating nonnegative sources</b><br>
 <b>On the security of compressed sensing
 based signal cryptosystem</b><br>
 <b>Z.</b> <b>Yang</b>, W. Yan, and Y. Xiang<br>
-<i>IEEE Transactions on  Emerging Topics in
+<i>IEEE Trans.  Emerging Topics in
 Computing</i>,
 2015<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/6975126" class="textlink" target="_blank">[paper]</a>
@@ -152,7 +152,7 @@ Computing</i>,
 <b>Projection-pursuit-based method for blind separation of nonnegative
 sources</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, Y. Rong, and S. Xie<br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i>,
+<i>IEEE Trans. Neural Networks and Learning Systems</i>,
 2013<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/6365335" class="textlink" target="_blank">[paper]</a>
 </p>
@@ -163,7 +163,7 @@ sources</b><br>
 source separation by sparse component analysis based on determinant
 measure</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, S. Xie, and S. Ding<br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i>,
+<i>IEEE Trans. Neural Networks and Learning Systems</i>,
 2012<br>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6263307" class="textlink" target="_blank">[paper]</a>
 </p>
@@ -174,7 +174,7 @@ measure</b><br>
 factorization</b><br>
 <b>Z.</b> <b>Yang</b>, G. Zhou, S. Xie, S. Ding, J. Yang, and J.
 Zhang<br>
-<i>IEEE Transactions on Image Processing</i>,
+<i>IEEE Trans. Image Processing</i>,
 2011<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/5593218" class="textlink" target="_blank">[paper]</a>
 </p>
