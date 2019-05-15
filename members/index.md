@@ -159,7 +159,7 @@ There may be some layout problems when you use your mobile phone to view this pa
       	Yuxuan Zhang (张宇轩)
  </td></tr></table></div>
  
- <h4> Former members </h4>
+ <h4> Former Members </h4>
  <div><table><tr><td>
        Yu Zhang(张宇)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -167,6 +167,6 @@ There may be some layout problems when you use your mobile phone to view this pa
       	Sihui Huang (黄司辉)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	Jiaqi Yuan(袁佳棋)
+      	Jiaqi Yuan(袁嘉棋)
  </td></tr></table></div>
  
