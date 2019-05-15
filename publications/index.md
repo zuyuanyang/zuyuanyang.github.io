@@ -65,7 +65,8 @@ W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
 <b>Sparse Gene Coexpression Network Analysis Reveals EIF3J-AS1 as a Prognostic Marker for Breast Cancer</b><br>
 X. Chen, <b>Z.</b> <b>Yang</b>, C Yang, K Xie, S Xie<br>
 <i>Complexity</i>,
-vol.2018,pp.12,2018<br>
+ vol.2018, pp.12,
+ 2018<br>
 <a href="https://www.hindawi.com/journals/complexity/2018/1656273/abs/" class="textlink" target="_blank">[paper]</a>
 </p>
 
@@ -77,8 +78,7 @@ Analysis</b><br>
 Z. Li, S. Ding, W. Chen, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>IEEE Trans. Emerging Topics in Computational
 Intelligence</i>,
-vol.2,no.6,pp.439-449,</i>
-2019<br>
+ vol.2, no.6, pp.439-449, 2019<br>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8306279" class="textlink" target="_blank">[paper]</a>
 </p>
 
@@ -90,7 +90,7 @@ analysis dictionary learning with an L1/2-norm regularizer</b><br>
 Z. Li, S. Ding, Y. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>Neural
 Networks</i>,
-2017<br>
+ vol.98, pp.212-222, 2017<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0893608017302782" class="textlink" target="_blank">[paper]</a>
 </p>
 
@@ -100,7 +100,7 @@ Networks</i>,
 factorization for document clustering</b><br>
 W. Yan, B. Zhang, S. Ma, <b>Z.</b> <b>Yang</b><br>
 <i>Knowledge-based Systems</i>,
-2017<br>
+vol.135,pp.147-158, 2017<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0950705117303672" class="textlink" target="_blank">[paper]</a>
 </p>
 
