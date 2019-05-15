@@ -18,7 +18,6 @@ There may be some layout problems when you use your mobile phone to view this pa
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       <img src="../images/yuzhang.jpg"> 
  <br>      	
        Zhenni Li(李珍妮)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,13 +27,10 @@ There may be some layout problems when you use your mobile phone to view this pa
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- Yu Zhang(张宇)
  <br>
        lizhenni2012@gmail.com
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      helloyanwei@163.com
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      yuzhanggdut@aliyun.com
+      helloyanwei@163.com 
  </td></tr></table></div>  
  
 <h4> Post-Doctor </h4>  
@@ -152,7 +148,8 @@ There may be some layout problems when you use your mobile phone to view this pa
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       <img src="../images/yuxuan.jpg"> <br>
+       <img src="../images/yuxuan.jpg">
+ <br>
        Xichen Chen (陈禧琛)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -161,4 +158,15 @@ There may be some layout problems when you use your mobile phone to view this pa
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Yuxuan Zhang (张宇轩)
  </td></tr></table></div>
-             
+ 
+ <h4> Former members </h4>
+ <div><table><tr><td>
+       Yu Zhang(张宇)
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	Sihui Huang (黄司辉)
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	Jiaqi Yuan(袁佳棋)
+ </td></tr></table></div>
+ 
