@@ -13,7 +13,8 @@ You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0K
 <b>Under-Determined Convolutive Blind Source Separation Combining Density-Based Clustering and Sparse Reconstruction in Time-Frequency Domain</b><br>
 J. Yang, Y. Guo, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>,
-DOI: 10.1109/TCSI.2019.2908394,2019<br>
+ DOI: 10.1109/TCSI.2019.2908394</i>,
+2019<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8701504" class="textlink" target="_blank">[paper]</a>
 </p>
  
@@ -33,16 +34,16 @@ DOI: 10.1109/JIOT.2019.2908861,2019<br>
 <b>Computing Resource Trading for Edge-Cloud-assisted Internet of Things</b><br>
 Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>IEEE Transactions on Industrial Informatics</i>,
-2019<br>
+DOI: 10.1109/TII.2019.2897364,2019<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8633978" class="textlink" target="_blank">[paper]</a>
 </p>
 
-<li >
+<li >,
 <p>
 <b>A Novel Regularized Nonnegative Matrix Factorization for Spectral-Spatial Dimension Reduction of Hyperspectral Imagery</b><br>
 W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
 <i>IEEE Access</i>,
-2018<br>
+DOI: 10.1109/ACCESS.2018.2884501,2018<br>
 <a href="https://ieeexplore.ieee.org/document/8555994?denied=" class="textlink" target="_blank">[paper]</a>
 </p>
   
@@ -51,7 +52,7 @@ W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
 <b>Non-negative Matrix Factorization with Dual Constraints for Image Clustering</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Zhang, Y. Xiang, W. Yan, S. Xie<br>
 <i>IEEE Trans.  Systems, Man, and Cybernetics: Systems</i>,
-2018<br>
+DOI: 10.1109/TSMC.2018.2820084,2018<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8360970" class="textlink" target="_blank">[paper]</a>
 </p>
 
@@ -60,7 +61,7 @@ W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
 <b>Sparse Gene Coexpression Network Analysis Reveals EIF3J-AS1 as a Prognostic Marker for Breast Cancer</b><br>
 X. Chen, <b>Z.</b> <b>Yang</b>, C Yang, K Xie, S Xie<br>
 <i>Complexity</i>,
-2018<br>
+vol.2018,pp.12,2018<br>
 <a href="https://www.hindawi.com/journals/complexity/2018/1656273/abs/" class="textlink" target="_blank">[paper]</a>
 </p>
 
@@ -72,7 +73,8 @@ Analysis</b><br>
 Z. Li, S. Ding, W. Chen, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>IEEE Trans. Emerging Topics in Computational
 Intelligence</i>,
-2018<br>
+vol.2,no.6,pp.439-449,</i>
+2019<br>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8306279" class="textlink" target="_blank">[paper]</a>
 </p>
 
