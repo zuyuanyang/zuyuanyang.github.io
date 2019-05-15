@@ -35,7 +35,8 @@ Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie, W. Chen, K. Liu<br>
 <b>Computing Resource Trading for Edge-Cloud-assisted Internet of Things</b><br>
 Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>IEEE Transactions on Industrial Informatics</i>,
-DOI: 10.1109/TII.2019.2897364,2019<br>
+ DOI: 10.1109/TII.2019.2897364,
+ 2019<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8633978" class="textlink" target="_blank">[paper]</a>
 </p>
 
@@ -44,7 +45,8 @@ DOI: 10.1109/TII.2019.2897364,2019<br>
 <b>A Novel Regularized Nonnegative Matrix Factorization for Spectral-Spatial Dimension Reduction of Hyperspectral Imagery</b><br>
 W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
 <i>IEEE Access</i>,
-DOI: 10.1109/ACCESS.2018.2884501,2018<br>
+ DOI: 10.1109/ACCESS.2018.2884501,
+ 2018<br>
 <a href="https://ieeexplore.ieee.org/document/8555994?denied=" class="textlink" target="_blank">[paper]</a>
 </p>
   
@@ -53,7 +55,8 @@ DOI: 10.1109/ACCESS.2018.2884501,2018<br>
 <b>Non-negative Matrix Factorization with Dual Constraints for Image Clustering</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Zhang, Y. Xiang, W. Yan, S. Xie<br>
 <i>IEEE Trans.  Systems, Man, and Cybernetics: Systems</i>,
-DOI: 10.1109/TSMC.2018.2820084,2018<br>
+ DOI: 10.1109/TSMC.2018.2820084,
+ 2018<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8360970" class="textlink" target="_blank">[paper]</a>
 </p>
 
