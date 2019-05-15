@@ -13,7 +13,7 @@ You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0K
 <b>Under-Determined Convolutive Blind Source Separation Combining Density-Based Clustering and Sparse Reconstruction in Time-Frequency Domain</b><br>
 J. Yang, Y. Guo, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>,
-DOI: 10.1109/TCSI.2019.2908394.2019<br>
+DOI: 10.1109/TCSI.2019.2908394,2019<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8701504" class="textlink" target="_blank">[paper]</a>
 </p>
  
@@ -23,7 +23,7 @@ DOI: 10.1109/TCSI.2019.2908394.2019<br>
 <b>Credit-based payments for fast computing resource trading in edge-assisted internet of things</b><br>
 Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie, W. Chen, K. Liu<br>
 <i>IEEE Internet of Things Journal</i>,
-2019<br>
+DOI: 10.1109/JIOT.2019.2908861,2019<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8680626" class="textlink" target="_blank">[paper]</a>
 </p>
 
