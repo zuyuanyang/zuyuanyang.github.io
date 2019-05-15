@@ -45,7 +45,7 @@ Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <b>A novel regularized nonnegative matrix factorization for spectral-spatial dimension reduction of hyperspectral imagery</b><br>
 W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
 <i>IEEE Access</i>,
- vol.6, pp.77953-77964, 2018<br>
+ vol. 6, pp. 77953-77964, 2018<br>
 <a href="https://ieeexplore.ieee.org/document/8555994?denied=" class="textlink" target="_blank">[paper]</a>
 </p>
   
@@ -64,7 +64,7 @@ W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
 <b>Sparse gene coexpression network analysis reveals EIF3J-AS1 as a prognostic marker for breast cancer</b><br>
 X. Chen, <b>Z.</b> <b>Yang</b>, C Yang, K Xie, S Xie<br>
 <i>Complexity</i>,
- vol.2018, pp.12,
+ vol. 2018, pp. 12,
  2018<br>
 <a href="https://www.hindawi.com/journals/complexity/2018/1656273/abs/" class="textlink" target="_blank">[paper]</a>
 </p>
@@ -77,7 +77,7 @@ analysis</b><br>
 Z. Li, S. Ding, W. Chen, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>IEEE Trans. Emerging Topics in Computational
 Intelligence</i>,
- vol.2, no.6, pp.439-449, 2019<br>
+ vol. 2, no. 6, pp. 439-449, 2019<br>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8306279" class="textlink" target="_blank">[paper]</a>
 </p>
 
@@ -89,7 +89,7 @@ analysis dictionary learning with an L1/2-norm regularizer</b><br>
 Z. Li, S. Ding, Y. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>Neural
 Networks</i>,
- vol.98, pp.212-222, 2017<br>
+ vol. 98, pp. 212-222, 2017<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0893608017302782" class="textlink" target="_blank">[paper]</a>
 </p>
 
@@ -99,7 +99,7 @@ Networks</i>,
 factorization for document clustering</b><br>
 W. Yan, B. Zhang, S. Ma, <b>Z.</b> <b>Yang</b><br>
 <i>Knowledge-based Systems</i>,
-vol.135, pp.147-158, 2017<br>
+vol. 135, pp. 147-158, 2017<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0950705117303672" class="textlink" target="_blank">[paper]</a>
 </p>
 
@@ -110,7 +110,7 @@ nonnegative matrix factorization</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, K. Xie, Y. Lai<br>
 <i>IEEE Trans. Neural
 Networks and Learning Systems</i>,
- vol.28, no.4, pp.948-960, 2017<br>
+ vol. 28, no. 4, pp. 948-960, 2017<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/7394180" class="textlink" target="_blank">[paper]</a> 
 <a href="https://github.com/zuyuanyang/AnsNMF" class="textlink" target="_blank">[code]</a>
 </p>
@@ -121,7 +121,7 @@ Networks and Learning Systems</i>,
 nonnegative matrix factorization for learning sparse representation</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Zhang, W. Yan, Y. Xiang, S. Xie<br>
 <i>IEEE Access</i>,
- vol.4, pp.5161-5168, 2016<br>
+ vol. 4, pp. 5161-5168, 2016<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/7559804" class="textlink" target="_blank">[paper]</a>
 </p>
   
@@ -131,7 +131,7 @@ nonnegative matrix factorization for learning sparse representation</b><br>
 blind source separation method for separating nonnegative sources</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, Y. Rong, and K. Xie<br>
 <i>IEEE Trans. Neural Networks and Learning Systems</i>,
- vol.26, no.8, pp.1635-1644, 2015<br>
+ vol. 26, no. 8, pp. 1635-1644, 2015<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/6893008" class="textlink" target="_blank">[paper]</a>
 </p>
   
@@ -142,7 +142,7 @@ based signal cryptosystem</b><br>
 <b>Z.</b> <b>Yang</b>, W. Yan, and Y. Xiang<br>
 <i>IEEE Trans.  Emerging Topics in
 Computing</i>,
- vol.3, no.3, pp.363-371, 2015<br>
+ vol. 3, no. 3, pp. 363-371, 2015<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/6975126" class="textlink" target="_blank">[paper]</a>
 </p>  
 
@@ -152,7 +152,7 @@ Computing</i>,
 sources</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, Y. Rong, and S. Xie<br>
 <i>IEEE Trans. Neural Networks and Learning Systems</i>,
- vol.24, no.1, pp.47-57, 2013<br>
+ vol. 24, no. 1, pp. 47-57, 2013<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/6365335" class="textlink" target="_blank">[paper]</a>
 </p>
 
@@ -163,7 +163,7 @@ source separation by sparse component analysis based on determinant
 measure</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, S. Xie, and S. Ding<br>
 <i>IEEE Trans. Neural Networks and Learning Systems</i>,
- vol.23, no.10, pp.1601-1610, 2012<br>
+ vol. 23, no. 10, pp. 1601-1610, 2012<br>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6263307" class="textlink" target="_blank">[paper]</a>
 </p>
 
@@ -174,7 +174,7 @@ factorization</b><br>
 <b>Z.</b> <b>Yang</b>, G. Zhou, S. Xie, S. Ding, J. Yang, and J.
 Zhang<br>
 <i>IEEE Trans. Image Processing</i>,
- vol.20, no.4, pp.1112-1125, 2011<br>
+ vol. 20, no. 4, pp. 1112-1125, 2011<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/5593218" class="textlink" target="_blank">[paper]</a>
 </p>
 
@@ -185,7 +185,7 @@ nonnegative blind source separation</b><br>
 <b>Z.</b> <b>Yang</b>, Y, Xiang, S. Xie<br>
 <i>Computers And Mathematics with
 Applications</i>,
- vol.62, no.11, pp.3997-4006, 2011<br>
+ vol. 62, no. 11, pp. 3997-4006, 2011<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0898122111007589" class="textlink" target="_blank">[paper]</a>
 </p>
 
@@ -196,7 +196,7 @@ fully nonnegative constrained iterative volume maximization</b><br>
 <b>Z.</b> <b>Yang</b>, S, Ding, S. Xie<br>
 <i>IEEE
 Signal Processing Letters</i>,
- vol.17, no.9, pp.799-802, 2010<br>
+ vol. 17, no. 9, pp. 799-802, 2010<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/5498924" class="textlink" target="_blank">[paper]</a>
 </p>
   
