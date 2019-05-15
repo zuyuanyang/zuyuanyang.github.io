@@ -24,7 +24,8 @@ J. Yang, Y. Guo, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <b>Credit-based payments for fast computing resource trading in edge-assisted internet of things</b><br>
 Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie, W. Chen, K. Liu<br>
 <i>IEEE Internet of Things Journal</i>,
-DOI: 10.1109/JIOT.2019.2908861,2019<br>
+ DOI: 10.1109/JIOT.2019.2908861,
+ 2019<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8680626" class="textlink" target="_blank">[paper]</a>
 </p>
 
