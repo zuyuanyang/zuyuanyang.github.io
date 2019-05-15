@@ -9,7 +9,7 @@ share: false
 ---
 <ol>
 
-  <li><b> Q&A systems for epilepsy diagnostic<br>
+  <li><b> Q&A system for epilepsy diagnostic<br>
   <img src="../images/QA.png">
   <li><b> Multi-view learning using NMF<br>
   <img src="../images/multiview.png">
