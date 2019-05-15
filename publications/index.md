@@ -45,8 +45,7 @@ Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <b>A novel regularized nonnegative matrix factorization for spectral-spatial dimension reduction of hyperspectral imagery</b><br>
 W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
 <i>IEEE Access</i>,
- DOI: 10.1109/ACCESS.2018.2884501,
- 2018<br>
+ vol.6, pp.77953-77964, 2018<br>
 <a href="https://ieeexplore.ieee.org/document/8555994?denied=" class="textlink" target="_blank">[paper]</a>
 </p>
   
