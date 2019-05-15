@@ -12,7 +12,7 @@ You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0K
 <p>
 <b>Under-Determined Convolutive Blind Source Separation Combining Density-Based Clustering and Sparse Reconstruction in Time-Frequency Domain</b><br>
 J. Yang, Y. Guo, <b>Z.</b> <b>Yang</b>, S. Xie<br>
-<i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>,
+<i>IEEE Trans on Circuits and Systems I: Regular Papers</i>,
  DOI: 10.1109/TCSI.2019.2908394,
  2019<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8701504" class="textlink" target="_blank">[paper]</a>
