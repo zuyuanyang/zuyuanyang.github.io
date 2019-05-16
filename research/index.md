@@ -14,7 +14,7 @@ share: false
   <li><b> Multi-view learning using NMF<br>
   <img src="../images/multiview.png">
   <li><b> Voiceprint recognition by BSS<br>
-  <img src="../images/voiceprint.png">
+  <img src="../images/voiceprint1.jpg">
   <!--<li><b> Manifold optimization-based analysis dictionary learning with an L1/2-norm regularizer<br><br>
   <img src="../images/nn.png">-->
     
