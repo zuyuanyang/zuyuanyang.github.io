@@ -40,7 +40,7 @@ Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8633978" class="textlink" target="_blank">[paper]</a>
 </p>
 
-<li >,
+<li >
 <p>
 <b>A novel regularized nonnegative matrix factorization for spectral-spatial dimension reduction of hyperspectral imagery</b><br>
 W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
