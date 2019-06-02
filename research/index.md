@@ -12,7 +12,7 @@ share: false
   <li><b> Q&A system for epilepsy diagnostic<br>
   <img src="../images/QA.png">
   <li><b> Multi-view learning using NMF<br>
-  <img src="../images/multiview1.png">
+  <img src="../images/multiview1.jpg">
   <li><b> Voiceprint recognition by BSS<br>
   <img src="../images/voiceprint1.jpg">
   <!--<li><b> Manifold optimization-based analysis dictionary learning with an L1/2-norm regularizer<br><br>
