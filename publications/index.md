@@ -16,8 +16,7 @@ J. Yang, Y. Guo, <b>Z.</b> <b>Yang</b>, S. Xie<br>
  DOI: 10.1109/TCSI.2019.2908394,
  2019<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8701504" class="textlink" target="_blank">[paper]</a>
-</p>
- <a href="https://github.com/zuyuanyang/Basic-version-of-TCS" class="textlink" target="_blank">[code]</a>
+<a href="https://github.com/zuyuanyang/Basic-version-of-TCS" class="textlink" target="_blank">[code]</a>
 </p>
 
  
