@@ -85,16 +85,16 @@ There may be some layout problems when you use your mobile phone to view this pa
  </td></tr></table></div>-->  
 
  <div><table><tr><td>
-       <img src="‪../images/Xiaowen.jpg">	
+   <!--<img src="‪../images/Xiaowen.jpg">	
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> 
        <img src="../images/zhenwang.png"> 
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	<img src="../images/chaolang.jpg"><br>
-       Xiaowen He(何孝文)
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Xiaowen He(何孝文)
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> 
       	Zhen Wang(汪振)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Chaolang Xu(徐朝浪)
