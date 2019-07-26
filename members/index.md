@@ -168,8 +168,7 @@ There may be some layout problems when you use your mobile phone to view this pa
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	Jiaqi Yuan(袁嘉棋)
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <br>
        Haiping Wang (王海平)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -177,8 +176,7 @@ There may be some layout problems when you use your mobile phone to view this pa
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Mo Chen (陈默)
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <br>
        Xiaowen He(何孝文)
  </td></tr></table></div>
  
