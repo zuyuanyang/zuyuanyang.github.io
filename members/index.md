@@ -85,7 +85,7 @@ There may be some layout problems when you use your mobile phone to view this pa
  </td></tr></table></div>-->  
 
  <div><table><tr><td>
-       <img src="‪F:/github/haiqin.jpg">	
+       <img src="‪../github/haiqin.jpg">	
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
