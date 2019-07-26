@@ -68,7 +68,7 @@ There may be some layout problems when you use your mobile phone to view this pa
  </td></tr></table></div>  
 
 <h4> Post Graduates </h4> 
- <div><table><tr><td>
+ <!--<div><table><tr><td>
        <img src="../images/haiping.jpg">	
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -82,7 +82,7 @@ There may be some layout problems when you use your mobile phone to view this pa
       	Yifei Hu (胡一飞)
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
        Mo Chen (陈默)
- </td></tr></table></div>  
+ </td></tr></table></div>-->  
 
  <div><table><tr><td>
        <img src="../images/xiaowen.jpg">	
