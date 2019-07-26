@@ -178,7 +178,6 @@ There may be some layout problems when you use your mobile phone to view this pa
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        Mo Chen (陈默)
  <br>
        Xiaowen He(何孝文)
