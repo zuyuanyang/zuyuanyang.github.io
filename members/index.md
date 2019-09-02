@@ -136,8 +136,15 @@ There may be some layout problems when you use your mobile phone to view this pa
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="../images/xiangfu.png">	
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <br>
         Xichen Chen (陈禧琛)
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       	Xiangfu Zeng (曾祥福)
  </td></tr></table></div>
  
  <h4>Undergraduates </h4> 
