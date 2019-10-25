@@ -142,7 +142,7 @@ W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
 <p>
 <b>Non-negative matrix factorization with dual constraints for image clustering</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Zhang, Y. Xiang, W. Yan, S. Xie<br>
-<i>IEEE Trans.  Systems, Man, and Cybernetics: Systems</i>,(中科院-,JCR-,IF:),
+<i>IEEE Trans.  Systems, Man, and Cybernetics: Systems</i>,(中科院-2区,JCR-1,IF:7.351),
  DOI: 10.1109/TSMC.2018.2820084,
  2018<br>
 <a href="javascript:toggleBibtex('yang2018non')" class="textlink">[bibtex]</a>
@@ -476,9 +476,9 @@ Signal Processing Letters</i>,(中科院-3区,JCR-1,IF:4.37),
 <a href="https://ieeexplore.ieee.org/abstract/document/5498924" class="textlink" target="_blank">[paper]</a>
 </p>
   
-<div id="bib_yang2010blinds" class="bibtex noshow">
+<div id="bib_yang2010blin" class="bibtex noshow">
 <pre>
-@article{yang2010blind,
+@article{yang2010blin,
   title={Blind source separation by fully nonnegative constrained iterative volume maximization},
   author={Yang, Zuyuan and Ding, Shuxue and Xie, Shengli},
   journal={IEEE Signal Processing Letters},
