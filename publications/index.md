@@ -472,7 +472,7 @@ fully nonnegative constrained iterative volume maximization</b><br>
 <i>IEEE
 Signal Processing Letters</i>,(中科院-3区,JCR-1,IF:4.37),
  vol. 17, no. 9, pp. 799-802, 2010<br>
-<a href="javascript:toggleBibtex('yang2010blind')" class="textlink">[bibtex]</a>
+<a href="javascript:toggleBibtex('yang2010blin')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/5498924" class="textlink" target="_blank">[paper]</a>
 </p>
   
