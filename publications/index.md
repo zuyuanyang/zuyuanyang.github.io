@@ -6,7 +6,7 @@ share: false
 ---
 
 You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0KBHhUAAAAJ&hl=zh-CN" target="_blank" style="text-decoration:underline;">Google Scholar profile</a> and my <a href="https://www.researchgate.net/profile/Zuyuan_Yang2" target="_blank" style="text-decoration:underline;">Researchgate profile</a>.
-
+https://github.com/zuyuanyang
 <ol class="biblist">
 <li >
 <p>
@@ -24,7 +24,7 @@ J. Yang, Y. Guo, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <p>
 <b>Credit-based payments for fast computing resource trading in edge-assisted internet of things</b><br>
 Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie, W. Chen, K. Liu<br>
-<i>IEEE Internet of Things Journal</i>,
+<i>IEEE Internet of Things Journal</i>,(中科院-1区,JCR-1,IF:11.33),
  DOI: 10.1109/JIOT.2019.2908861,
  2019<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8680626" class="textlink" target="_blank">[paper]</a>
