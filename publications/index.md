@@ -476,7 +476,7 @@ Signal Processing Letters</i>,(中科院-3区,JCR-1,IF:4.37),
 <a href="https://ieeexplore.ieee.org/abstract/document/5498924" class="textlink" target="_blank">[paper]</a>
 </p>
   
-<div id="bib_yang2010blind" class="bibtex noshow">
+<div id="bib_yang2010blinds" class="bibtex noshow">
 <pre>
 @article{yang2010blind,
   title={Blind source separation by fully nonnegative constrained iterative volume maximization},
