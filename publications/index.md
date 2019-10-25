@@ -76,11 +76,11 @@ Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie, W. Chen, K. Liu<br>
 <i>IEEE Internet of Things Journal</i>,(中科院-1区,JCR-1,IF:11.33),
  DOI: 10.1109/JIOT.2019.2908861,
  2019<br>
-<a href="javascript:toggleBibtex('li2019ITJ')" class="textlink">[bibtex]</a>
+<a href="javascript:toggleBibtex('li2019credit')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8680626" class="textlink" target="_blank">[paper]</a>
 </p>
  
-<div id="bib_li2019ITJ" class="bibtex noshow">
+<div id="bib_li2019credit" class="bibtex noshow">
 <pre>
 @article{li2019credit,
   title={Credit-based payments for fast computing resource trading in edge-assisted internet of things},
@@ -97,40 +97,91 @@ Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie, W. Chen, K. Liu<br>
 <p>
 <b>Computing resource trading for edge-cloud-assisted internet of things</b><br>
 Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
-<i>IEEE Trans. Industrial Informatics</i>,
+<i>IEEE Trans. Industrial Informatics</i>,(中科院-1区,JCR-1,IF:8.82),
  DOI: 10.1109/TII.2019.2897364,
  2019<br>
+<a href="javascript:toggleBibtex('li2019computing')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8633978" class="textlink" target="_blank">[paper]</a>
 </p>
+
+<div id="bib_li2019computing" class="bibtex noshow">
+<pre>
+@article{li2019computing,
+  title={Computing Resource Trading for Edge-Cloud-assisted Internet of Things},
+  author={Li, Zhenni and Yang, Zuyuan and Xie, Shengli},
+  journal={IEEE Transactions on Industrial Informatics},
+  year={2019},
+  publisher={IEEE}
+}
+</pre></div>
 
 <li >
 <p>
 <b>A novel regularized nonnegative matrix factorization for spectral-spatial dimension reduction of hyperspectral imagery</b><br>
 W. Yan, B. Zhang, <b>Z.</b> <b>Yang</b><br>
-<i>IEEE Access</i>,
+<i>IEEE Access</i>,(中科院-2区，JCR-1，IF:4.96),
  vol. 6, pp. 77953-77964, 2018<br>
+<a href="javascript:toggleBibtex('yan2018novel')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/document/8555994?denied=" class="textlink" target="_blank">[paper]</a>
 </p>
+  
+<div id="bib_yan2018novel" class="bibtex noshow">
+<pre>
+  @article{yan2018novel,
+  title={A Novel Regularized Nonnegative Matrix Factorization for Spectral-Spatial Dimension Reduction of Hyperspectral Imagery},
+  author={Yan, Wei and Zhang, Bob and Yang, Zuyuan},
+  journal={IEEE Access},
+  volume={6},
+  pages={77953--77964},
+  year={2018},
+  publisher={IEEE}
+}
+</pre></div>  
   
 <li >
 <p>
 <b>Non-negative matrix factorization with dual constraints for image clustering</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Zhang, Y. Xiang, W. Yan, S. Xie<br>
-<i>IEEE Trans.  Systems, Man, and Cybernetics: Systems</i>,
+<i>IEEE Trans.  Systems, Man, and Cybernetics: Systems</i>,(中科院-,JCR-,IF:),
  DOI: 10.1109/TSMC.2018.2820084,
  2018<br>
+<a href="javascript:toggleBibtex('yang2018non')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8360970" class="textlink" target="_blank">[paper]</a>
 </p>
+
+<div id="bib_yang2018non" class="bibtex noshow">
+<pre>
+@article{yang2018non,
+  title={Non-negative matrix factorization with dual constraints for image clustering},
+  author={Yang, Zuyuan and Zhang, Yu and Xiang, Yong and Yan, Wei and Xie, Shengli},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+  year={2018},
+  publisher={IEEE}
+}
+</pre></div>
 
 <li >
 <p>
 <b>Sparse gene coexpression network analysis reveals EIF3J-AS1 as a prognostic marker for breast cancer</b><br>
 X. Chen, <b>Z.</b> <b>Yang</b>, C Yang, K Xie, S Xie<br>
-<i>Complexity</i>,
+<i>Complexity</i>,(中科院-2区,JCR-1,IF:2.69),
  vol. 2018, pp. 12,
  2018<br>
+<a href="javascript:toggleBibtex('chen2018sparse')" class="textlink">[bibtex]</a>
 <a href="https://www.hindawi.com/journals/complexity/2018/1656273/abs/" class="textlink" target="_blank">[paper]</a>
 </p>
+
+<div id="bib_chen2018sparse" class="bibtex noshow">
+<pre>
+@article{chen2018sparse,
+  title={Sparse Gene Coexpression Network Analysis Reveals EIF3J-AS1 as a Prognostic Marker for Breast Cancer},
+  author={Chen, Xin and Yang, Zuyuan and Yang, Chao and Xie, Kan and Sun, Weijun and Xie, Shengli},
+  journal={Complexity},
+  volume={2018},
+  year={2018},
+  publisher={Hindawi}
+}
+</pre></div>
 
 <li >
 <p>
@@ -139,11 +190,25 @@ minimization for analysis dictionary learning and convergence
 analysis</b><br>
 Z. Li, S. Ding, W. Chen, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>IEEE Trans. Emerging Topics in Computational
-Intelligence</i>,
+Intelligence</i>,(中科院-2区,JCR-1,IF:4.36),
  vol. 2, no. 6, pp. 439-449, 2019<br>
+<a href="javascript:toggleBibtex('li2018proximal')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8306279" class="textlink" target="_blank">[paper]</a>
 </p>
 
+<div id="bib_li2018proximal" class="bibtex noshow">
+<pre>
+@article{li2018proximal,
+  title={Proximal alternating minimization for analysis dictionary learning and convergence analysis},
+  author={Li, Zhenni and Ding, Shuxue and Chen, Wuhui and Yang, Zuyuan and Xie, Shengli},
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
+  volume={2},
+  number={6},
+  pages={439--449},
+  year={2018},
+  publisher={IEEE}
+}
+</pre></div>
 
 <li >
 <p>
@@ -151,20 +216,48 @@ Intelligence</i>,
 analysis dictionary learning with an L1/2-norm regularizer</b><br>
 Z. Li, S. Ding, Y. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <i>Neural
-Networks</i>,
+Networks</i>,(中科院-1区,JCR-1,IF:9.86),
  vol. 98, pp. 212-222, 2017<br>
+<a href="javascript:toggleBibtex('li2018manifold')" class="textlink">[bibtex]</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S0893608017302782" class="textlink" target="_blank">[paper]</a>
 </p>
+
+<div id="bib_li2018manifold" class="bibtex noshow">
+<pre>
+@article{li2018manifold,
+  title={Manifold optimization-based analysis dictionary learning with an ℓ1/ 2-norm regularizer},
+  author={Li, Zhenni and Ding, Shuxue and Li, Yujie and Yang, Zuyuan and Xie, Shengli and Chen, Wuhui},
+  journal={Neural Networks},
+  volume={98},
+  pages={212--222},
+  year={2018},
+  publisher={Elsevier}
+}
+</pre></div>
 
 <li >
 <p>
 <b>A novel regularized concept
 factorization for document clustering</b><br>
 W. Yan, B. Zhang, S. Ma, <b>Z.</b> <b>Yang</b><br>
-<i>Knowledge-based Systems</i>,
+<i>Knowledge-based Systems</i>,(中科院-2区,JCR-1,IF:7.01),
 vol. 135, pp. 147-158, 2017<br>
+<a href="javascript:toggleBibtex('yan2017novel')" class="textlink">[bibtex]</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S0950705117303672" class="textlink" target="_blank">[paper]</a>
 </p>
+
+<div id="bib_yan2017novel" class="bibtex noshow">
+<pre>
+@article{yan2017novel,
+  title={A novel regularized concept factorization for document clustering},
+  author={Yan, Wei and Zhang, Bob and Ma, Sihan and Yang, Zuyuan},
+  journal={Knowledge-Based Systems},
+  volume={135},
+  pages={147--158},
+  year={2017},
+  publisher={Elsevier}
+}
+</pre></div>
 
 <li >
 <p>
@@ -172,52 +265,126 @@ vol. 135, pp. 147-158, 2017<br>
 nonnegative matrix factorization</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, K. Xie, Y. Lai<br>
 <i>IEEE Trans. Neural
-Networks and Learning Systems</i>,
+Networks and Learning Systems</i>,(中科院-1区,JCR-1,IF:12.16),
  vol. 28, no. 4, pp. 948-960, 2017<br>
+<a href="javascript:toggleBibtex('yang2016adaptive')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/7394180" class="textlink" target="_blank">[paper]</a> 
 <a href="https://github.com/zuyuanyang/AnsNMF" class="textlink" target="_blank">[code]</a>
 </p>
+
+<div id="bib_yang2016adaptive" class="bibtex noshow">
+<pre>
+@article{yang2016adaptive,
+  title={Adaptive method for nonsmooth nonnegative matrix factorization},
+  author={Yang, Zuyuan and Xiang, Yong and Xie, Kan and Lai, Yue},
+  journal={IEEE transactions on neural networks and learning systems},
+  volume={28},
+  number={4},
+  pages={948--960},
+  year={2016},
+  publisher={IEEE}
+}
+</pre></div>
 
 <li >
 <p>
 <b>A fast non-smooth
 nonnegative matrix factorization for learning sparse representation</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Zhang, W. Yan, Y. Xiang, S. Xie<br>
-<i>IEEE Access</i>,
+<i>IEEE Access</i>,(中科院-2区,JCR-1,IF:4.96),
  vol. 4, pp. 5161-5168, 2016<br>
+<a href="javascript:toggleBibtex('yang2016fast')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/7559804" class="textlink" target="_blank">[paper]</a>
 </p>
+  
+<div id="bib_yang2016fast" class="bibtex noshow">
+<pre>
+@article{yang2016fast,
+  title={A fast non-smooth nonnegative matrix factorization for learning sparse representation},
+  author={Yang, Zuyuan and Zhang, Yu and Yan, Wei and Xiang, Yong and Xie, Shengli},
+  journal={IEEE access},
+  volume={4},
+  pages={5161--5168},
+  year={2016},
+  publisher={IEEE}
+}
+</pre></div>  
   
 <li >
 <p>
 <b>A convex geometry-based
 blind source separation method for separating nonnegative sources</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, Y. Rong, and K. Xie<br>
-<i>IEEE Trans. Neural Networks and Learning Systems</i>,
+<i>IEEE Trans. Neural Networks and Learning Systems</i>,(中科院-1区,JCR-1,IF:12.16),
  vol. 26, no. 8, pp. 1635-1644, 2015<br>
+<a href="javascript:toggleBibtex('yang2014convex')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/6893008" class="textlink" target="_blank">[paper]</a>
 </p>
-  
+
+<div id="bib_yang2014convex" class="bibtex noshow">
+<pre>
+@article{yang2014convex,
+  title={A convex geometry-based blind source separation method for separating nonnegative sources},
+  author={Yang, Zuyuan and Xiang, Yong and Rong, Yue and Xie, Kan},
+  journal={IEEE transactions on neural networks and learning systems},
+  volume={26},
+  number={8},
+  pages={1635--1644},
+  year={2014},
+  publisher={IEEE}
+}
+</pre></div>
+
 <li >
 <p>
 <b>On the security of compressed sensing
 based signal cryptosystem</b><br>
 <b>Z.</b> <b>Yang</b>, W. Yan, and Y. Xiang<br>
 <i>IEEE Trans.  Emerging Topics in
-Computing</i>,
+Computing</i>,(中科院-2区,JCR-1,IF:4.36),
  vol. 3, no. 3, pp. 363-371, 2015<br>
+<a href="javascript:toggleBibtex('yang2014security')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/6975126" class="textlink" target="_blank">[paper]</a>
 </p>  
+
+<div id="bib_yang2014security" class="bibtex noshow">
+<pre>
+@article{yang2014security,
+  title={On the security of compressed sensing-based signal cryptosystem},
+  author={Yang, Zuyuan and Yan, Wei and Xiang, Yong},
+  journal={IEEE Transactions on Emerging Topics in Computing},
+  volume={3},
+  number={3},
+  pages={363--371},
+  year={2014},
+  publisher={IEEE}
+}
+</pre></div>
 
 <li >
 <p>
 <b>Projection-pursuit-based method for blind separation of nonnegative
 sources</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, Y. Rong, and S. Xie<br>
-<i>IEEE Trans. Neural Networks and Learning Systems</i>,
+<i>IEEE Trans. Neural Networks and Learning Systems</i>,(中科院-1区,JCR-1,IF:12.16),
  vol. 24, no. 1, pp. 47-57, 2013<br>
+<a href="javascript:toggleBibtex('yang2012projection')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/6365335" class="textlink" target="_blank">[paper]</a>
 </p>
+
+<div id="bib_yang2012projection" class="bibtex noshow">
+<pre>
+@article{yang2012projection,
+  title={Projection-pursuit-based method for blind separation of nonnegative sources},
+  author={Yang, Zuyuan and Xiang, Yong and Rong, Yue and Xie, Shengli},
+  journal={IEEE transactions on neural networks and learning systems},
+  volume={24},
+  number={1},
+  pages={47--57},
+  year={2012},
+  publisher={IEEE}
+}
+</pre></div>
 
 <li >
 <p>
@@ -225,10 +392,25 @@ sources</b><br>
 source separation by sparse component analysis based on determinant
 measure</b><br>
 <b>Z.</b> <b>Yang</b>, Y. Xiang, S. Xie, and S. Ding<br>
-<i>IEEE Trans. Neural Networks and Learning Systems</i>,
+<i>IEEE Trans. Neural Networks and Learning Systems</i>,(中科院-1区,JCR-1,IF:12.16),
  vol. 23, no. 10, pp. 1601-1610, 2012<br>
+<a href="javascript:toggleBibtex('yang2012nonnegative')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6263307" class="textlink" target="_blank">[paper]</a>
 </p>
+
+<div id="bib_yang2012nonnegative" class="bibtex noshow">
+<pre>
+@article{yang2012nonnegative,
+  title={Nonnegative blind source separation by sparse component analysis based on determinant measure},
+  author={Yang, Zuyuan and Xiang, Yong and Xie, Shengli and Ding, Shuxue and Rong, Yue},
+  journal={IEEE transactions on neural networks and learning systems},
+  volume={23},
+  number={10},
+  pages={1601--1610},
+  year={2012},
+  publisher={IEEE}
+}
+</pre></div>
 
 <li >
 <p>
@@ -236,10 +418,25 @@ measure</b><br>
 factorization</b><br>
 <b>Z.</b> <b>Yang</b>, G. Zhou, S. Xie, S. Ding, J. Yang, and J.
 Zhang<br>
-<i>IEEE Trans. Image Processing</i>,
+<i>IEEE Trans. Image Processing</i>,(中科院-2区,JCR-1,IF:9.63),
  vol. 20, no. 4, pp. 1112-1125, 2011<br>
+<a href="javascript:toggleBibtex('yang2010blind')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/5593218" class="textlink" target="_blank">[paper]</a>
 </p>
+   
+<div id="bib_yang2010blind" class="bibtex noshow">
+<pre>
+@article{yang2010blind,
+  title={Blind spectral unmixing based on sparse nonnegative matrix factorization},
+  author={Yang, Zuyuan and Zhou, Guoxu and Xie, Shengli and Ding, Shuxue and Yang, Jun-Mei and Zhang, Jun},
+  journal={IEEE Transactions on Image Processing},
+  volume={20},
+  number={4},
+  pages={1112--1125},
+  year={2010},
+  publisher={IEEE}
+}
+</pre></div>
 
 <li >
 <p>
@@ -247,10 +444,25 @@ Zhang<br>
 nonnegative blind source separation</b><br>
 <b>Z.</b> <b>Yang</b>, Y, Xiang, S. Xie<br>
 <i>Computers And Mathematics with
-Applications</i>,
+Applications</i>,(中科院-3区,JCR-1,IF:2.64),
  vol. 62, no. 11, pp. 3997-4006, 2011<br>
+<a href="javascript:toggleBibtex('yang2011maximum')" class="textlink">[bibtex]</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S0898122111007589" class="textlink" target="_blank">[paper]</a>
 </p>
+
+<div id="bib_yang2011maximum" class="bibtex noshow">
+<pre>
+@article{yang2011maximum,
+  title={Maximum contrast analysis for nonnegative blind source separation},
+  author={Yang, Zuyuan and Xiang, Yong and Xie, Shengli},
+  journal={Computers \& Mathematics with Applications},
+  volume={62},
+  number={11},
+  pages={3997--4006},
+  year={2011},
+  publisher={Elsevier}
+}
+</pre></div>
 
 <li >
 <p>
@@ -258,11 +470,24 @@ Applications</i>,
 fully nonnegative constrained iterative volume maximization</b><br>
 <b>Z.</b> <b>Yang</b>, S, Ding, S. Xie<br>
 <i>IEEE
-Signal Processing Letters</i>,
+Signal Processing Letters</i>,(中科院-3区,JCR-1,IF:4.37),
  vol. 17, no. 9, pp. 799-802, 2010<br>
+<a href="javascript:toggleBibtex('yang2010blind')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/5498924" class="textlink" target="_blank">[paper]</a>
 </p>
   
-  
+<div id="bib_yang2010blind" class="bibtex noshow">
+<pre>
+@article{yang2010blind,
+  title={Blind source separation by fully nonnegative constrained iterative volume maximization},
+  author={Yang, Zuyuan and Ding, Shuxue and Xie, Shengli},
+  journal={IEEE Signal Processing Letters},
+  volume={17},
+  number={9},
+  pages={799--802},
+  year={2010},
+  publisher={IEEE}
+}
+</pre></div>  
 
 
