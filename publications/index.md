@@ -7,18 +7,58 @@ share: false
 
 You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0KBHhUAAAAJ&hl=zh-CN" target="_blank" style="text-decoration:underline;">Google Scholar profile</a> and my <a href="https://www.researchgate.net/profile/Zuyuan_Yang2" target="_blank" style="text-decoration:underline;">Researchgate profile</a>.
 
+/*************************************
+   The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+  margin-right: 0%;
+  margin-top: 1.2em;
+  margin-bottom: 1.3em;
+  border: 1px solid silver;
+  padding: 0.3em 0.5em;
+  background: #eeeeee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; }
+</style>
+
+<script>
+function toggleBibtex(articleid) {
+  var bib = document.getElementById('bib_'+articleid);
+  if (bib) {
+    if(bib.className.indexOf('bibtex') != -1) {
+    bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+    }
+  } else {
+    return;
+  }
+}
+</script>
+
+
 <ol class="biblist">
 <li >
 <p>
 <b>Under-determined convolutive blind source separation combining density-based clustering and sparse reconstruction in time-frequency domain</b><br>
 J. Yang, Y. Guo, <b>Z.</b> <b>Yang</b>, S. Xie<br>
-<i>IEEE Trans. Circuits and Systems I: Regular Papers</i>,
+<i>IEEE Trans. Circuits and Systems I: Regular Papers</i>,(中科院-3区,JCR-1,IF:3.97),
  DOI: 10.1109/TCSI.2019.2908394,
  2019<br>
+ <a href="javascript:toggleBibtex('yang2019under')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8701504" class="textlink" target="_blank">[paper]</a>
 <a href="https://github.com/zuyuanyang/Basic-version-of-TCS" class="textlink" target="_blank">[code]</a>
 </p>
-
+<div id="bib_yang2019under" class="bibtex noshow">
+ </pre>
+@article{yang2019under,
+  title={Under-Determined Convolutive Blind Source Separation Combining Density-Based Clustering and Sparse Reconstruction in Time-Frequency Domain},
+  author={Yang, Junjie and Guo, Yi and Yang, Zuyuan and Xie, Shengli},
+  journal={IEEE Transactions on Circuits and Systems I: Regular Papers},
+  year={2019},
+  publisher={IEEE}
+}
+</pre></div>
+</li> 
  
 <li >
 <p>
