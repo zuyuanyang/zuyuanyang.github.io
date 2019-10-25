@@ -7,6 +7,14 @@ share: false
 
 You can also browse my <a href="https://scholar.google.com.hk/citations?user=s0KBHhUAAAAJ&hl=zh-CN" target="_blank" style="text-decoration:underline;">Google Scholar profile</a> and my <a href="https://www.researchgate.net/profile/Zuyuan_Yang2" target="_blank" style="text-decoration:underline;">Researchgate profile</a>.
 
+<style>
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
 /*************************************
    The box that contain BibTeX code
  *************************************/
