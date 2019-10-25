@@ -56,10 +56,11 @@ J. Yang, Y. Guo, <b>Z.</b> <b>Yang</b>, S. Xie<br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8701504" class="textlink" target="_blank">[paper]</a>
 <a href="https://github.com/zuyuanyang/Basic-version-of-TCS" class="textlink" target="_blank">[code]</a>
 </p>
+   
 <div id="bib_yang2019under" class="bibtex noshow">
- </pre>
+ <pre>
 @article{yang2019under,
-  title={Under-Determined Convolutive Blind Source Separation Combining Density-Based Clustering and Sparse Reconstruction in Time-Frequency Domain},
+title={Under-Determined Convolutive Blind Source Separation Combining Density-Based Clustering and Sparse Reconstruction in Time-Frequency Domain},
   author={Yang, Junjie and Guo, Yi and Yang, Zuyuan and Xie, Shengli},
   journal={IEEE Transactions on Circuits and Systems I: Regular Papers},
   year={2019},
