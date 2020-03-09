@@ -14,7 +14,7 @@ There may be some layout problems when you use your mobile phone to view this pa
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       <img src="../images/weiyan.jpg">  
+       <img src="../images/junjie.jpg">   
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,23 +23,23 @@ There may be some layout problems when you use your mobile phone to view this pa
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       Wei Yan(颜伟)
+       Junjie Yang (杨俊杰)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <br>
        lizhenni2012@gmail.com
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      helloyanwei@163.com 
+      yangjunjie0807@163.com
  </td></tr></table></div>  
  
 <h4> Post-Doctor </h4>  
  <div><table><tr><td>
-  <img src="../images/junjie.jpg">  
+  <img src="../images/weiyan.jpg">  
 <br>
-      Junjie Yang (杨俊杰)
+      Wei Yan(颜伟)
  <br>
-      yangjunjie0807@163.com
+      helloyanwei@163.com 
  </td></tr></table></div>  
  
 <h4> Ph.D Students </h4> 
