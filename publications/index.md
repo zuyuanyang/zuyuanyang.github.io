@@ -45,6 +45,30 @@ function toggleBibtex(articleid) {
 
 
 <ol class="biblist">
+   <li>
+      <p>
+         <b>Multi-view clustering by non-negative matrix factorization with co-orthogonal constraints</b><br>
+         N. Liang, <b>Z.</b> <b>Yang</b>, Z. Li, W. Sun and S. Xie<br>
+         <i>Knowledge-Based Systems</i>,(中科院-2区,JCR-1,IF:5.101),
+         DOI:10.1016/j.knosys.2020.105582<br>
+         <a href="javascript:toggleBibtex('liang2020multi')" class="textlink">[bibtex]</a>
+         <a href="https://doi.org/10.1016/j.knosys.2020.105582" class="textlink" target="_blank">[paper]</a>
+      </p>
+      <div id="bib_liang2020multi" class="bibtex noshow">
+         <pre>
+         @article{liang2020multi,
+         title={Multi-view clustering by non-negative matrix factorization with co-orthogonal constraints},
+         author={Liang, Naiyao and Yang, Zuyuan and Li, Zhenni and Sun, Weijun and Xie, Shengli},
+         journal={Knowledge-Based Systems},
+         pages={105582},
+         year={2020},
+         publisher={Elsevier}
+         }
+         </pre>
+      </div>
+   </li>
+   
+   
 <li >
 <p>
 <b>Under-determined convolutive blind source separation combining density-based clustering and sparse reconstruction in time-frequency domain</b><br>
@@ -240,7 +264,7 @@ Networks</i>,(中科院-1区,JCR-1,IF:9.86),
 <b>A novel regularized concept
 factorization for document clustering</b><br>
 W. Yan, B. Zhang, S. Ma, <b>Z.</b> <b>Yang</b><br>
-<i>Knowledge-based Systems</i>,(中科院-2区,JCR-1,IF:7.01),
+<i>Knowledge-based Systems</i>,(中科院-2区,JCR-1,IF:5.101),
 vol. 135, pp. 147-158, 2017<br>
 <a href="javascript:toggleBibtex('yan2017novel')" class="textlink">[bibtex]</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S0950705117303672" class="textlink" target="_blank">[paper]</a>
