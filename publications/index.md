@@ -50,9 +50,9 @@ function toggleBibtex(articleid) {
          <b>Multi-view clustering by non-negative matrix factorization with co-orthogonal constraints</b><br>
          N. Liang, <b>Z.</b> <b>Yang</b>, Z. Li, W. Sun and S. Xie<br>
          <i>Knowledge-Based Systems</i>,(中科院-2区,JCR-1,IF:5.101),
-         DOI:10.1016/j.knosys.2020.105582<br>
+         DOI:10.1016/j.knosys.2020.105582,2020<br>
          <a href="javascript:toggleBibtex('liang2020multi')" class="textlink">[bibtex]</a>
-         <a href="https://doi.org/10.1016/j.knosys.2020.105582" class="textlink" target="_blank">[paper]</a>
+         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705120300642" class="textlink" target="_blank">[paper]</a>
       </p>
       <div id="bib_liang2020multi" class="bibtex noshow">
          <pre>
@@ -67,7 +67,54 @@ function toggleBibtex(articleid) {
          </pre>
       </div>
    </li>
+
+   <li>
+      <p>
+         <b>Semi-supervised multi-view clustering with Graph-regularized Partially Shared Non-negative Matrix Factorization</b><br>
+         N. Liang, <b>Z.</b> <b>Yang</b>, Z. Li, S. Xie and C. Su<br>
+         <i>Knowledge-Based Systems</i>,(中科院-2区,JCR-1,IF:5.101),
+         DOI:10.1016/j.knosys.2019.105185,2019<br>
+         <a href="javascript:toggleBibtex('liang2019semi')" class="textlink">[bibtex]</a>
+         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705119305271" class="textlink" target="_blank">[paper]</a>
+      </p>
+      <div id="bib_liang2019semi" class="bibtex noshow">
+         <pre>
+         @article{liang2019semi,
+         title={Semi-supervised multi-view clustering with Graph-regularized Partially Shared Non-negative Matrix Factorization},
+         author={Liang, Naiyao and Yang, Zuyuan and Li, Zhenni and Xie, Shengli and Su, Chun-Yi},
+         journal={Knowledge-Based Systems},
+         pages={105185},
+         year={2019},
+         publisher={Elsevier}
+         }
+         </pre>
+      </div>
+   </li>  
    
+   <li>
+      <p>
+         <b>Heart sound classification using the SNMFNet classifier</b><br>
+         W. Han, S. Xie, <b>Z.</b> <b>Yang</b>, S. Zhou and H. Huang<br>
+         <i>Physiological measurement</i>,(中科院-4区,JCR-3,IF:2.246),
+         DOI:10.1088/1361-6579/ab45c8,2019<br>
+         <a href="javascript:toggleBibtex('han2019heart')" class="textlink">[bibtex]</a>
+         <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ab45c8" class="textlink" target="_blank">[paper]</a>
+      </p>
+      <div id="bib_han2019heart" class="bibtex noshow">
+         <pre>
+@article{han2019heart,
+  title={Heart sound classification using the SNMFNet classifier},
+  author={Han, Wei and Xie, Shengli and Yang, Zuyuan and Zhou, Songbin and Huang, Haonan},
+  journal={Physiological measurement},
+  volume={40},
+  number={10},
+  pages={105003},
+  year={2019},
+  publisher={IOP Publishing}
+}
+         </pre>
+      </div>
+   </li>     
    
 <li >
 <p>
@@ -138,6 +185,32 @@ Z. Li, <b>Z.</b> <b>Yang</b>, S. Xie<br>
   publisher={IEEE}
 }
 </pre></div>
+
+<li>
+      <p>
+         <b>Supervised threshold-based heart sound classification algorithm</b><br>
+         W. Han, <b>Z.</b> <b>Yang</b>, J. Lu and S. Xie<br>
+         <i>Physiological measurement</i>,(中科院-4区,JCR-3,IF:2.246),
+         DOI:10.1088/1361-6579/aae7fa,2018<br>
+         <a href="javascript:toggleBibtex('han2018supervised')" class="textlink">[bibtex]</a>
+         <a href="https://dx.doi.org/10.1088%2F1361-6579%2Faae7fa" class="textlink" target="_blank">[paper]</a>
+      </p>
+      <div id="bib_han2018supervised" class="bibtex noshow">
+         <pre>
+@article{han2018supervised,
+  title={Supervised threshold-based heart sound classification algorithm},
+  author={Han, Wei and Yang, Zuyuan and Lu, Jun and Xie, Shengli},
+  journal={Physiological measurement},
+  volume={39},
+  number={11},
+  pages={115011},
+  year={2018},
+  publisher={IOP Publishing}
+}
+         </pre>
+      </div>
+   </li>   
+
 
 <li >
 <p>
