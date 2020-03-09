@@ -72,7 +72,13 @@ There may be some layout problems when you use your mobile phone to view this pa
  &nbsp;&nbsp;&nbsp;&nbsp;
  307261277@qq.com 
  </td></tr></table></div>  
-
+ <div><table><tr><td>
+      <img src="../images/naiyao.jpg">  	
+ <br>
+       Naiyao Liang(梁乃耀)
+ <br>
+ naiyaogdut@aliyun.com
+ </td></tr></table></div>
 <h4> Post Graduates </h4>  
 
  <div><table><tr><td>
@@ -94,7 +100,7 @@ There may be some layout problems when you use your mobile phone to view this pa
  </td></tr></table></div>
  
  <div><table><tr><td>
-        <img src="../images/naiyao.jpg">      	
+        <img src="../images/weiliang.png">	    	
        	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -103,7 +109,7 @@ There may be some layout problems when you use your mobile phone to view this pa
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="../images/haonan.jpg"> <br> 	
-      	 Naiyao Liang(梁乃耀)
+      	 Weiliang Zhong (钟维良)
       	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         Hao Yang(杨浩)   
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -149,13 +155,6 @@ There may be some layout problems when you use your mobile phone to view this pa
         &nbsp;&nbsp;&nbsp;
       	 &nbsp;&nbsp;&nbsp;
        	Haiqin Chen (陈海钦)
- </td></tr></table></div>
- 
- <div><table><tr><td>
-       <img src="../images/weiliang.png">	
- <br>
-       Weiliang Zhong (钟维良)
-    
  </td></tr></table></div>
  
  <h4>Undergraduates </h4> 
