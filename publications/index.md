@@ -53,6 +53,7 @@ function toggleBibtex(articleid) {
          DOI:10.1016/j.knosys.2020.105582,2020<br>
          <a href="javascript:toggleBibtex('liang2020multi')" class="textlink">[bibtex]</a>
          <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705120300642" class="textlink" target="_blank">[paper]</a>
+         <a href="https://github.com/liangnaiyao/NMFCC" class="textlink" target="_blank">[code]</a>
       </p>
       <div id="bib_liang2020multi" class="bibtex noshow">
          <pre>
@@ -76,6 +77,7 @@ function toggleBibtex(articleid) {
          DOI:10.1016/j.knosys.2019.105185,2019<br>
          <a href="javascript:toggleBibtex('liang2019semi')" class="textlink">[bibtex]</a>
          <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705119305271" class="textlink" target="_blank">[paper]</a>
+         <a href="https://github.com/liangnaiyao/GPSNMF" class="textlink" target="_blank">[code]</a>
       </p>
       <div id="bib_liang2019semi" class="bibtex noshow">
          <pre>
