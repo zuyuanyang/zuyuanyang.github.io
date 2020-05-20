@@ -45,6 +45,29 @@ function toggleBibtex(articleid) {
 
 
 <ol class="biblist">
+   
+      <li>
+      <p>
+         <b>Uniform Distribution Non-Negative Matrix Factorization for Multiview Clustering</b><br>
+         <b>Z.</b> <b>Yang</b>, N. Liang, W. Yan, Z. Li and S. Xie<br>
+         <i>IEEE Trans. cybernetics</i>,(中科院-1区,JCR-1,IF:10.387),
+         DOI:10.1109/TCYB.2020.2984552<br>
+         <a href="javascript:toggleBibtex('yang2020uniform')" class="textlink">[bibtex]</a>
+         <a href="https://ieeexplore.ieee.org/document/9086122" class="textlink" target="_blank">[paper]</a>
+      </p>
+      <div id="bib_yang2020uniform" class="bibtex noshow">
+         <pre>
+         @article{yang2020uniform,
+         title={Uniform Distribution Non-Negative Matrix Factorization for Multiview Clustering},
+         author={Yang, Zuyuan and Liang, Naiyao and Yan, Wei and Li, Zhenni and Xie, Shengli},
+         journal={IEEE Transactions on Cybernetics},
+         year={2020},
+         publisher={IEEE}
+         }
+         </pre>
+      </div>
+   </li>
+   
    <li>
       <p>
          <b>Multi-view clustering by non-negative matrix factorization with co-orthogonal constraints</b><br>
